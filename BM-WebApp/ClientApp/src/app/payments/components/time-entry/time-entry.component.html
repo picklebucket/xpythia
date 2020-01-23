@@ -1,0 +1,64 @@
+<section class="content" style="margin:0px 0px 15px 0px">
+  <app-header></app-header>
+  <div class="container-fluid">
+    <!-- Basic Examples -->
+    <div class="row clearfix">
+      <div class="col-lg-12">
+        <div class="card">
+          <div class="header">
+            <h2><strong>Time entry</strong> </h2>
+            <ul class="header-dropdown">
+              <li class="dropdown">
+                <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> <i class="zmdi zmdi-more"></i> </a>
+                <ul class="dropdown-menu dropdown-menu-right slideUp float-right">
+                  <li><a href="javascript:void(0);">Action</a></li>
+                  <li><a href="javascript:void(0);">Another action</a></li>
+                  <li><a href="javascript:void(0);">Something else</a></li>
+                </ul>
+              </li>
+              <li class="remove">
+                <a role="button" class="boxs-close"><i class="zmdi zmdi-close"></i></a>
+              </li>
+            </ul>
+          </div>
+          <div class="body">
+            <div class="table-responsive">
+              <div id="table1_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer">
+                <div class="row">
+                  <div class="col-sm-12 col-md-12">
+                    <div id="table1_filter" class="dataTables_filter pull-left" >
+                      <label>Enter your time:<input type="search" style="width: 600px;" class="form-control form-control-sm" placeholder="" aria-controls="table1"></label>
+                      <button type="submit" class="btn btn-primary">Enter</button>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-12">
+                    <table class="table table-bordered table-striped table-hover js-basic-example dataTable no-footer" id="table1" data-page-length="20" role="grid" aria-describedby="table1_info">
+                      <thead>
+                        <tr role="row">
+                          <th class="sorting_asc" tabindex="0" aria-controls="table1" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Date: activate to sort column descending" style="width: 172px;">Date</th>
+                          <th class="sorting" tabindex="0" aria-controls="table1" rowspan="1" colspan="1" aria-label="Project: activate to sort column ascending" style="width: 290px;">Project</th>
+                          <th class="sorting" tabindex="0" aria-controls="table1" rowspan="1" colspan="1" aria-label="Description: activate to sort column ascending" style="width: 286px;">Description</th>
+                          <th class="sorting" tabindex="0" aria-controls="table1" rowspan="1" colspan="1" aria-label="Hours: activate to sort column ascending" style="width: 152px;">Hours</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr role="row" class="odd" *ngFor="let timeEntry of timeEntries">
+                          <td>{{timeEntry.date}}</td>
+                          <td>{{timeEntry.project}}</td>
+                          <td>{{timeEntry.description}}</td>
+                          <td>{{timeEntry.hours}}</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div><div class="row"><div class="col-sm-12 col-md-5"><div class="dataTables_info" id="table1_info" role="status" aria-live="polite">Showing 1 to 20 of 20 entries</div></div><div class="col-sm-12 col-md-7"><div class="dataTables_paginate paging_simple_numbers" id="table1_paginate"><ul class="pagination"><li class="paginate_button page-item previous disabled" id="table1_previous"><a href="#" aria-controls="table1" data-dt-idx="0" tabindex="0" class="page-link">Previous</a></li><li class="paginate_button page-item active"><a href="#" aria-controls="table1" data-dt-idx="1" tabindex="0" class="page-link">1</a></li><li class="paginate_button page-item next disabled" id="table1_next"><a href="#" aria-controls="table1" data-dt-idx="2" tabindex="0" class="page-link">Next</a></li></ul></div></div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
