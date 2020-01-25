@@ -1,7 +1,11 @@
+import { InvoiceStatus } from '../payments/invoice.enum';
+
 export class Invoice {
-  id: string;
+  id: number;
   date: string;
   project: string;
+  client: string;
   description: string;
-  hours: number;
+  hours: string;
+  status: InvoiceStatus; 
 }

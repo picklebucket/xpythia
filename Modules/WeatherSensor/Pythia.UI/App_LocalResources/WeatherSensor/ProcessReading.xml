@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pipelines>
+  <Pipeline name="ProcessReading">
+    <processor name="" value="Pythia.Service.Pipelines.Process.WeatherSensor.InitializePipeline, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.WeatherSensor.SaveDataToDatabase, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.WeatherSensor.Finalize, Pythia.Service"></processor>
+  </Pipeline>
+  <connection name="weathersensor">
+    <conn name="" connectionString="mongodb://localhost/WeatherSensor"/>
+  </connection>
+</Pipelines>
+

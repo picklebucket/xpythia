@@ -5,7 +5,6 @@ import { Routes, RouterModule } from '@angular/router';
 import { ProjectListActiveComponent } from '../shared/project-list-active/project-list-active.component';
 import { ProjectListComponent } from '../shared/project-list/project-list.component';
 import { HeaderComponent } from '../shared/header/header.component';
-import { BreadcrumbComponent } from './breadcrumbs/breadcrumb.component';
 
 
 

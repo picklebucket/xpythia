@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pipelines>
+  
+  <Pipeline name="GETWEEKLYPROFITGROSS">
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitialize, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetDataByDate, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetWeeklyProfitGross, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempFinalize, BM.Service"></processor>
+  </Pipeline>
+  <Pipeline name="GETWEEKLYPROFITNET">
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitialize, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetDataByDate, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetWeeklyProfitNet, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempFinalize, BM.Service"></processor>
+  </Pipeline>
+  <Pipeline name="GETWEEKLYREPORTBYCLIENT">
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitialize, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetDataByDate, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetWeeklyReportByClient, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempFinalize, BM.Service"></processor>
+  </Pipeline>
+  <Pipeline name="GETWEEKLYREPORTBYRESOURCE">
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitialize, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetDataByDate, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetWeeklyReportByResource, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempFinalize, BM.Service"></processor>
+  </Pipeline>
+  <Pipeline name="SETWEEK">
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitializeResourcesService, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitializeClientsService, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitializePersonnelService, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitializeExpensesService, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitializeProjectsService, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempInitialize, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.GetAllCurrentResources, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.SetHourRecordByValidResource, BM.Service"></processor>
+    <processor name="" value="BM.Service.Pipelines.Process.BucketMagic.TempFinalize, BM.Service"></processor>
+  </Pipeline>
+  <connection name="bucketmagic_CI">
+    <conn name="" connectionString="mongodb://23.96.93.91/BucketMagic_CI"/>
+    <!--<conn name="" connectionString="mongodb://localhost/BucketMagic_CI"/>-->
+  </connection>
+</Pipelines>
+

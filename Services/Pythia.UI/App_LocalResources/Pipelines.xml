@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pipelines>
+  <Pipeline name="UploadCsv">
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.InitializePipeline, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.ConvertFileToObj, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.CheckFile, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.LoadAddresses, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.LoadPlans, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.LoadProducts, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.LoadProductCosts, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.LoadProductDescription, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.LoadServices, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.LoadTypes, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.UploadCSV.ProcessRelationships, Pythia.Service"></processor>
+      </Pipeline>
+</Pipelines>
+

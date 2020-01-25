@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pipelines>
+  
+  <Pipeline name="GETWEEKLYPROFITGROSS">
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempInitialize, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetDataByDate, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetWeeklyProfitGross, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempFinalize, Pythia.Service"></processor>
+  </Pipeline>
+  <Pipeline name="GETWEEKLYPROFITNET">
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempInitialize, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetDataByDate, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetWeeklyProfitNet, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempFinalize, Pythia.Service"></processor>
+  </Pipeline>
+  <Pipeline name="GETWEEKLYREPORTBYCLIENT">
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempInitialize, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetDataByDate, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetWeeklyReportByClient, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempFinalize, Pythia.Service"></processor>
+  </Pipeline>
+  <Pipeline name="GETWEEKLYREPORTBYRESOURCE">
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempInitialize, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetDataByDate, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetWeeklyReportByResource, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempFinalize, Pythia.Service"></processor>
+  </Pipeline>
+  <Pipeline name="SETWEEK">
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempInitializeResourcesService, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempInitialize, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.GetAllCurrentResources, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.SetHourRecordByValidResource, Pythia.Service"></processor>
+    <processor name="" value="Pythia.Service.Pipelines.Process.BucketMagic.TempFinalize, Pythia.Service"></processor>
+  </Pipeline>
+  <connection name="bucketmagic_CI">
+    <conn name="" connectionString="mongodb://localhost/BucketMagic_CI"/>
+  </connection>
+</Pipelines>
+

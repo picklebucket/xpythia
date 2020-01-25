@@ -6,4 +6,4 @@ var TimeEntry = /** @class */ (function () {
     return TimeEntry;
 }());
 exports.TimeEntry = TimeEntry;
-//# sourceMappingURL=timeEntry.js.map
+//# sourceMappingURL=TimeEntry.js.map

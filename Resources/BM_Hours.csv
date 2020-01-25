@@ -1,0 +1,5070 @@
+﻿Resource,Location,Hours,Date,Client,Pay Rate,Complete Charge
+Artem,BY,0,1/1/19,CMG,5,10
+Artem,BY,8,1/2/19,CMG,5,10
+Artem,BY,8,1/3/19,CMG,5,10
+Artem,BY,8,1/4/19,CMG,5,10
+Artem,BY,8,1/5/19,CMG,5,10
+Ilya,BY,0,1/1/19,CMG,5,10
+Ilya,BY,8,1/2/19,CMG,5,10
+Ilya,BY,8,1/3/19,CMG,5,10
+Ilya,BY,8,1/4/19,CMG,5,10
+Ilya,BY,8,1/5/19,CMG,5,10
+Profit,US,1,1/1/19,CMG,5,10
+Profit,US,1,1/2/19,CMG,5,10
+Profit,US,1,1/3/19,CMG,5,10
+Profit,US,1,1/4/19,CMG,5,10
+Profit,US,1,1/5/19,CMG,5,10
+Artem,BY,0,1/7/19,CMG,5,10
+Artem,BY,8,1/8/19,CMG,5,10
+Artem,BY,8,1/9/19,CMG,5,10
+Artem,BY,8,1/10/19,CMG,5,10
+Artem,BY,8,1/11/19,CMG,5,10
+Artem,BY,0,1/12/19,CMG,5,10
+Artem,BY,0,1/13/19,CMG,5,10
+Ilya,BY,0,1/7/19,CMG,5,10
+Ilya,BY,8,1/8/19,CMG,5,10
+Ilya,BY,8,1/9/19,CMG,5,10
+Ilya,BY,8,1/10/19,CMG,5,10
+Ilya,BY,8,1/11/19,CMG,5,10
+Ilya,BY,0,1/12/19,CMG,5,10
+Ilya,BY,0,1/13/19,CMG,5,10
+Profit,US,1,1/7/19,CMG,5,10
+Profit,US,1,1/8/19,CMG,5,10
+Profit,US,1,1/9/19,CMG,5,10
+Profit,US,1,1/10/19,CMG,5,10
+Profit,US,1,1/11/19,CMG,5,10
+Profit,US,0,1/12/19,CMG,5,10
+Profit,US,0,1/13/19,CMG,5,10
+Artem,BY,8,1/14/19,CMG,5,10
+Artem,BY,8,1/15/19,CMG,5,10
+Artem,BY,8,1/16/19,CMG,5,10
+Artem,BY,8,1/17/19,CMG,5,10
+Artem,BY,8,1/18/19,CMG,5,10
+Artem,BY,0,1/19/19,CMG,5,10
+Artem,BY,0,1/20/19,CMG,5,10
+Ilya,BY,8,1/14/19,CMG,5,10
+Ilya,BY,8,1/15/19,CMG,5,10
+Ilya,BY,8,1/16/19,CMG,5,10
+Ilya,BY,8,1/17/19,CMG,5,10
+Ilya,BY,8,1/18/19,CMG,5,10
+Ilya,BY,0,1/19/19,CMG,5,10
+Ilya,BY,0,1/20/19,CMG,5,10
+Profit,US,1,1/14/19,CMG,5,10
+Profit,US,1,1/15/19,CMG,5,10
+Profit,US,1,1/16/19,CMG,5,10
+Profit,US,1,1/17/19,CMG,5,10
+Profit,US,1,1/18/19,CMG,5,10
+Profit,US,0,1/19/19,CMG,5,10
+Profit,US,0,1/20/19,CMG,5,10
+Artem,BY,8,1/21/19,CMG,5,10
+Artem,BY,8,1/22/19,CMG,5,10
+Artem,BY,8,1/23/19,CMG,5,10
+Artem,BY,8,1/24/19,CMG,5,10
+Artem,BY,8,1/25/19,CMG,5,10
+Artem,BY,0,1/26/19,CMG,5,10
+Artem,BY,0,1/27/19,CMG,5,10
+Ilya,BY,8,1/21/19,CMG,5,10
+Ilya,BY,8,1/22/19,CMG,5,10
+Ilya,BY,8,1/23/19,CMG,5,10
+Ilya,BY,8,1/24/19,CMG,5,10
+Ilya,BY,8,1/25/19,CMG,5,10
+Ilya,BY,0,1/26/19,CMG,5,10
+Ilya,BY,0,1/27/19,CMG,5,10
+Profit,US,1,1/21/19,CMG,5,10
+Profit,US,1,1/22/19,CMG,5,10
+Profit,US,1,1/23/19,CMG,5,10
+Profit,US,1,1/24/19,CMG,5,10
+Profit,US,1,1/25/19,CMG,5,10
+Profit,US,0,1/26/19,CMG,5,10
+Profit,US,0,1/27/19,CMG,5,10
+Artem,BY,8,1/28/19,CMG,5,10
+Artem,BY,8,1/29/19,CMG,5,10
+Artem,BY,8,1/30/19,CMG,5,10
+Artem,BY,8,1/31/19,CMG,5,10
+Artem,BY,8,2/1/19,CMG,5,10
+Artem,BY,0,2/2/19,CMG,5,10
+Artem,BY,0,2/3/19,CMG,5,10
+Ilya,BY,4,1/28/19,CMG,5,10
+Ilya,BY,4,1/29/19,CMG,5,10
+Ilya,BY,4,1/30/19,CMG,5,10
+Ilya,BY,3,1/31/19,CMG,5,10
+Ilya,BY,0,2/1/19,CMG,5,10
+Ilya,BY,0,2/2/19,CMG,5,10
+Ilya,BY,0,2/3/19,CMG,5,10
+Profit,BY,5,1/28/19,CMG,5,10
+Profit,BY,5,1/29/19,CMG,5,10
+Profit,BY,5,1/30/19,CMG,5,10
+Profit,BY,5,1/31/19,CMG,5,10
+Profit,BY,5,2/1/19,CMG,5,10
+Profit,BY,0,2/2/19,CMG,5,10
+Profit,BY,0,2/3/19,CMG,5,10
+Profit,US,1,1/28/19,CMG,5,10
+Profit,US,1,1/29/19,CMG,5,10
+Profit,US,1,1/30/19,CMG,5,10
+Profit,US,1,1/31/19,CMG,5,10
+Profit,US,1,2/1/19,CMG,5,10
+Profit,US,0,2/2/19,CMG,5,10
+Profit,US,0,2/3/19,CMG,5,10
+Artem,BY,8,2/4/19,CMG,5,10
+Artem,BY,8,2/5/19,CMG,5,10
+Artem,BY,8,2/6/19,CMG,5,10
+Artem,BY,8,2/7/19,CMG,5,10
+Artem,BY,8,2/8/19,CMG,5,10
+Artem,BY,0,2/9/19,CMG,5,10
+Artem,BY,0,2/10/19,CMG,5,10
+Ilya,BY,4,2/4/19,CMG,5,10
+Ilya,BY,4,2/5/19,CMG,5,10
+Ilya,BY,4,2/6/19,CMG,5,10
+Ilya,BY,4,2/7/19,CMG,5,10
+Ilya,BY,4,2/8/19,CMG,5,10
+Ilya,BY,0,2/9/19,CMG,5,10
+Ilya,BY,0,2/10/19,CMG,5,10
+Profit,BY,4,2/4/19,CMG,5,10
+Profit,BY,4,2/5/19,CMG,5,10
+Profit,BY,4,2/6/19,CMG,5,10
+Profit,BY,4,2/7/19,CMG,5,10
+Profit,BY,4,2/8/19,CMG,5,10
+Profit,BY,0,2/9/19,CMG,5,10
+Profit,BY,0,2/10/19,CMG,5,10
+Profit,US,1,2/4/19,CMG,5,10
+Profit,US,1,2/5/19,CMG,5,10
+Profit,US,1,2/6/19,CMG,5,10
+Profit,US,1,2/7/19,CMG,5,10
+Profit,US,1,2/8/19,CMG,5,10
+Profit,US,0,2/9/19,CMG,5,10
+Profit,US,0,2/10/19,CMG,5,10
+Artem,BY,8,2/11/19,CMG,5,10
+Artem,BY,8,2/12/19,CMG,5,10
+Artem,BY,8,2/13/19,CMG,5,10
+Artem,BY,8,2/14/19,CMG,5,10
+Artem,BY,8,2/15/19,CMG,5,10
+Artem,BY,0,2/16/19,CMG,5,10
+Artem,BY,0,2/17/19,CMG,5,10
+Ilya,BY,8,2/11/19,CMG,5,10
+Ilya,BY,9,2/12/19,CMG,5,10
+Ilya,BY,0,2/13/19,CMG,5,10
+Ilya,BY,0,2/14/19,CMG,5,10
+Ilya,BY,0,2/15/19,CMG,5,10
+Ilya,BY,0,2/16/19,CMG,5,10
+Ilya,BY,0,2/17/19,CMG,5,10
+Profit,US,1,2/11/19,CMG,5,10
+Profit,US,1,2/12/19,CMG,5,10
+Profit,US,1,2/13/19,CMG,5,10
+Profit,US,1,2/14/19,CMG,5,10
+Profit,US,1,2/15/19,CMG,5,10
+Profit,US,0,2/16/19,CMG,5,10
+Profit,US,0,2/17/19,CMG,5,10
+Profit,US,4,2/11/19,CMG,5,10
+Profit,US,4,2/12/19,CMG,5,10
+Profit,US,4,2/13/19,CMG,5,10
+Profit,US,4,2/14/19,CMG,5,10
+Profit,US,4,2/15/19,CMG,5,10
+Profit,US,3,2/16/19,CMG,5,10
+Profit,US,0,2/17/19,CMG,5,10
+Artem,BY,8,2/18/19,CMG,5,10
+Artem,BY,8,2/19/19,CMG,5,10
+Artem,BY,8,2/20/19,CMG,5,10
+Artem,BY,8,2/21/19,CMG,5,10
+Artem,BY,8,2/22/19,CMG,5,10
+Artem,BY,0,2/23/19,CMG,5,10
+Artem,BY,0,2/24/19,CMG,5,10
+Ilya,BY,4,2/18/19,CMG,5,10
+Ilya,BY,4,2/19/19,CMG,5,10
+Ilya,BY,4,2/20/19,CMG,5,10
+Ilya,BY,4,2/21/19,CMG,5,10
+Ilya,BY,4,2/22/19,CMG,5,10
+Ilya,BY,0,2/23/19,CMG,5,10
+Ilya,BY,0,2/24/19,CMG,5,10
+Profit,US,1,2/18/19,CMG,5,10
+Profit,US,1,2/19/19,CMG,5,10
+Profit,US,1,2/20/19,CMG,5,10
+Profit,US,1,2/21/19,CMG,5,10
+Profit,US,1,2/22/19,CMG,5,10
+Profit,US,0,2/23/19,CMG,5,10
+Profit,US,0,2/24/19,CMG,5,10
+Profit,US,4,2/18/19,CMG,5,10
+Profit,US,4,2/19/19,CMG,5,10
+Profit,US,4,2/20/19,CMG,5,10
+Profit,US,4,2/21/19,CMG,5,10
+Profit,US,4,2/22/19,CMG,5,10
+Profit,US,0,2/23/19,CMG,5,10
+Profit,US,0,2/24/19,CMG,5,10
+Artem,BY,8,2/25/19,CMG,5,10
+Artem,BY,8,2/26/19,CMG,5,10
+Artem,BY,8,2/27/19,CMG,5,10
+Artem,BY,8,2/28/19,CMG,5,10
+Artem,BY,8,3/1/19,CMG,5,10
+Artem,BY,0,3/2/19,CMG,5,10
+Artem,BY,0,3/3/19,CMG,5,10
+Ilya,BY,6,2/25/19,CMG,5,10
+Ilya,BY,6,2/26/19,CMG,5,10
+Ilya,BY,0,2/27/19,CMG,5,10
+Ilya,BY,0,2/28/19,CMG,5,10
+Ilya,BY,0,3/1/19,CMG,5,10
+Ilya,BY,0,3/2/19,CMG,5,10
+Ilya,BY,0,3/3/19,CMG,5,10
+Profit,US,1,2/25/19,CMG,5,10
+Profit,US,1,2/26/19,CMG,5,10
+Profit,US,1,2/27/19,CMG,5,10
+Profit,US,1,2/28/19,CMG,5,10
+Profit,US,1,3/1/19,CMG,5,10
+Profit,US,0,3/2/19,CMG,5,10
+Profit,US,0,3/3/19,CMG,5,10
+Profit,US,5,2/25/19,CMG,5,10
+Profit,US,5,2/26/19,CMG,5,10
+Profit,US,5,2/27/19,CMG,5,10
+Profit,US,5,2/28/19,CMG,5,10
+Profit,US,8,3/1/19,CMG,5,10
+Profit,US,0,3/2/19,CMG,5,10
+Profit,US,0,3/3/19,CMG,5,10
+Artem,BY,8,3/4/19,CMG,5,10
+Artem,BY,8,3/5/19,CMG,5,10
+Artem,BY,8,3/6/19,CMG,5,10
+Artem,BY,8,3/7/19,CMG,5,10
+Artem,BY,8,3/8/19,CMG,5,10
+Artem,BY,0,3/9/19,CMG,5,10
+Artem,BY,0,3/10/19,CMG,5,10
+Ilya,BY,6,3/4/19,CMG,5,10
+Ilya,BY,6,3/5/19,CMG,5,10
+Ilya,BY,0,3/6/19,CMG,5,10
+Ilya,BY,0,3/7/19,CMG,5,10
+Ilya,BY,0,3/8/19,CMG,5,10
+Ilya,BY,0,3/9/19,CMG,5,10
+Ilya,BY,0,3/10/19,CMG,5,10
+Profit,US,1,3/4/19,CMG,5,10
+Profit,US,1,3/5/19,CMG,5,10
+Profit,US,1,3/6/19,CMG,5,10
+Profit,US,1,3/7/19,CMG,5,10
+Profit,US,1,3/8/19,CMG,5,10
+Profit,US,0,3/9/19,CMG,5,10
+Profit,US,0,3/10/19,CMG,5,10
+Profit,US,5,3/4/19,CMG,5,10
+Profit,US,5,3/5/19,CMG,5,10
+Profit,US,5,3/6/19,CMG,5,10
+Profit,US,5,3/7/19,CMG,5,10
+Profit,US,8,3/8/19,CMG,5,10
+Profit,US,0,3/9/19,CMG,5,10
+Profit,US,0,3/10/19,CMG,5,10
+Artem,BY,8,3/11/19,CMG,5,10
+Artem,BY,8,3/12/19,CMG,5,10
+Artem,BY,8,3/13/19,CMG,5,10
+Artem,BY,8,3/14/19,CMG,5,10
+Artem,BY,8,3/15/19,CMG,5,10
+Artem,BY,0,3/16/19,CMG,5,10
+Artem,BY,0,3/17/19,CMG,5,10
+Ilya,BY,5,3/11/19,CMG,5,10
+Ilya,BY,5,3/12/19,CMG,5,10
+Ilya,BY,5,3/13/19,CMG,5,10
+Ilya,BY,5,3/14/19,CMG,5,10
+Ilya,BY,6,3/15/19,CMG,5,10
+Ilya,BY,0,3/16/19,CMG,5,10
+Ilya,BY,0,3/17/19,CMG,5,10
+Profit,US,1,3/11/19,CMG,5,10
+Profit,US,1,3/12/19,CMG,5,10
+Profit,US,1,3/13/19,CMG,5,10
+Profit,US,1,3/14/19,CMG,5,10
+Profit,US,1,3/15/19,CMG,5,10
+Profit,US,0,3/16/19,CMG,5,10
+Profit,US,0,3/17/19,CMG,5,10
+Profit,US,7,3/11/19,CMG,5,10
+Profit,US,7,3/12/19,CMG,5,10
+Profit,US,0,3/13/19,CMG,5,10
+Profit,US,0,3/14/19,CMG,5,10
+Profit,US,0,3/15/19,CMG,5,10
+Profit,US,0,3/16/19,CMG,5,10
+Profit,US,0,3/17/19,CMG,5,10
+Artem,BY,8,3/18/19,CMG,5,10
+Artem,BY,8,3/19/19,CMG,5,10
+Artem,BY,8,3/20/19,CMG,5,10
+Artem,BY,8,3/21/19,CMG,5,10
+Artem,BY,8,3/22/19,CMG,5,10
+Artem,BY,0,3/23/19,CMG,5,10
+Artem,BY,0,3/24/19,CMG,5,10
+Ilya,BY,10,3/18/19,CMG,5,10
+Ilya,BY,10,3/19/19,CMG,5,10
+Ilya,BY,10,3/20/19,CMG,5,10
+Ilya,BY,0,3/21/19,CMG,5,10
+Ilya,BY,0,3/22/19,CMG,5,10
+Ilya,BY,0,3/23/19,CMG,5,10
+Ilya,BY,0,3/24/19,CMG,5,10
+Profit,US,1,3/18/19,CMG,5,10
+Profit,US,1,3/19/19,CMG,5,10
+Profit,US,1,3/20/19,CMG,5,10
+Profit,US,1,3/21/19,CMG,5,10
+Profit,US,1,3/22/19,CMG,5,10
+Profit,US,0,3/23/19,CMG,5,10
+Profit,US,0,3/24/19,CMG,5,10
+Profit,US,5,3/18/19,CMG,5,10
+Profit,US,5,3/19/19,CMG,5,10
+Profit,US,0,3/20/19,CMG,5,10
+Profit,US,0,3/21/19,CMG,5,10
+Profit,US,0,3/22/19,CMG,5,10
+Profit,US,0,3/23/19,CMG,5,10
+Profit,US,0,3/24/19,CMG,5,10
+Artem,BY,8,3/25/19,CMG,5,10
+Artem,BY,8,3/26/19,CMG,5,10
+Artem,BY,8,3/27/19,CMG,5,10
+Artem,BY,8,3/28/19,CMG,5,10
+Artem,BY,8,3/29/19,CMG,5,10
+Artem,BY,0,3/30/19,CMG,5,10
+Artem,BY,0,3/31/19,CMG,5,10
+Ilya,BY,8,3/25/19,CMG,5,10
+Ilya,BY,8,3/26/19,CMG,5,10
+Ilya,BY,8,3/27/19,CMG,5,10
+Ilya,BY,4,3/28/19,CMG,5,10
+Ilya,BY,0,3/29/19,CMG,5,10
+Ilya,BY,0,3/30/19,CMG,5,10
+Ilya,BY,0,3/31/19,CMG,5,10
+Profit,US,1,3/25/19,CMG,5,10
+Profit,US,1,3/26/19,CMG,5,10
+Profit,US,1,3/27/19,CMG,5,10
+Profit,US,1,3/28/19,CMG,5,10
+Profit,US,1,3/29/19,CMG,5,10
+Profit,US,0,3/30/19,CMG,5,10
+Profit,US,0,3/31/19,CMG,5,10
+Profit,US,6,3/25/19,CMG,5,10
+Profit,US,6,3/26/19,CMG,5,10
+Profit,US,0,3/27/19,CMG,5,10
+Profit,US,0,3/28/19,CMG,5,10
+Profit,US,0,3/29/19,CMG,5,10
+Profit,US,0,3/30/19,CMG,5,10
+Profit,US,0,3/31/19,CMG,5,10
+Alex V,BY,8,2/11/19,Cresa,5,10
+Alex V,BY,8,2/12/19,Cresa,5,10
+Alex V,BY,2,2/13/19,Cresa,5,10
+Alex V,BY,0,2/14/19,Cresa,5,10
+Alex V,BY,0,2/15/19,Cresa,5,10
+Alex V,BY,0,2/16/19,Cresa,5,10
+Alex V,BY,0,2/17/19,Cresa,5,10
+Profit,US,9,2/11/19,Cresa,5,10
+Profit,US,9,2/12/19,Cresa,5,10
+Profit,US,9,2/13/19,Cresa,5,10
+Profit,US,9,2/14/19,Cresa,5,10
+Profit,US,9,2/15/19,Cresa,5,10
+Profit,US,9,2/16/19,Cresa,5,10
+Profit,US,9,2/17/19,Cresa,5,10
+Alex V,BY,7,2/18/19,Cresa,5,10
+Alex V,BY,7,2/19/19,Cresa,5,10
+Alex V,BY,1,2/20/19,Cresa,5,10
+Alex V,BY,0,2/21/19,Cresa,5,10
+Alex V,BY,0,2/22/19,Cresa,5,10
+Alex V,BY,0,2/23/19,Cresa,5,10
+Alex V,BY,0,2/24/19,Cresa,5,10
+Profit,US,5,2/18/19,Cresa,5,10
+Profit,US,5,2/19/19,Cresa,5,10
+Profit,US,0,2/20/19,Cresa,5,10
+Profit,US,0,2/21/19,Cresa,5,10
+Profit,US,0,2/22/19,Cresa,5,10
+Profit,US,0,2/23/19,Cresa,5,10
+Profit,US,0,2/24/19,Cresa,5,10
+Alex V,BY,8,2/25/19,Cresa,5,10
+Alex V,BY,8,2/26/19,Cresa,5,10
+Alex V,BY,2,2/27/19,Cresa,5,10
+Alex V,BY,0,2/28/19,Cresa,5,10
+Alex V,BY,0,3/1/19,Cresa,5,10
+Alex V,BY,0,3/2/19,Cresa,5,10
+Alex V,BY,0,3/3/19,Cresa,5,10
+Profit,US,7,2/25/19,Cresa,5,10
+Profit,US,8,2/26/19,Cresa,5,10
+Profit,US,0,2/27/19,Cresa,5,10
+Profit,US,0,2/28/19,Cresa,5,10
+Profit,US,0,3/1/19,Cresa,5,10
+Profit,US,0,3/2/19,Cresa,5,10
+Profit,US,0,3/3/19,Cresa,5,10
+Alex V,BY,3,3/4/19,Cresa,5,10
+Alex V,BY,2,3/5/19,Cresa,5,10
+Alex V,BY,0,3/6/19,Cresa,5,10
+Alex V,BY,0,3/7/19,Cresa,5,10
+Alex V,BY,0,3/8/19,Cresa,5,10
+Alex V,BY,0,3/9/19,Cresa,5,10
+Alex V,BY,0,3/10/19,Cresa,5,10
+Profit,US,7,3/4/19,Cresa,5,10
+Profit,US,8,3/5/19,Cresa,5,10
+Profit,US,0,3/6/19,Cresa,5,10
+Profit,US,0,3/7/19,Cresa,5,10
+Profit,US,0,3/8/19,Cresa,5,10
+Profit,US,0,3/9/19,Cresa,5,10
+Profit,US,0,3/10/19,Cresa,5,10
+Alex V,BY,5,3/11/19,Cresa,5,10
+Alex V,BY,5,3/12/19,Cresa,5,10
+Alex V,BY,5,3/13/19,Cresa,5,10
+Alex V,BY,5,3/14/19,Cresa,5,10
+Alex V,BY,1,3/15/19,Cresa,5,10
+Alex V,BY,0,3/16/19,Cresa,5,10
+Alex V,BY,0,3/17/19,Cresa,5,10
+Profit,US,8,3/11/19,Cresa,5,10
+Profit,US,0,3/12/19,Cresa,5,10
+Profit,US,0,3/13/19,Cresa,5,10
+Profit,US,0,3/14/19,Cresa,5,10
+Profit,US,0,3/15/19,Cresa,5,10
+Profit,US,0,3/16/19,Cresa,5,10
+Profit,US,0,3/17/19,Cresa,5,10
+Alex V,BY,8,3/18/19,Cresa,5,10
+Alex V,BY,8,3/19/19,Cresa,5,10
+Alex V,BY,8,3/20/19,Cresa,5,10
+Alex V,BY,1,3/21/19,Cresa,5,10
+Alex V,BY,0,3/22/19,Cresa,5,10
+Alex V,BY,0,3/23/19,Cresa,5,10
+Alex V,BY,0,3/24/19,Cresa,5,10
+Profit,US,8,3/18/19,Cresa,5,10
+Profit,US,0,3/19/19,Cresa,5,10
+Profit,US,0,3/20/19,Cresa,5,10
+Profit,US,0,3/21/19,Cresa,5,10
+Profit,US,0,3/22/19,Cresa,5,10
+Profit,US,0,3/23/19,Cresa,5,10
+Profit,US,0,3/24/19,Cresa,5,10
+Andreii,UA,0,3/25/19,Cresa,5,10
+Andreii,UA,0,3/26/19,Cresa,5,10
+Andreii,UA,0,3/27/19,Cresa,5,10
+Andreii,UA,0,3/28/19,Cresa,5,10
+Andreii,UA,0,3/29/19,Cresa,5,10
+Andreii,UA,0,3/30/19,Cresa,5,10
+Andreii,UA,0,3/31/19,Cresa,5,10
+Profit,US,3,3/25/19,Cresa,5,10
+Profit,US,0,3/26/19,Cresa,5,10
+Profit,US,0,3/27/19,Cresa,5,10
+Profit,US,0,3/28/19,Cresa,5,10
+Profit,US,0,3/29/19,Cresa,5,10
+Profit,US,0,3/30/19,Cresa,5,10
+Profit,US,0,3/31/19,Cresa,5,10
+Alex V,BY,8,1/1/19,MyMax,5,10
+Alex V,BY,8,1/2/19,MyMax,5,10
+Alex V,BY,8,1/3/19,MyMax,5,10
+Alex V,BY,0,1/4/19,MyMax,5,10
+Alex V,BY,0,1/5/19,MyMax,5,10
+Alex V,BY,0,1/6/19,MyMax,5,10
+Alex V,BY,8,1/7/19,MyMax,5,10
+Alex V,BY,8,1/8/19,MyMax,5,10
+Alex V,BY,8,1/9/19,MyMax,5,10
+Alex V,BY,8,1/10/19,MyMax,5,10
+Alex V,BY,0,1/11/19,MyMax,5,10
+Alex V,BY,0,1/12/19,MyMax,5,10
+Alex V,BY,0,1/13/19,MyMax,5,10
+Alex V,BY,8,1/14/19,MyMax,5,10
+Alex V,BY,8,1/15/19,MyMax,5,10
+Alex V,BY,8,1/16/19,MyMax,5,10
+Alex V,BY,8,1/17/19,MyMax,5,10
+Alex V,BY,8,1/18/19,MyMax,5,10
+Alex V,BY,0,1/19/19,MyMax,5,10
+Alex V,BY,0,1/20/19,MyMax,5,10
+Alex V,BY,8,1/21/19,MyMax,5,10
+Alex V,BY,8,1/22/19,MyMax,5,10
+Alex V,BY,8,1/23/19,MyMax,5,10
+Alex V,BY,8,1/24/19,MyMax,5,10
+Alex V,BY,4,1/25/19,MyMax,5,10
+Alex V,BY,0,1/26/19,MyMax,5,10
+Alex V,BY,0,1/27/19,MyMax,5,10
+Alex V,BY,5,1/28/19,MyMax,5,10
+Alex V,BY,5,1/29/19,MyMax,5,10
+Alex V,BY,5,1/30/19,MyMax,5,10
+Alex V,BY,5,1/31/19,MyMax,5,10
+Alex V,BY,0,2/1/19,MyMax,5,10
+Alex V,BY,0,2/2/19,MyMax,5,10
+Alex V,BY,0,2/3/19,MyMax,5,10
+Alex V,BY,8,2/4/19,MyMax,5,10
+Alex V,BY,0,2/5/19,MyMax,5,10
+Alex V,BY,0,2/6/19,MyMax,5,10
+Alex V,BY,0,2/7/19,MyMax,5,10
+Alex V,BY,0,2/8/19,MyMax,5,10
+Alex V,BY,0,2/9/19,MyMax,5,10
+Alex V,BY,0,2/10/19,MyMax,5,10
+Alex V,BY,7,2/11/19,MyMax,5,10
+Alex V,BY,7,2/12/19,MyMax,5,10
+Alex V,BY,7,2/13/19,MyMax,5,10
+Alex V,BY,1,2/14/19,MyMax,5,10
+Alex V,BY,0,2/15/19,MyMax,5,10
+Alex V,BY,0,2/16/19,MyMax,5,10
+Alex V,BY,0,2/17/19,MyMax,5,10
+Alex V,BY,5,2/18/19,MyMax,5,10
+Alex V,BY,5,2/19/19,MyMax,5,10
+Alex V,BY,5,2/20/19,MyMax,5,10
+Alex V,BY,5,2/21/19,MyMax,5,10
+Alex V,BY,5,2/22/19,MyMax,5,10
+Alex V,BY,0,2/23/19,MyMax,5,10
+Alex V,BY,0,2/24/19,MyMax,5,10
+Alex V,BY,7,2/25/19,MyMax,5,10
+Alex V,BY,7,2/26/19,MyMax,5,10
+Alex V,BY,7,2/27/19,MyMax,5,10
+Alex V,BY,1,2/28/19,MyMax,5,10
+Alex V,BY,0,3/1/19,MyMax,5,10
+Alex V,BY,0,3/2/19,MyMax,5,10
+Alex V,BY,0,3/3/19,MyMax,5,10
+Alex V,BY,8,3/4/19,MyMax,5,10
+Alex V,BY,9,3/5/19,MyMax,5,10
+Alex V,BY,0,3/6/19,MyMax,5,10
+Alex V,BY,0,3/7/19,MyMax,5,10
+Alex V,BY,0,3/8/19,MyMax,5,10
+Alex V,BY,0,3/9/19,MyMax,5,10
+Alex V,BY,0,3/10/19,MyMax,5,10
+Alex V,BY,3,3/11/19,MyMax,5,10
+Alex V,BY,2,3/12/19,MyMax,5,10
+Alex V,BY,0,3/13/19,MyMax,5,10
+Alex V,BY,0,3/14/19,MyMax,5,10
+Alex V,BY,0,3/15/19,MyMax,5,10
+Alex V,BY,0,3/16/19,MyMax,5,10
+Alex V,BY,0,3/17/19,MyMax,5,10
+Alex V,BY,3,3/18/19,MyMax,5,10
+Alex V,BY,0,3/19/19,MyMax,5,10
+Alex V,BY,0,3/20/19,MyMax,5,10
+Alex V,BY,0,3/21/19,MyMax,5,10
+Alex V,BY,0,3/22/19,MyMax,5,10
+Alex V,BY,0,3/23/19,MyMax,5,10
+Alex V,BY,0,3/24/19,MyMax,5,10
+Alex V,BY,4,3/25/19,MyMax,5,10
+Alex V,BY,0,3/26/19,MyMax,5,10
+Alex V,BY,0,3/27/19,MyMax,5,10
+Alex V,BY,0,3/28/19,MyMax,5,10
+Alex V,BY,0,3/29/19,MyMax,5,10
+Alex V,BY,0,3/30/19,MyMax,5,10
+Alex V,BY,0,3/31/19,MyMax,5,10
+Vlad,BY,8,1/1/19,TBG,5,10
+Vlad,BY,8,1/2/19,TBG,5,10
+Vlad,BY,8,1/3/19,TBG,5,10
+Vlad,BY,8,1/4/19,TBG,5,10
+Vlad,BY,0,1/5/19,TBG,5,10
+Vlad,BY,0,1/6/19,TBG,5,10
+Alex Vas,UA,5,1/1/19,TBG,5,10
+Alex Vas,UA,5,1/2/19,TBG,5,10
+Alex Vas,UA,5,1/3/19,TBG,5,10
+Alex Vas,UA,5,1/4/19,TBG,5,10
+Alex Vas,UA,0,1/5/19,TBG,5,10
+Alex Vas,UA,0,1/6/19,TBG,5,10
+Vlad,BY,2,1/7/19,TBG,5,10
+Vlad,BY,0,1/8/19,TBG,5,10
+Vlad,BY,0,1/9/19,TBG,5,10
+Vlad,BY,0,1/10/19,TBG,5,10
+Vlad,BY,0,1/11/19,TBG,5,10
+Vlad,BY,0,1/12/19,TBG,5,10
+Vlad,BY,0,1/13/19,TBG,5,10
+Alex Vas,UA,8,1/7/19,TBG,5,10
+Alex Vas,UA,8,1/8/19,TBG,5,10
+Alex Vas,UA,8,1/9/19,TBG,5,10
+Alex Vas,UA,8,1/10/19,TBG,5,10
+Alex Vas,UA,0,1/11/19,TBG,5,10
+Alex Vas,UA,0,1/12/19,TBG,5,10
+Alex Vas,UA,0,1/13/19,TBG,5,10
+Vlad,BY,0,1/14/19,TBG,5,10
+Vlad,BY,0,1/15/19,TBG,5,10
+Vlad,BY,0,1/16/19,TBG,5,10
+Vlad,BY,0,1/17/19,TBG,5,10
+Vlad,BY,0,1/18/19,TBG,5,10
+Vlad,BY,0,1/19/19,TBG,5,10
+Vlad,BY,0,1/20/19,TBG,5,10
+Alex Vas,UA,8,1/14/19,TBG,5,10
+Alex Vas,UA,8,1/15/19,TBG,5,10
+Alex Vas,UA,8,1/16/19,TBG,5,10
+Alex Vas,UA,8,1/17/19,TBG,5,10
+Alex Vas,UA,8,1/18/19,TBG,5,10
+Alex Vas,UA,0,1/19/19,TBG,5,10
+Alex Vas,UA,0,1/20/19,TBG,5,10
+Vlad,BY,5,1/21/19,TBG,5,10
+Vlad,BY,5,1/22/19,TBG,5,10
+Vlad,BY,5,1/23/19,TBG,5,10
+Vlad,BY,5,1/24/19,TBG,5,10
+Vlad,BY,3,1/25/19,TBG,5,10
+Vlad,BY,0,1/26/19,TBG,5,10
+Vlad,BY,0,1/27/19,TBG,5,10
+Alex Vas,UA,8,1/21/19,TBG,5,10
+Alex Vas,UA,9,1/22/19,TBG,5,10
+Alex Vas,UA,0,1/23/19,TBG,5,10
+Alex Vas,UA,0,1/24/19,TBG,5,10
+Alex Vas,UA,0,1/25/19,TBG,5,10
+Alex Vas,UA,0,1/26/19,TBG,5,10
+Alex Vas,UA,0,1/27/19,TBG,5,10
+Vlad,BY,9,1/28/19,TBG,5,10
+Vlad,BY,9,1/29/19,TBG,5,10
+Vlad,BY,9,1/30/19,TBG,5,10
+Vlad,BY,9,1/31/19,TBG,5,10
+Vlad,BY,9,2/1/19,TBG,5,10
+Vlad,BY,3,2/2/19,TBG,5,10
+Vlad,BY,0,2/3/19,TBG,5,10
+Vlad,BY,10,2/4/19,TBG,5,10
+Vlad,BY,10,2/5/19,TBG,5,10
+Vlad,BY,10,2/6/19,TBG,5,10
+Vlad,BY,10,2/7/19,TBG,5,10
+Vlad,BY,8,2/8/19,TBG,5,10
+Vlad,BY,0,2/9/19,TBG,5,10
+Vlad,BY,0,2/10/19,TBG,5,10
+Andrey P,UA,8,2/4/19,TBG,5,10
+Andrey P,UA,8,2/5/19,TBG,5,10
+Andrey P,UA,8,2/6/19,TBG,5,10
+Andrey P,UA,8,2/7/19,TBG,5,10
+Andrey P,UA,8,2/8/19,TBG,5,10
+Andrey P,UA,0,2/9/19,TBG,5,10
+Andrey P,UA,0,2/10/19,TBG,5,10
+Vlad,BY,8,2/11/19,TBG,5,10
+Vlad,BY,8,2/12/19,TBG,5,10
+Vlad,BY,8,2/13/19,TBG,5,10
+Vlad,BY,8,2/14/19,TBG,5,10
+Vlad,BY,8,2/15/19,TBG,5,10
+Vlad,BY,0,2/16/19,TBG,5,10
+Vlad,BY,0,2/17/19,TBG,5,10
+Andrey P,UA,8,2/11/19,TBG,5,10
+Andrey P,UA,8,2/12/19,TBG,5,10
+Andrey P,UA,8,2/13/19,TBG,5,10
+Andrey P,UA,8,2/14/19,TBG,5,10
+Andrey P,UA,8,2/15/19,TBG,5,10
+Andrey P,UA,0,2/16/19,TBG,5,10
+Andrey P,UA,0,2/17/19,TBG,5,10
+Vlad,BY,10,2/18/19,TBG,5,10
+Vlad,BY,10,2/19/19,TBG,5,10
+Vlad,BY,10,2/20/19,TBG,5,10
+Vlad,BY,10,2/21/19,TBG,5,10
+Vlad,BY,8,2/22/19,TBG,5,10
+Vlad,BY,0,2/23/19,TBG,5,10
+Vlad,BY,0,2/24/19,TBG,5,10
+Andrey P,UA,8,2/18/19,TBG,5,10
+Andrey P,UA,8,2/19/19,TBG,5,10
+Andrey P,UA,8,2/20/19,TBG,5,10
+Andrey P,UA,8,2/21/19,TBG,5,10
+Andrey P,UA,8,2/22/19,TBG,5,10
+Andrey P,UA,0,2/23/19,TBG,5,10
+Andrey P,UA,0,2/24/19,TBG,5,10
+Vlad,BY,10,2/25/19,TBG,5,10
+Vlad,BY,10,2/26/19,TBG,5,10
+Vlad,BY,10,2/27/19,TBG,5,10
+Vlad,BY,10,2/28/19,TBG,5,10
+Vlad,BY,8,3/1/19,TBG,5,10
+Vlad,BY,0,3/2/19,TBG,5,10
+Vlad,BY,0,3/3/19,TBG,5,10
+Andrey P,UA,8,2/25/19,TBG,5,10
+Andrey P,UA,8,2/26/19,TBG,5,10
+Andrey P,UA,8,2/27/19,TBG,5,10
+Andrey P,UA,8,2/28/19,TBG,5,10
+Andrey P,UA,8,3/1/19,TBG,5,10
+Andrey P,UA,0,3/2/19,TBG,5,10
+Andrey P,UA,0,3/3/19,TBG,5,10
+Vlad,BY,8,3/4/19,TBG,5,10
+Vlad,BY,8,3/5/19,TBG,5,10
+Vlad,BY,8,3/6/19,TBG,5,10
+Vlad,BY,8,3/7/19,TBG,5,10
+Vlad,BY,6,3/8/19,TBG,5,10
+Vlad,BY,0,3/9/19,TBG,5,10
+Vlad,BY,0,3/10/19,TBG,5,10
+Andrey P,UA,8,3/4/19,TBG,5,10
+Andrey P,UA,8,3/5/19,TBG,5,10
+Andrey P,UA,8,3/6/19,TBG,5,10
+Andrey P,UA,8,3/7/19,TBG,5,10
+Andrey P,UA,0,3/8/19,TBG,5,10
+Andrey P,UA,0,3/9/19,TBG,5,10
+Andrey P,UA,0,3/10/19,TBG,5,10
+Vlad,BY,10,3/11/19,TBG,5,10
+Vlad,BY,10,3/12/19,TBG,5,10
+Vlad,BY,10,3/13/19,TBG,5,10
+Vlad,BY,10,3/14/19,TBG,5,10
+Vlad,BY,13,3/15/19,TBG,5,10
+Vlad,BY,0,3/16/19,TBG,5,10
+Vlad,BY,0,3/17/19,TBG,5,10
+Andrey P,UA,8,3/11/19,TBG,5,10
+Andrey P,UA,8,3/12/19,TBG,5,10
+Andrey P,UA,8,3/13/19,TBG,5,10
+Andrey P,UA,8,3/14/19,TBG,5,10
+Andrey P,UA,8,3/15/19,TBG,5,10
+Andrey P,UA,0,3/16/19,TBG,5,10
+Andrey P,UA,0,3/17/19,TBG,5,10
+Vlad,BY,8,3/18/19,TBG,5,10
+Vlad,BY,8,3/19/19,TBG,5,10
+Vlad,BY,10,3/20/19,TBG,5,10
+Vlad,BY,10,3/21/19,TBG,5,10
+Vlad,BY,10,3/22/19,TBG,5,10
+Vlad,BY,0,3/23/19,TBG,5,10
+Vlad,BY,0,3/24/19,TBG,5,10
+Andrey P,UA,8,3/18/19,TBG,5,10
+Andrey P,UA,10.5,3/19/19,TBG,5,10
+Andrey P,UA,8,3/20/19,TBG,5,10
+Andrey P,UA,8,3/21/19,TBG,5,10
+Andrey P,UA,8,3/22/19,TBG,5,10
+Andrey P,UA,0,3/23/19,TBG,5,10
+Andrey P,UA,0,3/24/19,TBG,5,10
+Vlad,BY,8,3/25/19,TBG,5,10
+Vlad,BY,8,3/26/19,TBG,5,10
+Vlad,BY,10,3/27/19,TBG,5,10
+Vlad,BY,10,3/28/19,TBG,5,10
+Vlad,BY,8,3/29/19,TBG,5,10
+Vlad,BY,0,3/30/19,TBG,5,10
+Vlad,BY,0,3/31/19,TBG,5,10
+Andrey P,UA,8,3/25/19,TBG,5,10
+Andrey P,UA,8,3/26/19,TBG,5,10
+Andrey P,UA,8,3/27/19,TBG,5,10
+Andrey P,UA,10,3/28/19,TBG,5,10
+Andrey P,UA,9.5,3/29/19,TBG,5,10
+Andrey P,UA,0,3/30/19,TBG,5,10
+Andrey P,UA,0,3/31/19,TBG,5,10
+Alex V,BY,5,3/25/19,Mayo,5,10
+Alex V,BY,5,3/26/19,Mayo,5,10
+Alex V,BY,5,3/27/19,Mayo,5,10
+Alex V,BY,5,3/28/19,Mayo,5,10
+Alex V,BY,4,3/29/19,Mayo,5,10
+Alex V,BY,0,3/30/19,Mayo,5,10
+Alex V,BY,0,3/31/19,Mayo,5,10
+Profit,US,8,3/25/19,Mayo,5,10
+Profit,US,8,3/26/19,Mayo,5,10
+Profit,US,0,3/27/19,Mayo,5,10
+Profit,US,0,3/28/19,Mayo,5,10
+Profit,US,0,3/29/19,Mayo,5,10
+Profit,US,0,3/30/19,Mayo,5,10
+Profit,US,0,3/31/19,Mayo,5,10
+Valentina,BY,5,1/1/19,Maritz,5,10
+Valentina,BY,5,1/2/19,Maritz,5,10
+Valentina,BY,5,1/3/19,Maritz,5,10
+Valentina,BY,5,1/4/19,Maritz,5,10
+Valentina,BY,3,1/5/19,Maritz,5,10
+Valentina,BY,0,1/6/19,Maritz,5,10
+Vlad,BY,0,1/1/19,Maritz,5,10
+Vlad,BY,0,1/2/19,Maritz,5,10
+Vlad,BY,0,1/3/19,Maritz,5,10
+Vlad,BY,0,1/4/19,Maritz,5,10
+Vlad,BY,0,1/5/19,Maritz,5,10
+Vlad,BY,0,1/6/19,Maritz,5,10
+Profit,US,5,1/1/19,Maritz,5,10
+Profit,US,5,1/2/19,Maritz,5,10
+Profit,US,5,1/3/19,Maritz,5,10
+Profit,US,2,1/4/19,Maritz,5,10
+Profit,US,0,1/5/19,Maritz,5,10
+Profit,US,0,1/6/19,Maritz,5,10
+Valentina,BY,5,1/7/19,Maritz,5,10
+Valentina,BY,5,1/8/19,Maritz,5,10
+Valentina,BY,5,1/9/19,Maritz,5,10
+Valentina,BY,5,1/10/19,Maritz,5,10
+Valentina,BY,0,1/11/19,Maritz,5,10
+Valentina,BY,0,1/12/19,Maritz,5,10
+Valentina,BY,0,1/13/19,Maritz,5,10
+Vlad,BY,8,1/7/19,Maritz,5,10
+Vlad,BY,8,1/8/19,Maritz,5,10
+Vlad,BY,8,1/9/19,Maritz,5,10
+Vlad,BY,8,1/10/19,Maritz,5,10
+Vlad,BY,0,1/11/19,Maritz,5,10
+Vlad,BY,0,1/12/19,Maritz,5,10
+Vlad,BY,0,1/13/19,Maritz,5,10
+Profit,US,0,1/7/19,Maritz,5,10
+Profit,US,0,1/8/19,Maritz,5,10
+Profit,US,0,1/9/19,Maritz,5,10
+Profit,US,0,1/10/19,Maritz,5,10
+Profit,US,0,1/11/19,Maritz,5,10
+Profit,US,0,1/12/19,Maritz,5,10
+Profit,US,0,1/13/19,Maritz,5,10
+Valentina,BY,0,1/14/19,Maritz,5,10
+Valentina,BY,0,1/15/19,Maritz,5,10
+Valentina,BY,0,1/16/19,Maritz,5,10
+Valentina,BY,0,1/17/19,Maritz,5,10
+Valentina,BY,0,1/18/19,Maritz,5,10
+Valentina,BY,0,1/19/19,Maritz,5,10
+Valentina,BY,0,1/20/19,Maritz,5,10
+Vlad,BY,10,1/14/19,Maritz,5,10
+Vlad,BY,10,1/15/19,Maritz,5,10
+Vlad,BY,10,1/16/19,Maritz,5,10
+Vlad,BY,0,1/17/19,Maritz,5,10
+Vlad,BY,0,1/18/19,Maritz,5,10
+Vlad,BY,0,1/19/19,Maritz,5,10
+Vlad,BY,0,1/20/19,Maritz,5,10
+Profit,US,5,1/14/19,Maritz,5,10
+Profit,US,5,1/15/19,Maritz,5,10
+Profit,US,0,1/16/19,Maritz,5,10
+Profit,US,0,1/17/19,Maritz,5,10
+Profit,US,0,1/18/19,Maritz,5,10
+Profit,US,0,1/19/19,Maritz,5,10
+Profit,US,0,1/20/19,Maritz,5,10
+Yuri,UA,5,1/1/19,Isobar,5,10
+Yuri,UA,5,1/2/19,Isobar,5,10
+Yuri,UA,5,1/3/19,Isobar,5,10
+Yuri,UA,5,1/4/19,Isobar,5,10
+Yuri,UA,5,1/5/19,Isobar,5,10
+Yuri,UA,2,1/6/19,Isobar,5,10
+Yuri,UA,8,1/7/19,Isobar,5,10
+Yuri,UA,8,1/8/19,Isobar,5,10
+Yuri,UA,8,1/9/19,Isobar,5,10
+Yuri,UA,8,1/10/19,Isobar,5,10
+Yuri,UA,0,1/11/19,Isobar,5,10
+Yuri,UA,0,1/12/19,Isobar,5,10
+Yuri,UA,0,1/13/19,Isobar,5,10
+Yuri,UA,8,1/14/19,Isobar,5,10
+Yuri,UA,8,1/15/19,Isobar,5,10
+Yuri,UA,8,1/16/19,Isobar,5,10
+Yuri,UA,8,1/17/19,Isobar,5,10
+Yuri,UA,8,1/18/19,Isobar,5,10
+Yuri,UA,0,1/19/19,Isobar,5,10
+Yuri,UA,0,1/20/19,Isobar,5,10
+Yuri,UA,8,1/21/19,Isobar,5,10
+Yuri,UA,8,1/22/19,Isobar,5,10
+Yuri,UA,8,1/23/19,Isobar,5,10
+Yuri,UA,8,1/24/19,Isobar,5,10
+Yuri,UA,8,1/25/19,Isobar,5,10
+Yuri,UA,0,1/26/19,Isobar,5,10
+Yuri,UA,0,1/27/19,Isobar,5,10
+Yuri,UA,8,1/28/19,Isobar,5,10
+Yuri,UA,8,1/29/19,Isobar,5,10
+Yuri,UA,8,1/30/19,Isobar,5,10
+Yuri,UA,8,1/31/19,Isobar,5,10
+Yuri,UA,8,2/1/19,Isobar,5,10
+Yuri,UA,0,2/2/19,Isobar,5,10
+Yuri,UA,0,2/3/19,Isobar,5,10
+Yuri,UA,1,2/4/19,Isobar,5,10
+Yuri,UA,2,2/5/19,Isobar,5,10
+Yuri,UA,3,2/6/19,Isobar,5,10
+Yuri,UA,4,2/7/19,Isobar,5,10
+Yuri,UA,5,2/8/19,Isobar,5,10
+Yuri,UA,6,2/9/19,Isobar,5,10
+Yuri,UA,7,2/10/19,Isobar,5,10
+Profit,US,4,2/4/19,Isobar,5,10
+Profit,US,0,2/5/19,Isobar,5,10
+Profit,US,0,2/6/19,Isobar,5,10
+Profit,US,0,2/7/19,Isobar,5,10
+Profit,US,0,2/8/19,Isobar,5,10
+Profit,US,0,2/9/19,Isobar,5,10
+Profit,US,0,2/10/19,Isobar,5,10
+Artem,BY,8,4/1/19,CMG,5,10
+Artem,BY,8,4/2/19,CMG,5,10
+Artem,BY,8,4/3/19,CMG,5,10
+Artem,BY,0,4/4/19,CMG,5,10
+Artem,BY,0,4/5/19,CMG,5,10
+Artem,BY,0,4/6/19,CMG,5,10
+Artem,BY,0,4/7/19,CMG,5,10
+Ilya,BY,8,4/1/19,CMG,5,10
+Ilya,BY,6,4/2/19,CMG,5,10
+Ilya,BY,0,4/3/19,CMG,5,10
+Ilya,BY,0,4/4/19,CMG,5,10
+Ilya,BY,0,4/5/19,CMG,5,10
+Ilya,BY,0,4/6/19,CMG,5,10
+Ilya,BY,0,4/7/19,CMG,5,10
+Alex V,BY,4,4/1/19,Cresa,5,10
+Alex V,BY,0,4/2/19,Cresa,5,10
+Alex V,BY,0,4/3/19,Cresa,5,10
+Alex V,BY,0,4/4/19,Cresa,5,10
+Alex V,BY,0,4/5/19,Cresa,5,10
+Alex V,BY,0,4/6/19,Cresa,5,10
+Alex V,BY,0,4/7/19,Cresa,5,10
+Andreii,UA,8,4/1/19,Cresa,5,10
+Andreii,UA,7,4/2/19,Cresa,5,10
+Andreii,UA,0,4/3/19,Cresa,5,10
+Andreii,UA,0,4/4/19,Cresa,5,10
+Andreii,UA,0,4/5/19,Cresa,5,10
+Andreii,UA,0,4/6/19,Cresa,5,10
+Andreii,UA,0,4/7/19,Cresa,5,10
+Andrey P,UA,8,4/1/19,TBG,5,10
+Andrey P,UA,8,4/2/19,TBG,5,10
+Andrey P,UA,8,4/3/19,TBG,5,10
+Andrey P,UA,8,4/4/19,TBG,5,10
+Andrey P,UA,9,4/5/19,TBG,5,10
+Andrey P,UA,0,4/6/19,TBG,5,10
+Andrey P,UA,0,4/7/19,TBG,5,10
+Vlad,BY,8,4/1/19,TBG,5,10
+Vlad,BY,8,4/2/19,TBG,5,10
+Vlad,BY,0,4/3/19,TBG,5,10
+Vlad,BY,0,4/4/19,TBG,5,10
+Vlad,BY,0,4/5/19,TBG,5,10
+Vlad,BY,0,4/6/19,TBG,5,10
+Vlad,BY,0,4/7/19,TBG,5,10
+Alex V,BY,8,4/1/19,Mayo,5,10
+Alex V,BY,8,4/2/19,Mayo,5,10
+Alex V,BY,8,4/3/19,Mayo,5,10
+Alex V,BY,8,4/4/19,Mayo,5,10
+Alex V,BY,4,4/5/19,Mayo,5,10
+Alex V,BY,0,4/6/19,Mayo,5,10
+Alex V,BY,0,4/7/19,Mayo,5,10
+Profit,US,4,4/1/19,Mayo,5,10
+Profit,US,0,4/2/19,Mayo,5,10
+Profit,US,0,4/3/19,Mayo,5,10
+Profit,US,0,4/4/19,Mayo,5,10
+Profit,US,0,4/5/19,Mayo,5,10
+Profit,US,0,4/6/19,Mayo,5,10
+Profit,US,0,4/7/19,Mayo,5,10
+Profit,US,5,4/1/19,MyMax,5,10
+Profit,US,5,4/2/19,MyMax,5,10
+Profit,US,0,4/3/19,MyMax,5,10
+Profit,US,0,4/4/19,MyMax,5,10
+Profit,US,0,4/5/19,MyMax,5,10
+Profit,US,0,4/6/19,MyMax,5,10
+Profit,US,0,4/7/19,MyMax,5,10
+Tanya,BY,5,4/1/19,PM,5,10
+Tanya,BY,5,4/2/19,PM,5,10
+Tanya,BY,5,4/3/19,PM,5,10
+Tanya,BY,6,4/4/19,PM,5,10
+Tanya,BY,0,4/5/19,PM,5,10
+Tanya,BY,0,4/6/19,PM,5,10
+Tanya,BY,0,4/7/19,PM,5,10
+Anton,UA,8,4/1/19,Sales,5,10
+Anton,UA,8,4/2/19,Sales,5,10
+Anton,UA,8,4/3/19,Sales,5,10
+Anton,UA,8,4/4/19,Sales,5,10
+Anton,UA,8,4/5/19,Sales,5,10
+Anton,UA,0,4/6/19,Sales,5,10
+Anton,UA,0,4/7/19,Sales,5,10
+Artem,BY,8,4/8/19,CMG,5,10
+Artem,BY,8,4/9/19,CMG,5,10
+Artem,BY,8,4/10/19,CMG,5,10
+Artem,BY,0,4/11/19,CMG,5,10
+Artem,BY,0,4/12/19,CMG,5,10
+Artem,BY,0,4/13/19,CMG,5,10
+Artem,BY,0,4/14/19,CMG,5,10
+Ilya,BY,8,4/8/19,CMG,5,10
+Ilya,BY,8,4/9/19,CMG,5,10
+Ilya,BY,6.5,4/10/19,CMG,5,10
+Ilya,BY,0,4/11/19,CMG,5,10
+Ilya,BY,0,4/12/19,CMG,5,10
+Ilya,BY,0,4/13/19,CMG,5,10
+Ilya,BY,0,4/14/19,CMG,5,10
+Alex V,BY,8,4/8/19,Cresa,5,10
+Alex V,BY,7,4/9/19,Cresa,5,10
+Alex V,BY,0,4/10/19,Cresa,5,10
+Alex V,BY,0,4/11/19,Cresa,5,10
+Alex V,BY,0,4/12/19,Cresa,5,10
+Alex V,BY,0,4/13/19,Cresa,5,10
+Alex V,BY,0,4/14/19,Cresa,5,10
+Andreii,UA,9.3,4/8/19,Cresa,5,10
+Andreii,UA,0,4/9/19,Cresa,5,10
+Andreii,UA,0,4/10/19,Cresa,5,10
+Andreii,UA,0,4/11/19,Cresa,5,10
+Andreii,UA,0,4/12/19,Cresa,5,10
+Andreii,UA,0,4/13/19,Cresa,5,10
+Andreii,UA,0,4/14/19,Cresa,5,10
+Alex V,BY,8,4/8/19,Mayo,5,10
+Alex V,BY,8,4/9/19,Mayo,5,10
+Alex V,BY,9,4/10/19,Mayo,5,10
+Alex V,BY,0,4/11/19,Mayo,5,10
+Alex V,BY,0,4/12/19,Mayo,5,10
+Alex V,BY,0,4/13/19,Mayo,5,10
+Alex V,BY,0,4/14/19,Mayo,5,10
+Andrew,BY,8,4/8/19,DMC,5,10
+Andrew,BY,8,4/9/19,DMC,5,10
+Andrew,BY,0,4/10/19,DMC,5,10
+Andrew,BY,0,4/11/19,DMC,5,10
+Andrew,BY,0,4/12/19,DMC,5,10
+Andrew,BY,0,4/13/19,DMC,5,10
+Andrew,BY,0,4/14/19,DMC,5,10
+Profit,US,4,4/8/19,DMC,5,10
+Profit,US,0,4/9/19,DMC,5,10
+Profit,US,0,4/10/19,DMC,5,10
+Profit,US,0,4/11/19,DMC,5,10
+Profit,US,0,4/12/19,DMC,5,10
+Profit,US,0,4/13/19,DMC,5,10
+Profit,US,0,4/14/19,DMC,5,10
+Vlad,BY,0,4/8/19,TBG,5,10
+Vlad,BY,4,4/9/19,TBG,5,10
+Vlad,BY,8,4/10/19,TBG,5,10
+Vlad,BY,8,4/11/19,TBG,5,10
+Vlad,BY,8,4/12/19,TBG,5,10
+Vlad,BY,0,4/13/19,TBG,5,10
+Vlad,BY,0,4/14/19,TBG,5,10
+Andrey P,UA,9,4/8/19,TBG,5,10
+Andrey P,UA,9,4/9/19,TBG,5,10
+Andrey P,UA,9,4/10/19,TBG,5,10
+Andrey P,UA,9,4/11/19,TBG,5,10
+Andrey P,UA,9,4/12/19,TBG,5,10
+Andrey P,UA,0,4/13/19,TBG,5,10
+Andrey P,UA,0,4/14/19,TBG,5,10
+Profit,US,5,4/8/19,MyMax,5,10
+Profit,US,5,4/9/19,MyMax,5,10
+Profit,US,0,4/10/19,MyMax,5,10
+Profit,US,0,4/11/19,MyMax,5,10
+Profit,US,0,4/12/19,MyMax,5,10
+Profit,US,0,4/13/19,MyMax,5,10
+Profit,US,0,4/14/19,MyMax,5,10
+Tanya,BY,8,4/8/19,PM,5,10
+Tanya,BY,8,4/9/19,PM,5,10
+Tanya,BY,8,4/10/19,PM,5,10
+Tanya,BY,8,4/11/19,PM,5,10
+Tanya,BY,0,4/12/19,PM,5,10
+Tanya,BY,0,4/13/19,PM,5,10
+Tanya,BY,0,4/14/19,PM,5,10
+Anton,UA,8,4/8/19,Sales,5,10
+Anton,UA,8,4/9/19,Sales,5,10
+Anton,UA,8,4/10/19,Sales,5,10
+Anton,UA,8,4/11/19,Sales,5,10
+Anton,UA,8,4/12/19,Sales,5,10
+Anton,UA,0,4/13/19,Sales,5,10
+Anton,UA,0,4/14/19,Sales,5,10
+Artem,BY,8,4/15/19,CMG,5,10
+Artem,BY,8,4/16/19,CMG,5,10
+Artem,BY,8,4/17/19,CMG,5,10
+Artem,BY,8,4/18/19,CMG,5,10
+Artem,BY,8,4/19/19,CMG,5,10
+Artem,BY,0,4/20/19,CMG,5,10
+Artem,BY,0,4/21/19,CMG,5,10
+Ilya,BY,4,4/15/19,CMG,5,10
+Ilya,BY,4,4/16/19,CMG,5,10
+Ilya,BY,5.5,4/17/19,CMG,5,10
+Ilya,BY,0,4/18/19,CMG,5,10
+Ilya,BY,0,4/19/19,CMG,5,10
+Ilya,BY,0,4/20/19,CMG,5,10
+Ilya,BY,0,4/21/19,CMG,5,10
+Andreii,UA,8,4/15/19,Cresa,5,10
+Andreii,UA,8,4/16/19,Cresa,5,10
+Andreii,UA,9,4/17/19,Cresa,5,10
+Andreii,UA,0,4/18/19,Cresa,5,10
+Andreii,UA,0,4/19/19,Cresa,5,10
+Andreii,UA,0,4/20/19,Cresa,5,10
+Andreii,UA,0,4/21/19,Cresa,5,10
+Alex V,BY,0,4/15/19,Cresa,5,10
+Alex V,BY,0,4/16/19,Cresa,5,10
+Alex V,BY,8,4/17/19,Cresa,5,10
+Alex V,BY,0,4/18/19,Cresa,5,10
+Alex V,BY,0,4/19/19,Cresa,5,10
+Alex V,BY,0,4/20/19,Cresa,5,10
+Alex V,BY,0,4/21/19,Cresa,5,10
+Alex V,BY,8,4/15/19,EWC,5,10
+Alex V,BY,8,4/16/19,EWC,5,10
+Alex V,BY,8,4/17/19,EWC,5,10
+Alex V,BY,8,4/18/19,EWC,5,10
+Alex V,BY,0,4/19/19,EWC,5,10
+Alex V,BY,0,4/20/19,EWC,5,10
+Alex V,BY,0,4/21/19,EWC,5,10
+Profit,US,8,4/15/19,EWC,5,10
+Profit,US,8,4/16/19,EWC,5,10
+Profit,US,8,4/17/19,EWC,5,10
+Profit,US,8,4/18/19,EWC,5,10
+Profit,US,0,4/19/19,EWC,5,10
+Profit,US,0,4/20/19,EWC,5,10
+Profit,US,0,4/21/19,EWC,5,10
+Andrew,BY,5,4/15/19,DMC,5,10
+Andrew,BY,5,4/16/19,DMC,5,10
+Andrew,BY,5,4/17/19,DMC,5,10
+Andrew,BY,5,4/18/19,DMC,5,10
+Andrew,BY,0,4/19/19,DMC,5,10
+Andrew,BY,0,4/20/19,DMC,5,10
+Andrew,BY,0,4/21/19,DMC,5,10
+Vlad,BY,8,4/15/19,TBG,5,10
+Vlad,BY,8,4/16/19,TBG,5,10
+Vlad,BY,8,4/17/19,TBG,5,10
+Vlad,BY,8,4/18/19,TBG,5,10
+Vlad,BY,8,4/19/19,TBG,5,10
+Vlad,BY,0,4/20/19,TBG,5,10
+Vlad,BY,0,4/21/19,TBG,5,10
+Andrey P,UA,9,4/15/19,TBG,5,10
+Andrey P,UA,9,4/16/19,TBG,5,10
+Andrey P,UA,10,4/17/19,TBG,5,10
+Andrey P,UA,9,4/18/19,TBG,5,10
+Andrey P,UA,8,4/19/19,TBG,5,10
+Andrey P,UA,0,4/20/19,TBG,5,10
+Andrey P,UA,0,4/21/19,TBG,5,10
+Profit,US,5,4/15/19,MyMax,5,10
+Profit,US,5,4/16/19,MyMax,5,10
+Profit,US,0,4/17/19,MyMax,5,10
+Profit,US,0,4/18/19,MyMax,5,10
+Profit,US,0,4/19/19,MyMax,5,10
+Profit,US,0,4/20/19,MyMax,5,10
+Profit,US,0,4/21/19,MyMax,5,10
+Tanya,BY,8,4/15/19,PM,5,10
+Tanya,BY,8,4/16/19,PM,5,10
+Tanya,BY,9,4/17/19,PM,5,10
+Tanya,BY,10,4/18/19,PM,5,10
+Tanya,BY,0,4/19/19,PM,5,10
+Tanya,BY,0,4/20/19,PM,5,10
+Tanya,BY,0,4/21/19,PM,5,10
+Anton,UA,8,4/15/19,Sales,5,10
+Anton,UA,8,4/16/19,Sales,5,10
+Anton,UA,8,4/17/19,Sales,5,10
+Anton,UA,8,4/18/19,Sales,5,10
+Anton,UA,8,4/19/19,Sales,5,10
+Anton,UA,0,4/20/19,Sales,5,10
+Anton,UA,0,4/21/19,Sales,5,10
+Artem,BY,8,4/22/19,CMG,5,10
+Artem,BY,8,4/23/19,CMG,5,10
+Artem,BY,8,4/24/19,CMG,5,10
+Artem,BY,8,4/25/19,CMG,5,10
+Artem,BY,8,4/26/19,CMG,5,10
+Artem,BY,0,4/27/19,CMG,5,10
+Artem,BY,0,4/28/19,CMG,5,10
+Ilya,BY,8,4/22/19,CMG,5,10
+Ilya,BY,2,4/23/19,CMG,5,10
+Ilya,BY,2.5,4/24/19,CMG,5,10
+Ilya,BY,0,4/25/19,CMG,5,10
+Ilya,BY,0,4/26/19,CMG,5,10
+Ilya,BY,0,4/27/19,CMG,5,10
+Ilya,BY,0,4/28/19,CMG,5,10
+Alex V,BY,6,4/22/19,Zoll Estimate,5,10
+Alex V,BY,0,4/23/19,Zoll Estimate,5,10
+Alex V,BY,0,4/24/19,Zoll Estimate,5,10
+Alex V,BY,0,4/25/19,Zoll Estimate,5,10
+Alex V,BY,0,4/26/19,Zoll Estimate,5,10
+Alex V,BY,0,4/27/19,Zoll Estimate,5,10
+Alex V,BY,0,4/28/19,Zoll Estimate,5,10
+Andreii,UA,8,4/22/19,Cresa,5,10
+Andreii,UA,8,4/23/19,Cresa,5,10
+Andreii,UA,2.5,4/24/19,Cresa,5,10
+Andreii,UA,0,4/25/19,Cresa,5,10
+Andreii,UA,0,4/26/19,Cresa,5,10
+Andreii,UA,0,4/27/19,Cresa,5,10
+Andreii,UA,0,4/28/19,Cresa,5,10
+Alex V,BY,3,4/22/19,Cresa,5,10
+Alex V,BY,0,4/23/19,Cresa,5,10
+Alex V,BY,0,4/24/19,Cresa,5,10
+Alex V,BY,0,4/25/19,Cresa,5,10
+Alex V,BY,0,4/26/19,Cresa,5,10
+Alex V,BY,0,4/27/19,Cresa,5,10
+Alex V,BY,0,4/28/19,Cresa,5,10
+Andrew,BY,4,4/22/19,DMC,5,10
+Andrew,BY,4,4/23/19,DMC,5,10
+Andrew,BY,4,4/24/19,DMC,5,10
+Andrew,BY,4,4/25/19,DMC,5,10
+Andrew,BY,4,4/26/19,DMC,5,10
+Andrew,BY,0,4/27/19,DMC,5,10
+Andrew,BY,0,4/28/19,DMC,5,10
+Alex V,BY,8,4/22/19,DMC,5,10
+Alex V,BY,7,4/23/19,DMC,5,10
+Alex V,BY,0,4/24/19,DMC,5,10
+Alex V,BY,0,4/25/19,DMC,5,10
+Alex V,BY,0,4/26/19,DMC,5,10
+Alex V,BY,0,4/27/19,DMC,5,10
+Alex V,BY,0,4/28/19,DMC,5,10
+Vlad,BY,8,4/22/19,TBG,5,10
+Vlad,BY,8,4/23/19,TBG,5,10
+Vlad,BY,8,4/24/19,TBG,5,10
+Vlad,BY,8,4/25/19,TBG,5,10
+Vlad,BY,0,4/26/19,TBG,5,10
+Vlad,BY,0,4/27/19,TBG,5,10
+Vlad,BY,0,4/28/19,TBG,5,10
+Andrey P,UA,8,4/22/19,TBG,5,10
+Andrey P,UA,9,4/23/19,TBG,5,10
+Andrey P,UA,10,4/24/19,TBG,5,10
+Andrey P,UA,8.5,4/25/19,TBG,5,10
+Andrey P,UA,8,4/26/19,TBG,5,10
+Andrey P,UA,0,4/27/19,TBG,5,10
+Andrey P,UA,0,4/28/19,TBG,5,10
+Alex V,BY,8,4/22/19,MyMax,5,10
+Alex V,BY,8,4/23/19,MyMax,5,10
+Alex V,BY,0,4/24/19,MyMax,5,10
+Alex V,BY,0,4/25/19,MyMax,5,10
+Alex V,BY,0,4/26/19,MyMax,5,10
+Alex V,BY,0,4/27/19,MyMax,5,10
+Alex V,BY,0,4/28/19,MyMax,5,10
+Profit,US,9,4/22/19,EWC,5,10
+Profit,US,9,4/23/19,EWC,5,10
+Profit,US,0,4/24/19,EWC,5,10
+Profit,US,0,4/25/19,EWC,5,10
+Profit,US,0,4/26/19,EWC,5,10
+Profit,US,0,4/27/19,EWC,5,10
+Profit,US,0,4/28/19,EWC,5,10
+Ilya,BY,3,4/22/19,Zoll Estimate,5,10
+Ilya,BY,0,4/23/19,Zoll Estimate,5,10
+Ilya,BY,0,4/24/19,Zoll Estimate,5,10
+Ilya,BY,0,4/25/19,Zoll Estimate,5,10
+Ilya,BY,0,4/26/19,Zoll Estimate,5,10
+Ilya,BY,0,4/27/19,Zoll Estimate,5,10
+Ilya,BY,0,4/28/19,Zoll Estimate,5,10
+Ilya,BY,4,4/22/19,EWC,5,10
+Ilya,BY,0,4/23/19,EWC,5,10
+Ilya,BY,0,4/24/19,EWC,5,10
+Ilya,BY,0,4/25/19,EWC,5,10
+Ilya,BY,0,4/26/19,EWC,5,10
+Ilya,BY,0,4/27/19,EWC,5,10
+Ilya,BY,0,4/28/19,EWC,5,10
+Tanya,BY,8,4/22/19,PM,5,10
+Tanya,BY,8,4/23/19,PM,5,10
+Tanya,BY,8,4/24/19,PM,5,10
+Tanya,BY,8,4/25/19,PM,5,10
+Tanya,BY,0,4/26/19,PM,5,10
+Tanya,BY,0,4/27/19,PM,5,10
+Tanya,BY,0,4/28/19,PM,5,10
+Anton,UA,8,4/22/19,Sales,5,10
+Anton,UA,8,4/23/19,Sales,5,10
+Anton,UA,8,4/24/19,Sales,5,10
+Anton,UA,8,4/25/19,Sales,5,10
+Anton,UA,0,4/26/19,Sales,5,10
+Anton,UA,8,4/27/19,Sales,5,10
+Anton,UA,0,4/28/19,Sales,5,10
+Artem,BY,8,4/29/19,CMG,5,10
+Artem,BY,8,4/30/19,CMG,5,10
+Artem,BY,8,5/1/19,CMG,5,10
+Artem,BY,8,5/2/19,CMG,5,10
+Artem,BY,8,5/3/19,CMG,5,10
+Artem,BY,0,5/4/19,CMG,5,10
+Artem,BY,0,5/5/19,CMG,5,10
+Ilya,BY,4,4/29/19,CMG,5,10
+Ilya,BY,0,4/30/19,CMG,5,10
+Ilya,BY,0,5/1/19,CMG,5,10
+Ilya,BY,0,5/2/19,CMG,5,10
+Ilya,BY,0,5/3/19,CMG,5,10
+Ilya,BY,0,5/4/19,CMG,5,10
+Ilya,BY,0,5/5/19,CMG,5,10
+Alex V,BY,3,4/29/19,MyMax,5,10
+Alex V,BY,0,4/30/19,MyMax,5,10
+Alex V,BY,0,5/1/19,MyMax,5,10
+Alex V,BY,0,5/2/19,MyMax,5,10
+Alex V,BY,0,5/3/19,MyMax,5,10
+Alex V,BY,0,5/4/19,MyMax,5,10
+Alex V,BY,0,5/5/19,MyMax,5,10
+Alex V,BY,0,4/29/19,Enform,5,10
+Alex V,BY,0,4/30/19,Enform,5,10
+Alex V,BY,8,5/1/19,Enform,5,10
+Alex V,BY,8,5/2/19,Enform,5,10
+Alex V,BY,9,5/3/19,Enform,5,10
+Alex V,BY,0,5/4/19,Enform,5,10
+Alex V,BY,0,5/5/19,Enform,5,10
+Profit,US,8,4/29/19,Enform,5,10
+Profit,US,7,4/30/19,Enform,5,10
+Profit,US,0,5/1/19,Enform,5,10
+Profit,US,0,5/2/19,Enform,5,10
+Profit,US,0,5/3/19,Enform,5,10
+Profit,US,0,5/4/19,Enform,5,10
+Profit,US,0,5/5/19,Enform,5,10
+Alex V,BY,8,4/29/19,DMC,5,10
+Alex V,BY,0,4/30/19,DMC,5,10
+Alex V,BY,0,5/1/19,DMC,5,10
+Alex V,BY,0,5/2/19,DMC,5,10
+Alex V,BY,0,5/3/19,DMC,5,10
+Alex V,BY,0,5/4/19,DMC,5,10
+Alex V,BY,0,5/5/19,DMC,5,10
+Andrew,BY,8,4/29/19,DMC,5,10
+Andrew,BY,4,4/30/19,DMC,5,10
+Andrew,BY,0,5/1/19,DMC,5,10
+Andrew,BY,0,5/2/19,DMC,5,10
+Andrew,BY,0,5/3/19,DMC,5,10
+Andrew,BY,0,5/4/19,DMC,5,10
+Andrew,BY,0,5/5/19,DMC,5,10
+Andrew,BY,0,4/29/19,DMC,5,10
+Andrew,BY,0,4/30/19,DMC,5,10
+Andrew,BY,10,5/1/19,DMC,5,10
+Andrew,BY,2,5/2/19,DMC,5,10
+Andrew,BY,0,5/3/19,DMC,5,10
+Andrew,BY,0,5/4/19,DMC,5,10
+Andrew,BY,0,5/5/19,DMC,5,10
+Alex V,BY,4,4/29/19,Zoll Estimate,5,10
+Alex V,BY,0,4/30/19,Zoll Estimate,5,10
+Alex V,BY,0,5/1/19,Zoll Estimate,5,10
+Alex V,BY,0,5/2/19,Zoll Estimate,5,10
+Alex V,BY,0,5/3/19,Zoll Estimate,5,10
+Alex V,BY,0,5/4/19,Zoll Estimate,5,10
+Alex V,BY,0,5/5/19,Zoll Estimate,5,10
+Ilya,BY,3,4/29/19,Zoll Estimate,5,10
+Ilya,BY,0,4/30/19,Zoll Estimate,5,10
+Ilya,BY,0,5/1/19,Zoll Estimate,5,10
+Ilya,BY,0,5/2/19,Zoll Estimate,5,10
+Ilya,BY,0,5/3/19,Zoll Estimate,5,10
+Ilya,BY,0,5/4/19,Zoll Estimate,5,10
+Ilya,BY,0,5/5/19,Zoll Estimate,5,10
+Tanya,BY,8,4/29/19,PM,5,10
+Tanya,BY,8,4/30/19,PM,5,10
+Tanya,BY,8,5/1/19,PM,5,10
+Tanya,BY,8,5/2/19,PM,5,10
+Tanya,BY,2,5/3/19,PM,5,10
+Tanya,BY,0,5/4/19,PM,5,10
+Tanya,BY,0,5/5/19,PM,5,10
+Vlad,BY,0,4/29/19,TBG,5,10
+Vlad,BY,8,4/30/19,TBG,5,10
+Vlad,BY,8,5/1/19,TBG,5,10
+Vlad,BY,8,5/2/19,TBG,5,10
+Vlad,BY,8,5/3/19,TBG,5,10
+Vlad,BY,8,5/4/19,TBG,5,10
+Vlad,BY,0,5/5/19,TBG,5,10
+Andrey P,UA,0,4/29/19,TBG,5,10
+Andrey P,UA,8,4/30/19,TBG,5,10
+Andrey P,UA,0,5/1/19,TBG,5,10
+Andrey P,UA,8,5/2/19,TBG,5,10
+Andrey P,UA,9,5/3/19,TBG,5,10
+Andrey P,UA,0,5/4/19,TBG,5,10
+Andrey P,UA,0,5/5/19,TBG,5,10
+Anton,UA,8,4/29/19,Sales,5,10
+Anton,UA,8,4/30/19,Sales,5,10
+Anton,UA,8,5/1/19,Sales,5,10
+Anton,UA,8,5/2/19,Sales,5,10
+Anton,UA,8,5/3/19,Sales,5,10
+Anton,UA,0,5/4/19,Sales,5,10
+Anton,UA,0,5/5/19,Sales,5,10
+Andreii,UA,0,4/29/19,Cresa,5,10
+Andreii,UA,0,4/30/19,Cresa,5,10
+Andreii,UA,0,5/1/19,Cresa,5,10
+Andreii,UA,4,5/2/19,Cresa,5,10
+Andreii,UA,3,5/3/19,Cresa,5,10
+Andreii,UA,0,5/4/19,Cresa,5,10
+Andreii,UA,0,5/5/19,Cresa,5,10
+Profit,US,0,4/29/19,Cresa,5,10
+Profit,US,0,4/30/19,Cresa,5,10
+Profit,US,5,5/1/19,Cresa,5,10
+Profit,US,5,5/2/19,Cresa,5,10
+Profit,US,0,5/3/19,Cresa,5,10
+Profit,US,0,5/4/19,Cresa,5,10
+Profit,US,0,5/5/19,Cresa,5,10
+Profit,US,0,4/29/19,MyMax,5,10
+Profit,US,0,4/30/19,MyMax,5,10
+Profit,US,5,5/1/19,MyMax,5,10
+Profit,US,5,5/2/19,MyMax,5,10
+Profit,US,0,5/3/19,MyMax,5,10
+Profit,US,0,5/4/19,MyMax,5,10
+Profit,US,0,5/5/19,MyMax,5,10
+Roman,UA,0,4/22/19,HSL,5,10
+Roman,UA,0,4/23/19,HSL,5,10
+Roman,UA,0,4/24/19,HSL,5,10
+Roman,UA,0,4/25/19,HSL,5,10
+Roman,UA,8,4/26/19,HSL,5,10
+Roman,UA,0,4/27/19,HSL,5,10
+Roman,UA,0,4/28/19,HSL,5,10
+Roman,UA,0,4/29/19,HSL,5,10
+Roman,UA,0,4/30/19,HSL,5,10
+Roman,UA,0,5/1/19,HSL,5,10
+Roman,UA,8,5/2/19,HSL,5,10
+Roman,UA,4,5/3/19,HSL,5,10
+Roman,UA,0,5/4/19,HSL,5,10
+Roman,UA,0,5/5/19,HSL,5,10
+Artem,BY,0,5/6/19,CMG,5,10
+Artem,BY,0,5/7/19,CMG,5,10
+Artem,BY,0,5/8/19,CMG,5,10
+Artem,BY,8,5/9/19,CMG,5,10
+Artem,BY,8,5/10/19,CMG,5,10
+Artem,BY,0,5/11/19,CMG,5,10
+Artem,BY,0,5/12/19,CMG,5,10
+Ilya,BY,0,5/6/19,CMG,5,10
+Ilya,BY,0,5/7/19,CMG,5,10
+Ilya,BY,0,5/8/19,CMG,5,10
+Ilya,BY,8,5/9/19,CMG,5,10
+Ilya,BY,8,5/10/19,CMG,5,10
+Ilya,BY,0,5/11/19,CMG,5,10
+Ilya,BY,0,5/12/19,CMG,5,10
+Vlad,BY,0,5/6/19,TBG,5,10
+Vlad,BY,0,5/7/19,TBG,5,10
+Vlad,BY,0,5/8/19,TBG,5,10
+Vlad,BY,0,5/9/19,TBG,5,10
+Vlad,BY,8,5/10/19,TBG,5,10
+Vlad,BY,8,5/11/19,TBG,5,10
+Vlad,BY,0,5/12/19,TBG,5,10
+Roman,UA,4.5,5/6/19,Cresa,5,10
+Roman,UA,7.5,5/7/19,Cresa,5,10
+Roman,UA,8,5/8/19,Cresa,5,10
+Roman,UA,8,5/9/19,Cresa,5,10
+Roman,UA,0,5/10/19,Cresa,5,10
+Roman,UA,0,5/11/19,Cresa,5,10
+Roman,UA,0,5/12/19,Cresa,5,10
+Andreii,UA,0,5/6/19,Cresa,5,10
+Andreii,UA,3,5/7/19,Cresa,5,10
+Andreii,UA,3,5/8/19,Cresa,5,10
+Andreii,UA,0,5/9/19,Cresa,5,10
+Andreii,UA,0,5/10/19,Cresa,5,10
+Andreii,UA,0,5/11/19,Cresa,5,10
+Andreii,UA,0,5/12/19,Cresa,5,10
+Andrey P,UA,9,5/6/19,TBG,5,10
+Andrey P,UA,8,5/7/19,TBG,5,10
+Andrey P,UA,8,5/8/19,TBG,5,10
+Andrey P,UA,0,5/9/19,TBG,5,10
+Andrey P,UA,8.5,5/10/19,TBG,5,10
+Andrey P,UA,0,5/11/19,TBG,5,10
+Andrey P,UA,0,5/12/19,TBG,5,10
+Eugene F,UA,1.5,5/6/19,INTERN,5,10
+Eugene F,UA,6,5/7/19,INTERN,5,10
+Eugene F,UA,2,5/8/19,INTERN,5,10
+Eugene F,UA,5.5,5/9/19,INTERN,5,10
+Eugene F,UA,6.5,5/10/19,INTERN,5,10
+Eugene F,UA,3.5,5/11/19,INTERN,5,10
+Eugene F,UA,0,5/12/19,INTERN,5,10
+Pavlo,UA,8,5/6/19,Enforme,5,10
+Pavlo,UA,8,5/7/19,Enforme,5,10
+Pavlo,UA,8,5/8/19,Enforme,5,10
+Pavlo,UA,8,5/9/19,Enforme,5,10
+Pavlo,UA,8,5/10/19,Enforme,5,10
+Pavlo,UA,0,5/11/19,Enforme,5,10
+Pavlo,UA,0,5/12/19,Enforme,5,10
+Andrew,BY,0,5/6/19,DMC,5,10
+Andrew,BY,0,5/7/19,DMC,5,10
+Andrew,BY,0,5/8/19,DMC,5,10
+Andrew,BY,0,5/9/19,DMC,5,10
+Andrew,BY,8,5/10/19,DMC,5,10
+Andrew,BY,8,5/11/19,DMC,5,10
+Andrew,BY,0,5/12/19,DMC,5,10
+Profit,US,4,5/6/19,DMC,5,10
+Profit,US,4,5/7/19,DMC,5,10
+Profit,US,0,5/8/19,DMC,5,10
+Profit,US,0,5/9/19,DMC,5,10
+Profit,US,0,5/10/19,DMC,5,10
+Profit,US,0,5/11/19,DMC,5,10
+Profit,US,0,5/12/19,DMC,5,10
+Profit,US,5,5/6/19,MyMax,5,10
+Profit,US,5,5/7/19,MyMax,5,10
+Profit,US,0,5/8/19,MyMax,5,10
+Profit,US,0,5/9/19,MyMax,5,10
+Profit,US,0,5/10/19,MyMax,5,10
+Profit,US,0,5/11/19,MyMax,5,10
+Profit,US,0,5/12/19,MyMax,5,10
+Anton,UA,8,5/6/19,Sales,5,10
+Anton,UA,8,5/7/19,Sales,5,10
+Anton,UA,8,5/8/19,Sales,5,10
+Anton,UA,8,5/9/19,Sales,5,10
+Anton,UA,8,5/10/19,Sales,5,10
+Anton,UA,0,5/11/19,Sales,5,10
+Anton,UA,0,5/12/19,Sales,5,10
+Tanya,BY,0,5/6/19,PM,5,10
+Tanya,BY,0,5/7/19,PM,5,10
+Tanya,BY,0,5/8/19,PM,5,10
+Tanya,BY,0,5/9/19,PM,5,10
+Tanya,BY,7,5/10/19,PM,5,10
+Tanya,BY,7,5/11/19,PM,5,10
+Tanya,BY,0,5/12/19,PM,5,10
+Andrew,BY,8,5/13/19,DMC,5,10
+Andrew,BY,8,5/14/19,DMC,5,10
+Andrew,BY,0,5/15/19,DMC,5,10
+Andrew,BY,0,5/16/19,DMC,5,10
+Andrew,BY,0,5/17/19,DMC,5,10
+Andrew,BY,0,5/18/19,DMC,5,10
+Andrew,BY,0,5/19/19,DMC,5,10
+Artem,BY,8,5/13/19,CMG,5,10
+Artem,BY,8,5/14/19,CMG,5,10
+Artem,BY,8,5/15/19,CMG,5,10
+Artem,BY,8,5/16/19,CMG,5,10
+Artem,BY,8,5/17/19,CMG,5,10
+Artem,BY,0,5/18/19,CMG,5,10
+Artem,BY,0,5/19/19,CMG,5,10
+Andrew,BY,0,5/13/19,Cresa,5,10
+Andrew,BY,0,5/14/19,Cresa,5,10
+Andrew,BY,8,5/15/19,Cresa,5,10
+Andrew,BY,8,5/16/19,Cresa,5,10
+Andrew,BY,0,5/17/19,Cresa,5,10
+Andrew,BY,0,5/18/19,Cresa,5,10
+Andrew,BY,0,5/19/19,Cresa,5,10
+Andrew,BY,0,5/13/19,Enforme,5,10
+Andrew,BY,0,5/14/19,Enforme,5,10
+Andrew,BY,0,5/15/19,Enforme,5,10
+Andrew,BY,0,5/16/19,Enforme,5,10
+Andrew,BY,8,5/17/19,Enforme,5,10
+Andrew,BY,0,5/18/19,Enforme,5,10
+Andrew,BY,0,5/19/19,Enforme,5,10
+Ilya,BY,4,5/13/19,CMG,5,10
+Ilya,BY,4,5/14/19,CMG,5,10
+Ilya,BY,4,5/15/19,CMG,5,10
+Ilya,BY,4,5/16/19,CMG,5,10
+Ilya,BY,3.5,5/17/19,CMG,5,10
+Ilya,BY,0,5/18/19,CMG,5,10
+Ilya,BY,0,5/19/19,CMG,5,10
+Tanya,BY,6,5/13/19,PM,5,10
+Tanya,BY,6,5/14/19,PM,5,10
+Tanya,BY,6,5/15/19,PM,5,10
+Tanya,BY,8,5/16/19,PM,5,10
+Tanya,BY,8,5/17/19,PM,5,10
+Tanya,BY,0,5/18/19,PM,5,10
+Tanya,BY,0,5/19/19,PM,5,10
+Vlad,BY,8,5/13/19,TBG,5,10
+Vlad,BY,8,5/14/19,TBG,5,10
+Vlad,BY,8,5/15/19,TBG,5,10
+Vlad,BY,8,5/16/19,TBG,5,10
+Vlad,BY,8,5/17/19,TBG,5,10
+Vlad,BY,0,5/18/19,TBG,5,10
+Vlad,BY,0,5/19/19,TBG,5,10
+Andrey P,UA,8,5/13/19,TBG,5,10
+Andrey P,UA,8,5/14/19,TBG,5,10
+Andrey P,UA,8,5/15/19,TBG,5,10
+Andrey P,UA,8,5/16/19,TBG,5,10
+Andrey P,UA,8,5/17/19,TBG,5,10
+Andrey P,UA,0,5/18/19,TBG,5,10
+Andrey P,UA,0,5/19/19,TBG,5,10
+Andreii,UA,8,5/13/19,Cresa,5,10
+Andreii,UA,4,5/14/19,Cresa,5,10
+Andreii,UA,1,5/15/19,Cresa,5,10
+Andreii,UA,2,5/16/19,Cresa,5,10
+Andreii,UA,3,5/17/19,Cresa,5,10
+Andreii,UA,0,5/18/19,Cresa,5,10
+Andreii,UA,0,5/19/19,Cresa,5,10
+Pavlo,UA,8,5/13/19,Enforme,5,10
+Pavlo,UA,5.5,5/14/19,Enforme,5,10
+Pavlo,UA,0,5/15/19,Enforme,5,10
+Pavlo,UA,0,5/16/19,Enforme,5,10
+Pavlo,UA,0,5/17/19,Enforme,5,10
+Pavlo,UA,0,5/18/19,Enforme,5,10
+Pavlo,UA,0,5/19/19,Enforme,5,10
+Eugene F,UA,7.5,5/13/19,INTERN,5,10
+Eugene F,UA,6,5/14/19,INTERN,5,10
+Eugene F,UA,7,5/15/19,INTERN,5,10
+Eugene F,UA,2.5,5/16/19,INTERN,5,10
+Eugene F,UA,6,5/17/19,INTERN,5,10
+Eugene F,UA,0,5/18/19,INTERN,5,10
+Eugene F,UA,0,5/19/19,INTERN,5,10
+Roman,UA,8,5/13/19,Enforme,5,10
+Roman,UA,0,5/14/19,Enforme,5,10
+Roman,UA,0,5/15/19,Enforme,5,10
+Roman,UA,0,5/16/19,Enforme,5,10
+Roman,UA,0,5/17/19,Enforme,5,10
+Roman,UA,0,5/18/19,Enforme,5,10
+Roman,UA,0,5/19/19,Enforme,5,10
+Anton,UA,8,5/13/19,Sales,5,10
+Anton,UA,8,5/14/19,Sales,5,10
+Anton,UA,8,5/15/19,Sales,5,10
+Anton,UA,8,5/16/19,Sales,5,10
+Anton,UA,8,5/17/19,Sales,5,10
+Anton,UA,0,5/18/19,Sales,5,10
+Anton,UA,0,5/19/19,Sales,5,10
+Profit,US,5,5/13/19,MyMax,5,10
+Profit,US,5,5/14/19,MyMax,5,10
+Profit,US,0,5/15/19,MyMax,5,10
+Profit,US,0,5/16/19,MyMax,5,10
+Profit,US,0,5/17/19,MyMax,5,10
+Profit,US,0,5/18/19,MyMax,5,10
+Profit,US,0,5/19/19,MyMax,5,10
+Profit,US,4,5/13/19,DMC,5,10
+Profit,US,0,5/14/19,DMC,5,10
+Profit,US,0,5/15/19,DMC,5,10
+Profit,US,0,5/16/19,DMC,5,10
+Profit,US,0,5/17/19,DMC,5,10
+Profit,US,0,5/18/19,DMC,5,10
+Profit,US,0,5/19/19,DMC,5,10
+Andrew,BY,8,5/20/19,Enforme,5,10
+Andrew,BY,0,5/21/19,Enforme,5,10
+Andrew,BY,0,5/22/19,Enforme,5,10
+Andrew,BY,0,5/23/19,Enforme,5,10
+Andrew,BY,0,5/24/19,Enforme,5,10
+Andrew,BY,0,5/25/19,Enforme,5,10
+Andrew,BY,0,5/26/19,Enforme,5,10
+Andrew,BY,8,5/20/19,DMC,5,10
+Andrew,BY,8,5/21/19,DMC,5,10
+Andrew,BY,8,5/22/19,DMC,5,10
+Andrew,BY,0,5/23/19,DMC,5,10
+Andrew,BY,0,5/24/19,DMC,5,10
+Andrew,BY,0,5/25/19,DMC,5,10
+Andrew,BY,0,5/26/19,DMC,5,10
+Ilya,BY,8,5/20/19,EWC,5,10
+Ilya,BY,8,5/21/19,EWC,5,10
+Ilya,BY,8,5/22/19,EWC,5,10
+Ilya,BY,0,5/23/19,EWC,5,10
+Ilya,BY,0,5/24/19,EWC,5,10
+Ilya,BY,0,5/25/19,EWC,5,10
+Ilya,BY,0,5/26/19,EWC,5,10
+Tanya,BY,5,5/20/19,EWC,5,10
+Tanya,BY,5,5/21/19,EWC,5,10
+Tanya,BY,0,5/22/19,EWC,5,10
+Tanya,BY,0,5/23/19,EWC,5,10
+Tanya,BY,0,5/24/19,EWC,5,10
+Tanya,BY,0,5/25/19,EWC,5,10
+Tanya,BY,0,5/26/19,EWC,5,10
+Tanya,BY,10,5/20/19,PM,5,10
+Tanya,BY,10,5/21/19,PM,5,10
+Tanya,BY,10,5/22/19,PM,5,10
+Tanya,BY,0,5/23/19,PM,5,10
+Tanya,BY,0,5/24/19,PM,5,10
+Tanya,BY,0,5/25/19,PM,5,10
+Tanya,BY,0,5/26/19,PM,5,10
+Vlad,BY,8,5/20/19,TBG,5,10
+Vlad,BY,8,5/21/19,TBG,5,10
+Vlad,BY,8,5/22/19,TBG,5,10
+Vlad,BY,8,5/23/19,TBG,5,10
+Vlad,BY,8,5/24/19,TBG,5,10
+Vlad,BY,0,5/25/19,TBG,5,10
+Vlad,BY,0,5/26/19,TBG,5,10
+Artem,BY,8,5/20/19,CMG,5,10
+Artem,BY,8,5/21/19,CMG,5,10
+Artem,BY,8,5/22/19,CMG,5,10
+Artem,BY,8,5/23/19,CMG,5,10
+Artem,BY,8,5/24/19,CMG,5,10
+Artem,BY,0,5/25/19,CMG,5,10
+Artem,BY,0,5/26/19,CMG,5,10
+Ilya,BY,5,5/20/19,CMG,5,10
+Ilya,BY,5,5/21/19,CMG,5,10
+Ilya,BY,0,5/22/19,CMG,5,10
+Ilya,BY,0,5/23/19,CMG,5,10
+Ilya,BY,0,5/24/19,CMG,5,10
+Ilya,BY,0,5/25/19,CMG,5,10
+Ilya,BY,0,5/26/19,CMG,5,10
+Andrey P,UA,10,5/20/19,TBG,5,10
+Andrey P,UA,10,5/21/19,TBG,5,10
+Andrey P,UA,10,5/22/19,TBG,5,10
+Andrey P,UA,10,5/23/19,TBG,5,10
+Andrey P,UA,8,5/24/19,TBG,5,10
+Andrey P,UA,0,5/25/19,TBG,5,10
+Andrey P,UA,0,5/26/19,TBG,5,10
+Eugene F,UA,0,5/20/19,INTERN,5,10
+Eugene F,UA,0,5/21/19,INTERN,5,10
+Eugene F,UA,1.5,5/22/19,INTERN,5,10
+Eugene F,UA,10,5/23/19,INTERN,5,10
+Eugene F,UA,9,5/24/19,INTERN,5,10
+Eugene F,UA,0,5/25/19,INTERN,5,10
+Eugene F,UA,0,5/26/19,INTERN,5,10
+Andreii,UA,3,5/20/19,Cresa,5,10
+Andreii,UA,2.5,5/21/19,Cresa,5,10
+Andreii,UA,2.5,5/22/19,Cresa,5,10
+Andreii,UA,0,5/23/19,Cresa,5,10
+Andreii,UA,0,5/24/19,Cresa,5,10
+Andreii,UA,0,5/25/19,Cresa,5,10
+Andreii,UA,0,5/26/19,Cresa,5,10
+Andrew,BY,8,5/20/19,EWC,5,10
+Andrew,BY,0,5/21/19,EWC,5,10
+Andrew,BY,0,5/22/19,EWC,5,10
+Andrew,BY,0,5/23/19,EWC,5,10
+Andrew,BY,0,5/24/19,EWC,5,10
+Andrew,BY,0,5/25/19,EWC,5,10
+Andrew,BY,0,5/26/19,EWC,5,10
+Profit,US,5,5/20/19,MyMax,5,10
+Profit,US,0,5/21/19,MyMax,5,10
+Profit,US,0,5/22/19,MyMax,5,10
+Profit,US,0,5/23/19,MyMax,5,10
+Profit,US,0,5/24/19,MyMax,5,10
+Profit,US,0,5/25/19,MyMax,5,10
+Profit,US,0,5/26/19,MyMax,5,10
+Profit,US,5,5/20/19,EWC,5,10
+Profit,US,5,5/21/19,EWC,5,10
+Profit,US,5,5/22/19,EWC,5,10
+Profit,US,5,5/23/19,EWC,5,10
+Profit,US,0,5/24/19,EWC,5,10
+Profit,US,0,5/25/19,EWC,5,10
+Profit,US,0,5/26/19,EWC,5,10
+Anton,UA,8,5/20/19,Sales,5,10
+Anton,UA,8,5/21/19,Sales,5,10
+Anton,UA,8,5/22/19,Sales,5,10
+Anton,UA,8,5/23/19,Sales,5,10
+Anton,UA,8,5/24/19,Sales,5,10
+Anton,UA,0,5/25/19,Sales,5,10
+Anton,UA,0,5/26/19,Sales,5,10
+Roman,UA,8,5/20/19,Enforme,5,10
+Roman,UA,8,5/21/19,Enforme,5,10
+Roman,UA,8,5/22/19,Enforme,5,10
+Roman,UA,8,5/23/19,Enforme,5,10
+Roman,UA,8,5/24/19,Enforme,5,10
+Roman,UA,0,5/25/19,Enforme,5,10
+Roman,UA,0,5/26/19,Enforme,5,10
+Artem,BY,8,5/27/19,CMG,5,10
+Artem,BY,8,5/28/19,CMG,5,10
+Artem,BY,8,5/29/19,CMG,5,10
+Artem,BY,8,5/30/19,CMG,5,10
+Artem,BY,8,5/31/19,CMG,5,10
+Artem,BY,0,6/1/19,CMG,5,10
+Artem,BY,0,6/2/19,CMG,5,10
+Ilya,BY,3,5/27/19,CMG,5,10
+Ilya,BY,0,5/28/19,CMG,5,10
+Ilya,BY,0,5/29/19,CMG,5,10
+Ilya,BY,0,5/30/19,CMG,5,10
+Ilya,BY,0,5/31/19,CMG,5,10
+Ilya,BY,0,6/1/19,CMG,5,10
+Ilya,BY,0,6/2/19,CMG,5,10
+Andrew,BY,4,5/27/19,DMC,5,10
+Andrew,BY,4,5/28/19,DMC,5,10
+Andrew,BY,4,5/29/19,DMC,5,10
+Andrew,BY,4,5/30/19,DMC,5,10
+Andrew,BY,4,5/31/19,DMC,5,10
+Andrew,BY,0,6/1/19,DMC,5,10
+Andrew,BY,0,6/2/19,DMC,5,10
+Ilya,BY,8,5/27/19,EWC,5,10
+Ilya,BY,8,5/28/19,EWC,5,10
+Ilya,BY,8,5/29/19,EWC,5,10
+Ilya,BY,8,5/30/19,EWC,5,10
+Ilya,BY,8,5/31/19,EWC,5,10
+Ilya,BY,0,6/1/19,EWC,5,10
+Ilya,BY,0,6/2/19,EWC,5,10
+Andrew,BY,4,5/27/19,EWC,5,10
+Andrew,BY,4,5/28/19,EWC,5,10
+Andrew,BY,4,5/29/19,EWC,5,10
+Andrew,BY,4,5/30/19,EWC,5,10
+Andrew,BY,4,5/31/19,EWC,5,10
+Andrew,BY,0,6/1/19,EWC,5,10
+Andrew,BY,0,6/2/19,EWC,5,10
+Alex V,BY,8,5/27/19,EWC,5,10
+Alex V,BY,8,5/28/19,EWC,5,10
+Alex V,BY,8,5/29/19,EWC,5,10
+Alex V,BY,8,5/30/19,EWC,5,10
+Alex V,BY,8,5/31/19,EWC,5,10
+Alex V,BY,0,6/1/19,EWC,5,10
+Alex V,BY,0,6/2/19,EWC,5,10
+Andrey P,UA,8,5/27/19,TBG,5,10
+Andrey P,UA,8,5/28/19,TBG,5,10
+Andrey P,UA,8,5/29/19,TBG,5,10
+Andrey P,UA,9,5/30/19,TBG,5,10
+Andrey P,UA,9,5/31/19,TBG,5,10
+Andrey P,UA,0,6/1/19,TBG,5,10
+Andrey P,UA,0,6/2/19,TBG,5,10
+Profit,US,5,5/27/19,Enforme,5,10
+Profit,US,0,5/28/19,Enforme,5,10
+Profit,US,0,5/29/19,Enforme,5,10
+Profit,US,0,5/30/19,Enforme,5,10
+Profit,US,0,5/31/19,Enforme,5,10
+Profit,US,0,6/1/19,Enforme,5,10
+Profit,US,0,6/2/19,Enforme,5,10
+Vlad,BY,4,5/27/19,Enforme,5,10
+Vlad,BY,0,5/28/19,Enforme,5,10
+Vlad,BY,0,5/29/19,Enforme,5,10
+Vlad,BY,0,5/30/19,Enforme,5,10
+Vlad,BY,0,5/31/19,Enforme,5,10
+Vlad,BY,0,6/1/19,Enforme,5,10
+Vlad,BY,0,6/2/19,Enforme,5,10
+Profit,US,5,5/27/19,MyMax,5,10
+Profit,US,0,5/28/19,MyMax,5,10
+Profit,US,0,5/29/19,MyMax,5,10
+Profit,US,0,5/30/19,MyMax,5,10
+Profit,US,0,5/31/19,MyMax,5,10
+Profit,US,0,6/1/19,MyMax,5,10
+Profit,US,0,6/2/19,MyMax,5,10
+Profit,US,9,5/27/19,EWC,5,10
+Profit,US,0,5/28/19,EWC,5,10
+Profit,US,0,5/29/19,EWC,5,10
+Profit,US,0,5/30/19,EWC,5,10
+Profit,US,0,5/31/19,EWC,5,10
+Profit,US,0,6/1/19,EWC,5,10
+Profit,US,0,6/2/19,EWC,5,10
+Roman,UA,6,5/27/19,EWC,5,10
+Roman,UA,6,5/28/19,EWC,5,10
+Roman,UA,8,5/29/19,EWC,5,10
+Roman,UA,8,5/30/19,EWC,5,10
+Roman,UA,8,5/31/19,EWC,5,10
+Roman,UA,0,6/1/19,EWC,5,10
+Roman,UA,0,6/2/19,EWC,5,10
+Tanya,BY,4,5/27/19,EWC,5,10
+Tanya,BY,4,5/28/19,EWC,5,10
+Tanya,BY,4,5/29/19,EWC,5,10
+Tanya,BY,4,5/30/19,EWC,5,10
+Tanya,BY,4,5/31/19,EWC,5,10
+Tanya,BY,0,6/1/19,EWC,5,10
+Tanya,BY,0,6/2/19,EWC,5,10
+Tanya,BY,4,5/27/19,PM,5,10
+Tanya,BY,4,5/28/19,PM,5,10
+Tanya,BY,4,5/29/19,PM,5,10
+Tanya,BY,4,5/30/19,PM,5,10
+Tanya,BY,3,5/31/19,PM,5,10
+Tanya,BY,0,6/1/19,PM,5,10
+Tanya,BY,0,6/2/19,PM,5,10
+Anton,UA,8,5/27/19,Sales,5,10
+Anton,UA,8,5/28/19,Sales,5,10
+Anton,UA,8,5/29/19,Sales,5,10
+Anton,UA,8,5/30/19,Sales,5,10
+Anton,UA,8,5/31/19,Sales,5,10
+Anton,UA,0,6/1/19,Sales,5,10
+Anton,UA,0,6/2/19,Sales,5,10
+Eugene F,UA,0,5/27/19,INTERN,5,10
+Eugene F,UA,6.5,5/28/19,INTERN,5,10
+Eugene F,UA,8,5/29/19,INTERN,5,10
+Eugene F,UA,5,5/30/19,INTERN,5,10
+Eugene F,UA,7,5/31/19,INTERN,5,10
+Eugene F,UA,2,6/1/19,INTERN,5,10
+Eugene F,UA,8,6/2/19,INTERN,5,10
+Vlad,BY,8,5/27/19,TBG,5,10
+Vlad,BY,8,5/28/19,TBG,5,10
+Vlad,BY,8,5/29/19,TBG,5,10
+Vlad,BY,8,5/30/19,TBG,5,10
+Vlad,BY,8,5/31/19,TBG,5,10
+Vlad,BY,0,6/1/19,TBG,5,10
+Vlad,BY,0,6/2/19,TBG,5,10
+Artem,BY,8,6/3/19,CMG,5,10
+Artem,BY,8,6/4/19,CMG,5,10
+Artem,BY,8,6/5/19,CMG,5,10
+Artem,BY,9,6/6/19,CMG,5,10
+Artem,BY,0,6/7/19,CMG,5,10
+Artem,BY,0,6/8/19,CMG,5,10
+Artem,BY,0,6/9/19,CMG,5,10
+Ilya,BY,5,6/3/19,CMG,5,10
+Ilya,BY,5,6/4/19,CMG,5,10
+Ilya,BY,0,6/5/19,CMG,5,10
+Ilya,BY,0,6/6/19,CMG,5,10
+Ilya,BY,0,6/7/19,CMG,5,10
+Ilya,BY,0,6/8/19,CMG,5,10
+Ilya,BY,0,6/9/19,CMG,5,10
+Artem,BY,3,6/3/19,MyMax,5,10
+Artem,BY,0,6/4/19,MyMax,5,10
+Artem,BY,0,6/5/19,MyMax,5,10
+Artem,BY,0,6/6/19,MyMax,5,10
+Artem,BY,0,6/7/19,MyMax,5,10
+Artem,BY,0,6/8/19,MyMax,5,10
+Artem,BY,0,6/9/19,MyMax,5,10
+Alex V,BY,8,6/3/19,EWC,5,10
+Alex V,BY,8,6/4/19,EWC,5,10
+Alex V,BY,8,6/5/19,EWC,5,10
+Alex V,BY,8,6/6/19,EWC,5,10
+Alex V,BY,8,6/7/19,EWC,5,10
+Alex V,BY,0,6/8/19,EWC,5,10
+Alex V,BY,0,6/9/19,EWC,5,10
+Ilya,BY,8,6/3/19,EWC,5,10
+Ilya,BY,8,6/4/19,EWC,5,10
+Ilya,BY,8,6/5/19,EWC,5,10
+Ilya,BY,9,6/6/19,EWC,5,10
+Ilya,BY,0,6/7/19,EWC,5,10
+Ilya,BY,0,6/8/19,EWC,5,10
+Ilya,BY,0,6/9/19,EWC,5,10
+Tanya,BY,8,6/3/19,EWC,5,10
+Tanya,BY,8,6/4/19,EWC,5,10
+Tanya,BY,0,6/5/19,EWC,5,10
+Tanya,BY,0,6/6/19,EWC,5,10
+Tanya,BY,0,6/7/19,EWC,5,10
+Tanya,BY,0,6/8/19,EWC,5,10
+Tanya,BY,0,6/9/19,EWC,5,10
+Andrew,BY,8,6/3/19,DMC,5,10
+Andrew,BY,8,6/4/19,DMC,5,10
+Andrew,BY,4,6/5/19,DMC,5,10
+Andrew,BY,12,6/6/19,DMC,5,10
+Andrew,BY,0,6/7/19,DMC,5,10
+Andrew,BY,0,6/8/19,DMC,5,10
+Andrew,BY,0,6/9/19,DMC,5,10
+Vlad,BY,8,6/3/19,TBG,5,10
+Vlad,BY,8,6/4/19,TBG,5,10
+Vlad,BY,8,6/5/19,TBG,5,10
+Vlad,BY,8,6/6/19,TBG,5,10
+Vlad,BY,8,6/7/19,TBG,5,10
+Vlad,BY,0,6/8/19,TBG,5,10
+Vlad,BY,0,6/9/19,TBG,5,10
+Vlad,BY,4,6/3/19,Mail Gun,5,10
+Vlad,BY,0,6/4/19,Mail Gun,5,10
+Vlad,BY,0,6/5/19,Mail Gun,5,10
+Vlad,BY,0,6/6/19,Mail Gun,5,10
+Vlad,BY,0,6/7/19,Mail Gun,5,10
+Vlad,BY,0,6/8/19,Mail Gun,5,10
+Vlad,BY,0,6/9/19,Mail Gun,5,10
+Vlad,BY,2,6/3/19,Zoll,5,10
+Vlad,BY,0,6/4/19,Zoll,5,10
+Vlad,BY,0,6/5/19,Zoll,5,10
+Vlad,BY,0,6/6/19,Zoll,5,10
+Vlad,BY,0,6/7/19,Zoll,5,10
+Vlad,BY,0,6/8/19,Zoll,5,10
+Vlad,BY,0,6/9/19,Zoll,5,10
+Andrew,BY,8,6/3/19,Cresa,5,10
+Andrew,BY,0,6/4/19,Cresa,5,10
+Andrew,BY,0,6/5/19,Cresa,5,10
+Andrew,BY,0,6/6/19,Cresa,5,10
+Andrew,BY,0,6/7/19,Cresa,5,10
+Andrew,BY,0,6/8/19,Cresa,5,10
+Andrew,BY,0,6/9/19,Cresa,5,10
+Artem,BY,5,6/3/19,Enforme,5,10
+Artem,BY,0,6/4/19,Enforme,5,10
+Artem,BY,0,6/5/19,Enforme,5,10
+Artem,BY,0,6/6/19,Enforme,5,10
+Artem,BY,0,6/7/19,Enforme,5,10
+Artem,BY,0,6/8/19,Enforme,5,10
+Artem,BY,0,6/9/19,Enforme,5,10
+Tanya,BY,4,6/3/19,PM,5,10
+Tanya,BY,4,6/4/19,PM,5,10
+Tanya,BY,4,6/5/19,PM,5,10
+Tanya,BY,5,6/6/19,PM,5,10
+Tanya,BY,5,6/7/19,PM,5,10
+Tanya,BY,0,6/8/19,PM,5,10
+Tanya,BY,0,6/9/19,PM,5,10
+Andrey P,UA,8,6/3/19,TBG,5,10
+Andrey P,UA,8,6/4/19,TBG,5,10
+Andrey P,UA,8,6/5/19,TBG,5,10
+Andrey P,UA,10,6/6/19,TBG,5,10
+Andrey P,UA,11,6/7/19,TBG,5,10
+Andrey P,UA,0,6/8/19,TBG,5,10
+Andrey P,UA,0,6/9/19,TBG,5,10
+Roman,UA,8,6/3/19,EWC,5,10
+Roman,UA,8,6/4/19,EWC,5,10
+Roman,UA,8,6/5/19,EWC,5,10
+Roman,UA,8,6/6/19,EWC,5,10
+Roman,UA,8,6/7/19,EWC,5,10
+Roman,UA,0,6/8/19,EWC,5,10
+Roman,UA,0,6/9/19,EWC,5,10
+Profit,US,7,6/3/19,Cresa,5,10
+Profit,US,7,6/4/19,Cresa,5,10
+Profit,US,0,6/5/19,Cresa,5,10
+Profit,US,0,6/6/19,Cresa,5,10
+Profit,US,0,6/7/19,Cresa,5,10
+Profit,US,0,6/8/19,Cresa,5,10
+Profit,US,0,6/9/19,Cresa,5,10
+Anton,UA,8,6/3/19,Sales,5,10
+Anton,UA,8,6/4/19,Sales,5,10
+Anton,UA,8,6/5/19,Sales,5,10
+Anton,UA,8,6/6/19,Sales,5,10
+Anton,UA,8,6/7/19,Sales,5,10
+Anton,UA,0,6/8/19,Sales,5,10
+Anton,UA,0,6/9/19,Sales,5,10
+Profit,US,4,6/3/19,MyMax,5,10
+Profit,US,3,6/4/19,MyMax,5,10
+Profit,US,0,6/5/19,MyMax,5,10
+Profit,US,0,6/6/19,MyMax,5,10
+Profit,US,0,6/7/19,MyMax,5,10
+Profit,US,0,6/8/19,MyMax,5,10
+Profit,US,0,6/9/19,MyMax,5,10
+Eugene F,UA,8,6/3/19,INTERN,5,10
+Eugene F,UA,8,6/4/19,INTERN,5,10
+Eugene F,UA,8,6/5/19,INTERN,5,10
+Eugene F,UA,8,6/6/19,INTERN,5,10
+Eugene F,UA,8,6/7/19,INTERN,5,10
+Eugene F,UA,8,6/8/19,INTERN,5,10
+Eugene F,UA,8,6/9/19,INTERN,5,10
+Profit,US,9,6/3/19,Enforme,5,10
+Profit,US,0,6/4/19,Enforme,5,10
+Profit,US,0,6/5/19,Enforme,5,10
+Profit,US,0,6/6/19,Enforme,5,10
+Profit,US,0,6/7/19,Enforme,5,10
+Profit,US,0,6/8/19,Enforme,5,10
+Profit,US,0,6/9/19,Enforme,5,10
+Artem,BY,8,6/10/19,CMG,5,10
+Artem,BY,8,6/11/19,CMG,5,10
+Artem,BY,8,6/12/19,CMG,5,10
+Artem,BY,8,6/13/19,CMG,5,10
+Artem,BY,8,6/14/19,CMG,5,10
+Artem,BY,0,6/15/19,CMG,5,10
+Artem,BY,0,6/16/19,CMG,5,10
+Ilya,BY,1.5,6/10/19,CMG,5,10
+Ilya,BY,0,6/11/19,CMG,5,10
+Ilya,BY,0,6/12/19,CMG,5,10
+Ilya,BY,0,6/13/19,CMG,5,10
+Ilya,BY,0,6/14/19,CMG,5,10
+Ilya,BY,0,6/15/19,CMG,5,10
+Ilya,BY,0,6/16/19,CMG,5,10
+Alex V,BY,8,6/10/19,EWC,5,10
+Alex V,BY,8,6/11/19,EWC,5,10
+Alex V,BY,8,6/12/19,EWC,5,10
+Alex V,BY,8,6/13/19,EWC,5,10
+Alex V,BY,5,6/14/19,EWC,5,10
+Alex V,BY,0,6/15/19,EWC,5,10
+Alex V,BY,0,6/16/19,EWC,5,10
+Roman,UA,8,6/10/19,EWC,5,10
+Roman,UA,8,6/11/19,EWC,5,10
+Roman,UA,8,6/12/19,EWC,5,10
+Roman,UA,8,6/13/19,EWC,5,10
+Roman,UA,8,6/14/19,EWC,5,10
+Roman,UA,0,6/15/19,EWC,5,10
+Roman,UA,0,6/16/19,EWC,5,10
+Ilya,BY,8,6/10/19,EWC,5,10
+Ilya,BY,8,6/11/19,EWC,5,10
+Ilya,BY,8,6/12/19,EWC,5,10
+Ilya,BY,8,6/13/19,EWC,5,10
+Ilya,BY,6.5,6/14/19,EWC,5,10
+Ilya,BY,0,6/15/19,EWC,5,10
+Ilya,BY,0,6/16/19,EWC,5,10
+Tanya,BY,5,6/10/19,EWC,5,10
+Tanya,BY,5,6/11/19,EWC,5,10
+Tanya,BY,0,6/12/19,EWC,5,10
+Tanya,BY,0,6/13/19,EWC,5,10
+Tanya,BY,0,6/14/19,EWC,5,10
+Tanya,BY,0,6/15/19,EWC,5,10
+Tanya,BY,0,6/16/19,EWC,5,10
+Profit,US,5,6/10/19,EWC,5,10
+Profit,US,0,6/11/19,EWC,5,10
+Profit,US,0,6/12/19,EWC,5,10
+Profit,US,0,6/13/19,EWC,5,10
+Profit,US,0,6/14/19,EWC,5,10
+Profit,US,0,6/15/19,EWC,5,10
+Profit,US,0,6/16/19,EWC,5,10
+Andrey P,UA,8.75,6/10/19,TBG,5,10
+Andrey P,UA,8.5,6/11/19,TBG,5,10
+Andrey P,UA,8,6/12/19,TBG,5,10
+Andrey P,UA,9,6/13/19,TBG,5,10
+Andrey P,UA,10,6/14/19,TBG,5,10
+Andrey P,UA,0,6/15/19,TBG,5,10
+Andrey P,UA,0,6/16/19,TBG,5,10
+Vlad,BY,8,6/10/19,TBG,5,10
+Vlad,BY,8,6/11/19,TBG,5,10
+Vlad,BY,8,6/12/19,TBG,5,10
+Vlad,BY,8,6/13/19,TBG,5,10
+Vlad,BY,8,6/14/19,TBG,5,10
+Vlad,BY,0,6/15/19,TBG,5,10
+Vlad,BY,0,6/16/19,TBG,5,10
+Vlad,BY,4,6/10/19,enforme,5,10
+Vlad,BY,4,6/11/19,enforme,5,10
+Vlad,BY,4,6/12/19,enforme,5,10
+Vlad,BY,4,6/13/19,enforme,5,10
+Vlad,BY,0,6/14/19,enforme,5,10
+Vlad,BY,0,6/15/19,enforme,5,10
+Vlad,BY,0,6/16/19,enforme,5,10
+Profit,US,7,6/10/19,enforme,5,10
+Profit,US,7,6/11/19,enforme,5,10
+Profit,US,0,6/12/19,enforme,5,10
+Profit,US,0,6/13/19,enforme,5,10
+Profit,US,0,6/14/19,enforme,5,10
+Profit,US,0,6/15/19,enforme,5,10
+Profit,US,0,6/16/19,enforme,5,10
+Alex V,BY,2,6/10/19,DMC,5,10
+Alex V,BY,1,6/11/19,DMC,5,10
+Alex V,BY,0,6/12/19,DMC,5,10
+Alex V,BY,0,6/13/19,DMC,5,10
+Alex V,BY,0,6/14/19,DMC,5,10
+Alex V,BY,0,6/15/19,DMC,5,10
+Alex V,BY,0,6/16/19,DMC,5,10
+Profit,US,8,6/10/19,DMC,5,10
+Profit,US,9,6/11/19,DMC,5,10
+Profit,US,0,6/12/19,DMC,5,10
+Profit,US,0,6/13/19,DMC,5,10
+Profit,US,0,6/14/19,DMC,5,10
+Profit,US,0,6/15/19,DMC,5,10
+Profit,US,0,6/16/19,DMC,5,10
+Andreii,UA,4,6/10/19,Cresa,5,10
+Andreii,UA,0,6/11/19,Cresa,5,10
+Andreii,UA,0,6/12/19,Cresa,5,10
+Andreii,UA,0,6/13/19,Cresa,5,10
+Andreii,UA,4,6/14/19,Cresa,5,10
+Andreii,UA,0,6/15/19,Cresa,5,10
+Andreii,UA,0,6/16/19,Cresa,5,10
+Profit,US,6,6/10/19,Cresa,5,10
+Profit,US,6,6/11/19,Cresa,5,10
+Profit,US,0,6/12/19,Cresa,5,10
+Profit,US,0,6/13/19,Cresa,5,10
+Profit,US,0,6/14/19,Cresa,5,10
+Profit,US,0,6/15/19,Cresa,5,10
+Profit,US,0,6/16/19,Cresa,5,10
+Profit,US,2.5,6/10/19,MyMax,5,10
+Profit,US,2.5,6/11/19,MyMax,5,10
+Profit,US,2.5,6/12/19,MyMax,5,10
+Profit,US,0,6/13/19,MyMax,5,10
+Profit,US,0,6/14/19,MyMax,5,10
+Profit,US,0,6/15/19,MyMax,5,10
+Profit,US,0,6/16/19,MyMax,5,10
+Anton,UA,8,6/10/19,Sales,5,10
+Anton,UA,8,6/11/19,Sales,5,10
+Anton,UA,8,6/12/19,Sales,5,10
+Anton,UA,8,6/13/19,Sales,5,10
+Anton,UA,8,6/14/19,Sales,5,10
+Anton,UA,0,6/15/19,Sales,5,10
+Anton,UA,0,6/16/19,Sales,5,10
+Tanya,BY,6,6/10/19,PM,5,10
+Tanya,BY,6,6/11/19,PM,5,10
+Tanya,BY,6,6/12/19,PM,5,10
+Tanya,BY,6,6/13/19,PM,5,10
+Tanya,BY,6,6/14/19,PM,5,10
+Tanya,BY,0,6/15/19,PM,5,10
+Tanya,BY,0,6/16/19,PM,5,10
+Eugene F,UA,0,6/10/19,INTERN,5,10
+Eugene F,UA,0,6/11/19,INTERN,5,10
+Eugene F,UA,0,6/12/19,INTERN,5,10
+Eugene F,UA,1.5,6/13/19,INTERN,5,10
+Eugene F,UA,0,6/14/19,INTERN,5,10
+Eugene F,UA,0,6/15/19,INTERN,5,10
+Eugene F,UA,0,6/16/19,INTERN,5,10
+Artem,BY,8,6/17/19,CMG,5,10
+Artem,BY,8,6/18/19,CMG,5,10
+Artem,BY,8,6/19/19,CMG,5,10
+Artem,BY,8,6/20/19,CMG,5,10
+Artem,BY,8,6/21/19,CMG,5,10
+Artem,BY,0,6/22/19,CMG,5,10
+Artem,BY,0,6/23/19,CMG,5,10
+Alex V,BY,8,6/17/19,EWC,5,10
+Alex V,BY,8,6/18/19,EWC,5,10
+Alex V,BY,8,6/19/19,EWC,5,10
+Alex V,BY,8,6/20/19,EWC,5,10
+Alex V,BY,5,6/21/19,EWC,5,10
+Alex V,BY,0,6/22/19,EWC,5,10
+Alex V,BY,0,6/23/19,EWC,5,10
+Ilya,BY,8,6/17/19,EWC,5,10
+Ilya,BY,8,6/18/19,EWC,5,10
+Ilya,BY,8,6/19/19,EWC,5,10
+Ilya,BY,6,6/20/19,EWC,5,10
+Ilya,BY,7,6/21/19,EWC,5,10
+Ilya,BY,0,6/22/19,EWC,5,10
+Ilya,BY,0,6/23/19,EWC,5,10
+Roman,UA,0,6/17/19,EWC,5,10
+Roman,UA,8,6/18/19,EWC,5,10
+Roman,UA,8,6/19/19,EWC,5,10
+Roman,UA,8,6/20/19,EWC,5,10
+Roman,UA,8,6/21/19,EWC,5,10
+Roman,UA,0,6/22/19,EWC,5,10
+Roman,UA,0,6/23/19,EWC,5,10
+Tanya,BY,4,6/17/19,EWC,5,10
+Tanya,BY,4,6/18/19,EWC,5,10
+Tanya,BY,4,6/19/19,EWC,5,10
+Tanya,BY,4,6/20/19,EWC,5,10
+Tanya,BY,0,6/21/19,EWC,5,10
+Tanya,BY,0,6/22/19,EWC,5,10
+Tanya,BY,0,6/23/19,EWC,5,10
+Vlad,BY,8,6/17/19,TBG,5,10
+Vlad,BY,8,6/18/19,TBG,5,10
+Vlad,BY,8,6/19/19,TBG,5,10
+Vlad,BY,8,6/20/19,TBG,5,10
+Vlad,BY,8,6/21/19,TBG,5,10
+Vlad,BY,0,6/22/19,TBG,5,10
+Vlad,BY,0,6/23/19,TBG,5,10
+Vlad,BY,8,6/17/19,enforme,5,10
+Vlad,BY,9,6/18/19,enforme,5,10
+Vlad,BY,0,6/19/19,enforme,5,10
+Vlad,BY,0,6/20/19,enforme,5,10
+Vlad,BY,0,6/21/19,enforme,5,10
+Vlad,BY,0,6/22/19,enforme,5,10
+Vlad,BY,0,6/23/19,enforme,5,10
+Profit,US,8,6/17/19,enforme,5,10
+Profit,US,9,6/18/19,enforme,5,10
+Profit,US,0,6/19/19,enforme,5,10
+Profit,US,0,6/20/19,enforme,5,10
+Profit,US,0,6/21/19,enforme,5,10
+Profit,US,0,6/22/19,enforme,5,10
+Profit,US,0,6/23/19,enforme,5,10
+Profit,US,5,6/17/19,EWC,5,10
+Profit,US,0,6/18/19,EWC,5,10
+Profit,US,0,6/19/19,EWC,5,10
+Profit,US,0,6/20/19,EWC,5,10
+Profit,US,0,6/21/19,EWC,5,10
+Profit,US,0,6/22/19,EWC,5,10
+Profit,US,0,6/23/19,EWC,5,10
+Andrey P,UA,0,6/17/19,TBG,5,10
+Andrey P,UA,8,6/18/19,TBG,5,10
+Andrey P,UA,8,6/19/19,TBG,5,10
+Andrey P,UA,8,6/20/19,TBG,5,10
+Andrey P,UA,8,6/21/19,TBG,5,10
+Andrey P,UA,0,6/22/19,TBG,5,10
+Andrey P,UA,0,6/23/19,TBG,5,10
+Profit,US,0,6/17/19,MyMax,5,10
+Profit,US,0,6/18/19,MyMax,5,10
+Profit,US,0,6/19/19,MyMax,5,10
+Profit,US,0,6/20/19,MyMax,5,10
+Profit,US,0,6/21/19,MyMax,5,10
+Profit,US,0,6/22/19,MyMax,5,10
+Profit,US,0,6/23/19,MyMax,5,10
+Alex V,BY,2,6/17/19,MyMax,5,10
+Alex V,BY,0,6/18/19,MyMax,5,10
+Alex V,BY,0,6/19/19,MyMax,5,10
+Alex V,BY,0,6/20/19,MyMax,5,10
+Alex V,BY,0,6/21/19,MyMax,5,10
+Alex V,BY,0,6/22/19,MyMax,5,10
+Alex V,BY,0,6/23/19,MyMax,5,10
+Alex V,BY,1,6/17/19,DMC,5,10
+Alex V,BY,0,6/18/19,DMC,5,10
+Alex V,BY,0,6/19/19,DMC,5,10
+Alex V,BY,0,6/20/19,DMC,5,10
+Alex V,BY,0,6/21/19,DMC,5,10
+Alex V,BY,0,6/22/19,DMC,5,10
+Alex V,BY,0,6/23/19,DMC,5,10
+Profit,US,8,6/17/19,DMC,5,10
+Profit,US,8,6/18/19,DMC,5,10
+Profit,US,0,6/19/19,DMC,5,10
+Profit,US,0,6/20/19,DMC,5,10
+Profit,US,0,6/21/19,DMC,5,10
+Profit,US,0,6/22/19,DMC,5,10
+Profit,US,0,6/23/19,DMC,5,10
+Andreii,UA,8,6/17/19,Cresa,5,10
+Andreii,UA,0,6/18/19,Cresa,5,10
+Andreii,UA,0,6/19/19,Cresa,5,10
+Andreii,UA,0,6/20/19,Cresa,5,10
+Andreii,UA,0,6/21/19,Cresa,5,10
+Andreii,UA,0,6/22/19,Cresa,5,10
+Andreii,UA,0,6/23/19,Cresa,5,10
+Profit,US,8,6/17/19,Cresa,5,10
+Profit,US,4,6/18/19,Cresa,5,10
+Profit,US,0,6/19/19,Cresa,5,10
+Profit,US,0,6/20/19,Cresa,5,10
+Profit,US,0,6/21/19,Cresa,5,10
+Profit,US,0,6/22/19,Cresa,5,10
+Profit,US,0,6/23/19,Cresa,5,10
+Tanya,BY,8,6/17/19,PM,5,10
+Tanya,BY,8,6/18/19,PM,5,10
+Tanya,BY,8,6/19/19,PM,5,10
+Tanya,BY,3,6/20/19,PM,5,10
+Tanya,BY,0,6/21/19,PM,5,10
+Tanya,BY,0,6/22/19,PM,5,10
+Tanya,BY,0,6/23/19,PM,5,10
+Anton,UA,8,6/17/19,Sales,5,10
+Anton,UA,8,6/18/19,Sales,5,10
+Anton,UA,8,6/19/19,Sales,5,10
+Anton,UA,8,6/20/19,Sales,5,10
+Anton,UA,8,6/21/19,Sales,5,10
+Anton,UA,0,6/22/19,Sales,5,10
+Anton,UA,0,6/23/19,Sales,5,10
+Artem,BY,8,6/24/19,CMG,5,10
+Artem,BY,8,6/25/19,CMG,5,10
+Artem,BY,8,6/26/19,CMG,5,10
+Artem,BY,6,6/27/19,CMG,5,10
+Artem,BY,0,6/28/19,CMG,5,10
+Artem,BY,0,6/29/19,CMG,5,10
+Artem,BY,0,6/30/19,CMG,5,10
+Ilya,BY,2.5,6/24/19,CMG,5,10
+Ilya,BY,0,6/25/19,CMG,5,10
+Ilya,BY,0,6/26/19,CMG,5,10
+Ilya,BY,0,6/27/19,CMG,5,10
+Ilya,BY,0,6/28/19,CMG,5,10
+Ilya,BY,0,6/29/19,CMG,5,10
+Ilya,BY,0,6/30/19,CMG,5,10
+Alex V,BY,8,6/24/19,EWC,5,10
+Alex V,BY,8,6/25/19,EWC,5,10
+Alex V,BY,8,6/26/19,EWC,5,10
+Alex V,BY,8,6/27/19,EWC,5,10
+Alex V,BY,8,6/28/19,EWC,5,10
+Alex V,BY,0,6/29/19,EWC,5,10
+Alex V,BY,0,6/30/19,EWC,5,10
+Ilya,BY,8,6/24/19,EWC,5,10
+Ilya,BY,8,6/25/19,EWC,5,10
+Ilya,BY,8,6/26/19,EWC,5,10
+Ilya,BY,8,6/27/19,EWC,5,10
+Ilya,BY,5,6/28/19,EWC,5,10
+Ilya,BY,0,6/29/19,EWC,5,10
+Ilya,BY,0,6/30/19,EWC,5,10
+Tanya,BY,5,6/24/19,EWC,5,10
+Tanya,BY,5,6/25/19,EWC,5,10
+Tanya,BY,0,6/26/19,EWC,5,10
+Tanya,BY,0,6/27/19,EWC,5,10
+Tanya,BY,0,6/28/19,EWC,5,10
+Tanya,BY,0,6/29/19,EWC,5,10
+Tanya,BY,0,6/30/19,EWC,5,10
+Vlad,BY,8,6/24/19,TBG,5,10
+Vlad,BY,8,6/25/19,TBG,5,10
+Vlad,BY,8,6/26/19,TBG,5,10
+Vlad,BY,8,6/27/19,TBG,5,10
+Vlad,BY,8,6/28/19,TBG,5,10
+Vlad,BY,0,6/29/19,TBG,5,10
+Vlad,BY,0,6/30/19,TBG,5,10
+Vlad,BY,3,6/24/19,Zoll,5,10
+Vlad,BY,0,6/25/19,Zoll,5,10
+Vlad,BY,0,6/26/19,Zoll,5,10
+Vlad,BY,0,6/27/19,Zoll,5,10
+Vlad,BY,0,6/28/19,Zoll,5,10
+Vlad,BY,0,6/29/19,Zoll,5,10
+Vlad,BY,0,6/30/19,Zoll,5,10
+Vlad,BY,0,6/24/19,enforme,5,10
+Vlad,BY,0,6/25/19,enforme,5,10
+Vlad,BY,7,6/26/19,enforme,5,10
+Vlad,BY,7,6/27/19,enforme,5,10
+Vlad,BY,0,6/28/19,enforme,5,10
+Vlad,BY,0,6/29/19,enforme,5,10
+Vlad,BY,0,6/30/19,enforme,5,10
+Artem,BY,0,6/24/19,enforme,5,10
+Artem,BY,0,6/25/19,enforme,5,10
+Artem,BY,5,6/26/19,enforme,5,10
+Artem,BY,5,6/27/19,enforme,5,10
+Artem,BY,0,6/28/19,enforme,5,10
+Artem,BY,0,6/29/19,enforme,5,10
+Artem,BY,0,6/30/19,enforme,5,10
+Profit,US,5,6/24/19,enforme,5,10
+Profit,US,5,6/25/19,enforme,5,10
+Profit,US,3,6/26/19,enforme,5,10
+Profit,US,0,6/27/19,enforme,5,10
+Profit,US,0,6/28/19,enforme,5,10
+Profit,US,0,6/29/19,enforme,5,10
+Profit,US,0,6/30/19,enforme,5,10
+Profit,US,5,6/24/19,cresa,5,10
+Profit,US,5,6/25/19,cresa,5,10
+Profit,US,5,6/26/19,cresa,5,10
+Profit,US,5,6/27/19,cresa,5,10
+Profit,US,3,6/28/19,cresa,5,10
+Profit,US,0,6/29/19,cresa,5,10
+Profit,US,0,6/30/19,cresa,5,10
+Roman,UA,8,6/24/19,EWC,5,10
+Roman,UA,8,6/25/19,EWC,5,10
+Roman,UA,8,6/26/19,EWC,5,10
+Roman,UA,8,6/27/19,EWC,5,10
+Roman,UA,0,6/28/19,EWC,5,10
+Roman,UA,0,6/29/19,EWC,5,10
+Roman,UA,0,6/30/19,EWC,5,10
+Eugene F,UA,5,6/24/19,INTERN,5,10
+Eugene F,UA,11,6/25/19,INTERN,5,10
+Eugene F,UA,3,6/26/19,INTERN,5,10
+Eugene F,UA,6,6/27/19,INTERN,5,10
+Eugene F,UA,6,6/28/19,INTERN,5,10
+Eugene F,UA,4,6/29/19,INTERN,5,10
+Eugene F,UA,2.5,6/30/19,INTERN,5,10
+Profit,US,5,6/24/19,MyMax,5,10
+Profit,US,5,6/25/19,MyMax,5,10
+Profit,US,5,6/26/19,MyMax,5,10
+Profit,US,0,6/27/19,MyMax,5,10
+Profit,US,0,6/28/19,MyMax,5,10
+Profit,US,0,6/29/19,MyMax,5,10
+Profit,US,0,6/30/19,MyMax,5,10
+Anton,UA,8,6/24/19,Sales,5,10
+Anton,UA,8,6/25/19,Sales,5,10
+Anton,UA,8,6/26/19,Sales,5,10
+Anton,UA,8,6/27/19,Sales,5,10
+Anton,UA,8,6/28/19,Sales,5,10
+Anton,UA,0,6/29/19,Sales,5,10
+Anton,UA,0,6/30/19,Sales,5,10
+Andrey P,UA,8,6/24/19,TBG,5,10
+Andrey P,UA,8,6/25/19,TBG,5,10
+Andrey P,UA,8,6/26/19,TBG,5,10
+Andrey P,UA,8,6/27/19,TBG,5,10
+Andrey P,UA,0,6/28/19,TBG,5,10
+Andrey P,UA,0,6/29/19,TBG,5,10
+Andrey P,UA,0,6/30/19,TBG,5,10
+Yuri Z,UA,5,6/24/19,CMG,5,10
+Yuri Z,UA,5,6/25/19,CMG,5,10
+Yuri Z,UA,4,6/26/19,CMG,5,10
+Yuri Z,UA,0,6/27/19,CMG,5,10
+Yuri Z,UA,0,6/28/19,CMG,5,10
+Yuri Z,UA,0,6/29/19,CMG,5,10
+Yuri Z,UA,0,6/30/19,CMG,5,10
+Tanya,BY,8,6/24/19,PM,5,10
+Tanya,BY,8,6/25/19,PM,5,10
+Tanya,BY,8,6/26/19,PM,5,10
+Tanya,BY,3,6/27/19,PM,5,10
+Tanya,BY,0,6/28/19,PM,5,10
+Tanya,BY,0,6/29/19,PM,5,10
+Tanya,BY,0,6/30/19,PM,5,10
+Profit,US,5,6/24/19,EWC,5,10
+Profit,US,5,6/25/19,EWC,5,10
+Profit,US,0,6/26/19,EWC,5,10
+Profit,US,0,6/27/19,EWC,5,10
+Profit,US,0,6/28/19,EWC,5,10
+Profit,US,0,6/29/19,EWC,5,10
+Profit,US,0,6/30/19,EWC,5,10
+Artem,BY,8,7/1/19,CMG,5,10
+Artem,BY,8,7/2/19,CMG,5,10
+Artem,BY,0,7/3/19,CMG,5,10
+Artem,BY,0,7/4/19,CMG,5,10
+Artem,BY,0,7/5/19,CMG,5,10
+Artem,BY,0,7/6/19,CMG,5,10
+Artem,BY,0,7/7/19,CMG,5,10
+Yuri Z,UA,8,7/1/19,CMG,5,10
+Yuri Z,UA,8,7/2/19,CMG,5,10
+Yuri Z,UA,8,7/3/19,CMG,5,10
+Yuri Z,UA,0,7/4/19,CMG,5,10
+Yuri Z,UA,0,7/5/19,CMG,5,10
+Yuri Z,UA,0,7/6/19,CMG,5,10
+Yuri Z,UA,0,7/7/19,CMG,5,10
+Ilya,BY,1,7/1/19,CMG,5,10
+Ilya,BY,6,7/2/19,CMG,5,10
+Ilya,BY,0,7/3/19,CMG,5,10
+Ilya,BY,0,7/4/19,CMG,5,10
+Ilya,BY,0,7/5/19,CMG,5,10
+Ilya,BY,0,7/6/19,CMG,5,10
+Ilya,BY,0,7/7/19,CMG,5,10
+Andrey Polyakov,BY,5,7/1/19,NYRR,5,10
+Andrey Polyakov,BY,6,7/2/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/3/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/4/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/5/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/6/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/7/19,NYRR,5,10
+Alex V,BY,8,7/1/19,EWC,5,10
+Alex V,BY,8,7/2/19,EWC,5,10
+Alex V,BY,8,7/3/19,EWC,5,10
+Alex V,BY,0,7/4/19,EWC,5,10
+Alex V,BY,4,7/5/19,EWC,5,10
+Alex V,BY,0,7/6/19,EWC,5,10
+Alex V,BY,0,7/7/19,EWC,5,10
+Roman,UA,8,7/1/19,EWC,5,10
+Roman,UA,8,7/2/19,EWC,5,10
+Roman,UA,8,7/3/19,EWC,5,10
+Roman,UA,8,7/4/19,EWC,5,10
+Roman,UA,8,7/5/19,EWC,5,10
+Roman,UA,0,7/6/19,EWC,5,10
+Roman,UA,0,7/7/19,EWC,5,10
+Ilya,BY,8,7/1/19,EWC,5,10
+Ilya,BY,8,7/2/19,EWC,5,10
+Ilya,BY,8,7/3/19,EWC,5,10
+Ilya,BY,0,7/4/19,EWC,5,10
+Ilya,BY,1,7/5/19,EWC,5,10
+Ilya,BY,0,7/6/19,EWC,5,10
+Ilya,BY,0,7/7/19,EWC,5,10
+Tanya,BY,5,7/1/19,EWC,5,10
+Tanya,BY,0,7/2/19,EWC,5,10
+Tanya,BY,0,7/3/19,EWC,5,10
+Tanya,BY,0,7/4/19,EWC,5,10
+Tanya,BY,2,7/5/19,EWC,5,10
+Tanya,BY,0,7/6/19,EWC,5,10
+Tanya,BY,0,7/7/19,EWC,5,10
+Artem,BY,8,7/1/19,enforme,5,10
+Artem,BY,8,7/2/19,enforme,5,10
+Artem,BY,0,7/3/19,enforme,5,10
+Artem,BY,0,7/4/19,enforme,5,10
+Artem,BY,0,7/5/19,enforme,5,10
+Artem,BY,0,7/6/19,enforme,5,10
+Artem,BY,0,7/7/19,enforme,5,10
+Vlad,BY,0,7/1/19,enforme,5,10
+Vlad,BY,0,7/2/19,enforme,5,10
+Vlad,BY,0,7/3/19,enforme,5,10
+Vlad,BY,0,7/4/19,enforme,5,10
+Vlad,BY,0,7/5/19,enforme,5,10
+Vlad,BY,5,7/6/19,enforme,5,10
+Vlad,BY,5,7/7/19,enforme,5,10
+Profit,US,5,7/1/19,enforme,5,10
+Profit,US,5,7/2/19,enforme,5,10
+Profit,US,0,7/3/19,enforme,5,10
+Profit,US,0,7/4/19,enforme,5,10
+Profit,US,0,7/5/19,enforme,5,10
+Profit,US,0,7/6/19,enforme,5,10
+Profit,US,0,7/7/19,enforme,5,10
+Profit,US,5,7/1/19,EWC,5,10
+Profit,US,0,7/2/19,EWC,5,10
+Profit,US,0,7/3/19,EWC,5,10
+Profit,US,0,7/4/19,EWC,5,10
+Profit,US,0,7/5/19,EWC,5,10
+Profit,US,0,7/6/19,EWC,5,10
+Profit,US,0,7/7/19,EWC,5,10
+Andrey P,UA,8,7/1/19,TBG,5,10
+Andrey P,UA,8,7/2/19,TBG,5,10
+Andrey P,UA,8,7/3/19,TBG,5,10
+Andrey P,UA,8,7/4/19,TBG,5,10
+Andrey P,UA,8,7/5/19,TBG,5,10
+Andrey P,UA,0,7/6/19,TBG,5,10
+Andrey P,UA,0,7/7/19,TBG,5,10
+Vlad,BY,8,7/1/19,TBG,5,10
+Vlad,BY,8,7/2/19,TBG,5,10
+Vlad,BY,0,7/3/19,TBG,5,10
+Vlad,BY,8,7/4/19,TBG,5,10
+Vlad,BY,8,7/5/19,TBG,5,10
+Vlad,BY,0,7/6/19,TBG,5,10
+Vlad,BY,0,7/7/19,TBG,5,10
+Profit,US,5,7/1/19,MyMax,5,10
+Profit,US,5,7/2/19,MyMax,5,10
+Profit,US,0,7/3/19,MyMax,5,10
+Profit,US,0,7/4/19,MyMax,5,10
+Profit,US,0,7/5/19,MyMax,5,10
+Profit,US,0,7/6/19,MyMax,5,10
+Profit,US,0,7/7/19,MyMax,5,10
+Alex V,BY,1,7/1/19,DMC,5,10
+Alex V,BY,0,7/2/19,DMC,5,10
+Alex V,BY,0,7/3/19,DMC,5,10
+Alex V,BY,0,7/4/19,DMC,5,10
+Alex V,BY,0,7/5/19,DMC,5,10
+Alex V,BY,0,7/6/19,DMC,5,10
+Alex V,BY,0,7/7/19,DMC,5,10
+Profit,US,4,7/1/19,DMC,5,10
+Profit,US,4,7/2/19,DMC,5,10
+Profit,US,0,7/3/19,DMC,5,10
+Profit,US,0,7/4/19,DMC,5,10
+Profit,US,0,7/5/19,DMC,5,10
+Profit,US,0,7/6/19,DMC,5,10
+Profit,US,0,7/7/19,DMC,5,10
+Profit,US,8,7/1/19,Cresa,5,10
+Profit,US,8,7/2/19,Cresa,5,10
+Profit,US,4,7/3/19,Cresa,5,10
+Profit,US,0,7/4/19,Cresa,5,10
+Profit,US,0,7/5/19,Cresa,5,10
+Profit,US,0,7/6/19,Cresa,5,10
+Profit,US,0,7/7/19,Cresa,5,10
+Anton,UA,8,7/1/19,Sales,5,10
+Anton,UA,8,7/2/19,Sales,5,10
+Anton,UA,8,7/3/19,Sales,5,10
+Anton,UA,8,7/4/19,Sales,5,10
+Anton,UA,8,7/5/19,Sales,5,10
+Anton,UA,0,7/6/19,Sales,5,10
+Anton,UA,0,7/7/19,Sales,5,10
+Tanya,BY,8,7/1/19,PM,5,10
+Tanya,BY,8,7/2/19,PM,5,10
+Tanya,BY,0,7/3/19,PM,5,10
+Tanya,BY,8,7/4/19,PM,5,10
+Tanya,BY,4,7/5/19,PM,5,10
+Tanya,BY,0,7/6/19,PM,5,10
+Tanya,BY,0,7/7/19,PM,5,10
+Eugene F,UA,8,7/1/19,INTERN,5,10
+Eugene F,UA,8,7/2/19,INTERN,5,10
+Eugene F,UA,0,7/3/19,INTERN,5,10
+Eugene F,UA,8,7/4/19,INTERN,5,10
+Eugene F,UA,9,7/5/19,INTERN,5,10
+Eugene F,UA,0,7/6/19,INTERN,5,10
+Eugene F,UA,0,7/7/19,INTERN,5,10
+Artem,BY,8,7/8/19,CMG,5,10
+Artem,BY,8,7/9/19,CMG,5,10
+Artem,BY,4,7/10/19,CMG,5,10
+Artem,BY,0,7/11/19,CMG,5,10
+Artem,BY,0,7/12/19,CMG,5,10
+Artem,BY,0,7/13/19,CMG,5,10
+Artem,BY,0,7/14/19,CMG,5,10
+Ilya,BY,5,7/8/19,CMG,5,10
+Ilya,BY,5,7/9/19,CMG,5,10
+Ilya,BY,5,7/10/19,CMG,5,10
+Ilya,BY,0,7/11/19,CMG,5,10
+Ilya,BY,0,7/12/19,CMG,5,10
+Ilya,BY,0,7/13/19,CMG,5,10
+Ilya,BY,0,7/14/19,CMG,5,10
+Andrey Polyakov,BY,0,7/8/19,NYRR,5,10
+Andrey Polyakov,BY,6,7/9/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/10/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/11/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/12/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/13/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/14/19,NYRR,5,10
+Artem,BY,0,7/8/19,Enforme,5,10
+Artem,BY,0,7/9/19,Enforme,5,10
+Artem,BY,8,7/10/19,Enforme,5,10
+Artem,BY,8,7/11/19,Enforme,5,10
+Artem,BY,4,7/12/19,Enforme,5,10
+Artem,BY,0,7/13/19,Enforme,5,10
+Artem,BY,0,7/14/19,Enforme,5,10
+Vlad,BY,8,7/8/19,TBG,5,10
+Vlad,BY,8,7/9/19,TBG,5,10
+Vlad,BY,8,7/10/19,TBG,5,10
+Vlad,BY,8,7/11/19,TBG,5,10
+Vlad,BY,8,7/12/19,TBG,5,10
+Vlad,BY,0,7/13/19,TBG,5,10
+Vlad,BY,0,7/14/19,TBG,5,10
+Vlad,BY,0,7/8/19,Enforme,5,10
+Vlad,BY,0,7/9/19,Enforme,5,10
+Vlad,BY,8,7/10/19,Enforme,5,10
+Vlad,BY,8,7/11/19,Enforme,5,10
+Vlad,BY,0,7/12/19,Enforme,5,10
+Vlad,BY,0,7/13/19,Enforme,5,10
+Vlad,BY,0,7/14/19,Enforme,5,10
+Alex V,BY,8,7/8/19,EWC,5,10
+Alex V,BY,8,7/9/19,EWC,5,10
+Alex V,BY,8,7/10/19,EWC,5,10
+Alex V,BY,6,7/11/19,EWC,5,10
+Alex V,BY,0,7/12/19,EWC,5,10
+Alex V,BY,0,7/13/19,EWC,5,10
+Alex V,BY,0,7/14/19,EWC,5,10
+Ilya,BY,5,7/8/19,EWC,5,10
+Ilya,BY,5,7/9/19,EWC,5,10
+Ilya,BY,5,7/10/19,EWC,5,10
+Ilya,BY,5,7/11/19,EWC,5,10
+Ilya,BY,5,7/12/19,EWC,5,10
+Ilya,BY,0,7/13/19,EWC,5,10
+Ilya,BY,0,7/14/19,EWC,5,10
+Roman,UA,8,7/8/19,EWC,5,10
+Roman,UA,8,7/9/19,EWC,5,10
+Roman,UA,8,7/10/19,EWC,5,10
+Roman,UA,8,7/11/19,EWC,5,10
+Roman,UA,8,7/12/19,EWC,5,10
+Roman,UA,0,7/13/19,EWC,5,10
+Roman,UA,0,7/14/19,EWC,5,10
+Tanya,BY,5,7/8/19,EWC,5,10
+Tanya,BY,5,7/9/19,EWC,5,10
+Tanya,BY,5,7/10/19,EWC,5,10
+Tanya,BY,5,7/11/19,EWC,5,10
+Tanya,BY,0,7/12/19,EWC,5,10
+Tanya,BY,0,7/13/19,EWC,5,10
+Tanya,BY,0,7/14/19,EWC,5,10
+Tanya,BY,5,7/8/19,PM,5,10
+Tanya,BY,5,7/9/19,PM,5,10
+Tanya,BY,5,7/10/19,PM,5,10
+Tanya,BY,5,7/11/19,PM,5,10
+Tanya,BY,5,7/12/19,PM,5,10
+Tanya,BY,0,7/13/19,PM,5,10
+Tanya,BY,0,7/14/19,PM,5,10
+Andrey P,UA,8,7/8/19,TBG,5,10
+Andrey P,UA,9,7/9/19,TBG,5,10
+Andrey P,UA,9,7/10/19,TBG,5,10
+Andrey P,UA,8,7/11/19,TBG,5,10
+Andrey P,UA,8,7/12/19,TBG,5,10
+Andrey P,UA,0,7/13/19,TBG,5,10
+Andrey P,UA,0,7/14/19,TBG,5,10
+Yuri Z,UA,8,7/8/19,CMG,5,10
+Yuri Z,UA,8,7/9/19,CMG,5,10
+Yuri Z,UA,5,7/10/19,CMG,5,10
+Yuri Z,UA,0,7/11/19,CMG,5,10
+Yuri Z,UA,0,7/12/19,CMG,5,10
+Yuri Z,UA,0,7/13/19,CMG,5,10
+Yuri Z,UA,0,7/14/19,CMG,5,10
+Profit,US,0,7/8/19,CMG,5,10
+Profit,US,0,7/9/19,CMG,5,10
+Profit,US,0,7/10/19,CMG,5,10
+Profit,US,0,7/11/19,CMG,5,10
+Profit,US,0,7/12/19,CMG,5,10
+Profit,US,0,7/13/19,CMG,5,10
+Profit,US,0,7/14/19,CMG,5,10
+Profit,US,5,7/8/19,EWC,5,10
+Profit,US,0,7/9/19,EWC,5,10
+Profit,US,0,7/10/19,EWC,5,10
+Profit,US,0,7/11/19,EWC,5,10
+Profit,US,0,7/12/19,EWC,5,10
+Profit,US,0,7/13/19,EWC,5,10
+Profit,US,0,7/14/19,EWC,5,10
+Profit,US,7,7/8/19,MyMax,5,10
+Profit,US,0,7/9/19,MyMax,5,10
+Profit,US,0,7/10/19,MyMax,5,10
+Profit,US,0,7/11/19,MyMax,5,10
+Profit,US,0,7/12/19,MyMax,5,10
+Profit,US,0,7/13/19,MyMax,5,10
+Profit,US,0,7/14/19,MyMax,5,10
+Alex V,BY,2,7/8/19,DMC,5,10
+Alex V,BY,0,7/9/19,DMC,5,10
+Alex V,BY,0,7/10/19,DMC,5,10
+Alex V,BY,0,7/11/19,DMC,5,10
+Alex V,BY,0,7/12/19,DMC,5,10
+Alex V,BY,0,7/13/19,DMC,5,10
+Alex V,BY,0,7/14/19,DMC,5,10
+Profit,US,6,7/8/19,DMC,5,10
+Profit,US,0,7/9/19,DMC,5,10
+Profit,US,0,7/10/19,DMC,5,10
+Profit,US,0,7/11/19,DMC,5,10
+Profit,US,0,7/12/19,DMC,5,10
+Profit,US,0,7/13/19,DMC,5,10
+Profit,US,0,7/14/19,DMC,5,10
+Alex V,BY,6,7/8/19,Cresa,5,10
+Alex V,BY,0,7/9/19,Cresa,5,10
+Alex V,BY,0,7/10/19,Cresa,5,10
+Alex V,BY,0,7/11/19,Cresa,5,10
+Alex V,BY,0,7/12/19,Cresa,5,10
+Alex V,BY,0,7/13/19,Cresa,5,10
+Alex V,BY,0,7/14/19,Cresa,5,10
+Profit,US,7,7/8/19,Cresa,5,10
+Profit,US,7,7/9/19,Cresa,5,10
+Profit,US,0,7/10/19,Cresa,5,10
+Profit,US,0,7/11/19,Cresa,5,10
+Profit,US,0,7/12/19,Cresa,5,10
+Profit,US,0,7/13/19,Cresa,5,10
+Profit,US,0,7/14/19,Cresa,5,10
+Anton,UA,8,7/8/19,Sales,5,10
+Anton,UA,8,7/9/19,Sales,5,10
+Anton,UA,8,7/10/19,Sales,5,10
+Anton,UA,8,7/11/19,Sales,5,10
+Anton,UA,8,7/12/19,Sales,5,10
+Anton,UA,0,7/13/19,Sales,5,10
+Anton,UA,0,7/14/19,Sales,5,10
+Eugene F,UA,8,7/8/19,INTERN,5,10
+Eugene F,UA,8,7/9/19,INTERN,5,10
+Eugene F,UA,8,7/10/19,INTERN,5,10
+Eugene F,UA,2,7/11/19,INTERN,5,10
+Eugene F,UA,0,7/12/19,INTERN,5,10
+Eugene F,UA,0,7/13/19,INTERN,5,10
+Eugene F,UA,0,7/14/19,INTERN,5,10
+Artem,BY,4,7/15/19,CMG,5,10
+Artem,BY,4,7/16/19,CMG,5,10
+Artem,BY,4,7/17/19,CMG,5,10
+Artem,BY,4,7/18/19,CMG,5,10
+Artem,BY,4,7/19/19,CMG,5,10
+Artem,BY,0,7/20/19,CMG,5,10
+Artem,BY,0,7/21/19,CMG,5,10
+Ilya,BY,2,7/15/19,CMG,5,10
+Ilya,BY,2,7/16/19,CMG,5,10
+Ilya,BY,2,7/17/19,CMG,5,10
+Ilya,BY,2,7/18/19,CMG,5,10
+Ilya,BY,1,7/19/19,CMG,5,10
+Ilya,BY,0,7/20/19,CMG,5,10
+Ilya,BY,0,7/21/19,CMG,5,10
+Andrey Polyakov,BY,5,7/15/19,NYRR,5,10
+Andrey Polyakov,BY,5,7/16/19,NYRR,5,10
+Andrey Polyakov,BY,5,7/17/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/18/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/19/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/20/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/21/19,NYRR,5,10
+Alex V,BY,8,7/15/19,EWC,5,10
+Alex V,BY,8,7/16/19,EWC,5,10
+Alex V,BY,8,7/17/19,EWC,5,10
+Alex V,BY,8,7/18/19,EWC,5,10
+Alex V,BY,0,7/19/19,EWC,5,10
+Alex V,BY,0,7/20/19,EWC,5,10
+Alex V,BY,0,7/21/19,EWC,5,10
+Artem,BY,4,7/15/19,Enforme,5,10
+Artem,BY,4,7/16/19,Enforme,5,10
+Artem,BY,4,7/17/19,Enforme,5,10
+Artem,BY,4,7/18/19,Enforme,5,10
+Artem,BY,4,7/19/19,Enforme,5,10
+Artem,BY,0,7/20/19,Enforme,5,10
+Artem,BY,0,7/21/19,Enforme,5,10
+Alex V,BY,0,7/15/19,Cresa,5,10
+Alex V,BY,0,7/16/19,Cresa,5,10
+Alex V,BY,0,7/17/19,Cresa,5,10
+Alex V,BY,0,7/18/19,Cresa,5,10
+Alex V,BY,4,7/19/19,Cresa,5,10
+Alex V,BY,4,7/20/19,Cresa,5,10
+Alex V,BY,0,7/21/19,Cresa,5,10
+Ilya,BY,4,7/15/19,EWC,5,10
+Ilya,BY,4,7/16/19,EWC,5,10
+Ilya,BY,4,7/17/19,EWC,5,10
+Ilya,BY,4,7/18/19,EWC,5,10
+Ilya,BY,4,7/19/19,EWC,5,10
+Ilya,BY,3,7/20/19,EWC,5,10
+Ilya,BY,0,7/21/19,EWC,5,10
+Tanya,BY,5,7/15/19,EWC,5,10
+Tanya,BY,5,7/16/19,EWC,5,10
+Tanya,BY,5,7/17/19,EWC,5,10
+Tanya,BY,5,7/18/19,EWC,5,10
+Tanya,BY,0,7/19/19,EWC,5,10
+Tanya,BY,0,7/20/19,EWC,5,10
+Tanya,BY,0,7/21/19,EWC,5,10
+Andrey P,UA,8,7/15/19,TBG,5,10
+Andrey P,UA,8,7/16/19,TBG,5,10
+Andrey P,UA,9,7/17/19,TBG,5,10
+Andrey P,UA,9,7/18/19,TBG,5,10
+Andrey P,UA,8,7/19/19,TBG,5,10
+Andrey P,UA,0,7/20/19,TBG,5,10
+Andrey P,UA,0,7/21/19,TBG,5,10
+Yuri S,UA,0,7/15/19,Enform,5,10
+Yuri S,UA,8,7/16/19,Enform,5,10
+Yuri S,UA,8,7/17/19,Enform,5,10
+Yuri S,UA,1,7/18/19,Enform,5,10
+Yuri S,UA,0,7/19/19,Enform,5,10
+Yuri S,UA,0,7/20/19,Enform,5,10
+Yuri S,UA,0,7/21/19,Enform,5,10
+Yuri Z,UA,8,7/15/19,CMG,5,10
+Yuri Z,UA,8,7/16/19,CMG,5,10
+Yuri Z,UA,4,7/17/19,CMG,5,10
+Yuri Z,UA,2,7/18/19,CMG,5,10
+Yuri Z,UA,0,7/19/19,CMG,5,10
+Yuri Z,UA,0,7/20/19,CMG,5,10
+Yuri Z,UA,0,7/21/19,CMG,5,10
+Roman,UA,8,7/15/19,EWC,5,10
+Roman,UA,8,7/16/19,EWC,5,10
+Roman,UA,8,7/17/19,EWC,5,10
+Roman,UA,8,7/18/19,EWC,5,10
+Roman,UA,8,7/19/19,EWC,5,10
+Roman,UA,0,7/20/19,EWC,5,10
+Roman,UA,0,7/21/19,EWC,5,10
+Yuri S,UA,3,7/15/19,Cresa,5,10
+Yuri S,UA,3,7/16/19,Cresa,5,10
+Yuri S,UA,3,7/17/19,Cresa,5,10
+Yuri S,UA,3,7/18/19,Cresa,5,10
+Yuri S,UA,0,7/19/19,Cresa,5,10
+Yuri S,UA,0,7/20/19,Cresa,5,10
+Yuri S,UA,0,7/21/19,Cresa,5,10
+Anton O,UA,3,7/8/19,Enform,5,10
+Anton O,UA,3.5,7/9/19,Enform,5,10
+Anton O,UA,0,7/10/19,Enform,5,10
+Anton O,UA,0,7/11/19,Enform,5,10
+Anton O,UA,0,7/12/19,Enform,5,10
+Anton O,UA,0,7/13/19,Enform,5,10
+Anton O,UA,0,7/14/19,Enform,5,10
+Anton O,UA,3,7/15/19,Enform,5,10
+Anton O,UA,3,7/16/19,Enform,5,10
+Anton O,UA,0,7/17/19,Enform,5,10
+Anton O,UA,0,7/18/19,Enform,5,10
+Anton O,UA,0,7/19/19,Enform,5,10
+Anton O,UA,0,7/20/19,Enform,5,10
+Anton O,UA,0,7/21/19,Enform,5,10
+Eugene F,UA,5,7/15/19,INTERN,5,10
+Eugene F,UA,5,7/16/19,INTERN,5,10
+Eugene F,UA,5,7/17/19,INTERN,5,10
+Eugene F,UA,5,7/18/19,INTERN,5,10
+Eugene F,UA,5,7/19/19,INTERN,5,10
+Eugene F,UA,0,7/20/19,INTERN,5,10
+Eugene F,UA,0,7/21/19,INTERN,5,10
+Anton,UA,8,7/15/19,Sales,5,10
+Anton,UA,8,7/16/19,Sales,5,10
+Anton,UA,8,7/17/19,Sales,5,10
+Anton,UA,8,7/18/19,Sales,5,10
+Anton,UA,8,7/19/19,Sales,5,10
+Anton,UA,0,7/20/19,Sales,5,10
+Anton,UA,0,7/21/19,Sales,5,10
+Tanya,BY,6,7/15/19,PM,5,10
+Tanya,BY,6,7/16/19,PM,5,10
+Tanya,BY,6,7/17/19,PM,5,10
+Tanya,BY,6,7/18/19,PM,5,10
+Tanya,BY,4,7/19/19,PM,5,10
+Tanya,BY,0,7/20/19,PM,5,10
+Tanya,BY,0,7/21/19,EWC,5,10
+Profit,US,7.45,7/15/19,DMC,5,10
+Profit,US,0,7/16/19,DMC,5,10
+Profit,US,0,7/17/19,DMC,5,10
+Profit,US,0,7/18/19,DMC,5,10
+Profit,US,0,7/19/19,DMC,5,10
+Profit,US,0,7/20/19,DMC,5,10
+Profit,US,0,7/21/19,DMC,5,10
+Profit,US,5,7/15/19,MyMax,5,10
+Profit,US,5,7/16/19,MyMax,5,10
+Profit,US,0,7/17/19,MyMax,5,10
+Profit,US,0,7/18/19,MyMax,5,10
+Profit,US,0,7/19/19,MyMax,5,10
+Profit,US,0,7/20/19,MyMax,5,10
+Profit,US,0,7/21/19,MyMax,5,10
+Ilya,BY,2.5,7/22/19,CMG,5,10
+Ilya,BY,2.5,7/23/19,CMG,5,10
+Ilya,BY,0,7/24/19,CMG,5,10
+Ilya,BY,0,7/25/19,CMG,5,10
+Ilya,BY,0,7/26/19,CMG,5,10
+Ilya,BY,0,7/27/19,CMG,5,10
+Ilya,BY,0,7/28/19,CMG,5,10
+Alex V,BY,3.5,7/22/19,MyMax,5,10
+Alex V,BY,3.5,7/23/19,MyMax,5,10
+Alex V,BY,0,7/24/19,MyMax,5,10
+Alex V,BY,0,7/25/19,MyMax,5,10
+Alex V,BY,0,7/26/19,MyMax,5,10
+Alex V,BY,0,7/27/19,MyMax,5,10
+Alex V,BY,0,7/28/19,MyMax,5,10
+Andrey Polyakov,BY,3,7/22/19,NYRR,5,10
+Andrey Polyakov,BY,3,7/23/19,NYRR,5,10
+Andrey Polyakov,BY,3,7/24/19,NYRR,5,10
+Andrey Polyakov,BY,3,7/25/19,NYRR,5,10
+Andrey Polyakov,BY,3,7/26/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/27/19,NYRR,5,10
+Andrey Polyakov,BY,0,7/28/19,NYRR,5,10
+Alex V,BY,8,7/22/19,EWC,5,10
+Alex V,BY,8,7/23/19,EWC,5,10
+Alex V,BY,8,7/24/19,EWC,5,10
+Alex V,BY,8,7/25/19,EWC,5,10
+Alex V,BY,1,7/26/19,EWC,5,10
+Alex V,BY,0,7/27/19,EWC,5,10
+Alex V,BY,0,7/28/19,EWC,5,10
+Ilya,BY,6,7/22/19,EWC,5,10
+Ilya,BY,6,7/23/19,EWC,5,10
+Ilya,BY,6,7/24/19,EWC,5,10
+Ilya,BY,6,7/25/19,EWC,5,10
+Ilya,BY,3,7/26/19,EWC,5,10
+Ilya,BY,0,7/27/19,EWC,5,10
+Ilya,BY,0,7/28/19,EWC,5,10
+Ilya,BY,0,7/22/19,Cresa,5,10
+Ilya,BY,0,7/23/19,Cresa,5,10
+Ilya,BY,0,7/24/19,Cresa,5,10
+Ilya,BY,2,7/25/19,Cresa,5,10
+Ilya,BY,0,7/26/19,Cresa,5,10
+Ilya,BY,0,7/27/19,Cresa,5,10
+Ilya,BY,0,7/28/19,Cresa,5,10
+Tanya,BY,5,7/22/19,EWC,5,10
+Tanya,BY,5,7/23/19,EWC,5,10
+Tanya,BY,5,7/24/19,EWC,5,10
+Tanya,BY,0,7/25/19,EWC,5,10
+Tanya,BY,0,7/26/19,EWC,5,10
+Tanya,BY,0,7/27/19,EWC,5,10
+Tanya,BY,0,7/28/19,EWC,5,10
+Anton O,UA,8,7/22/19,Enform,5,10
+Anton O,UA,8,7/23/19,Enform,5,10
+Anton O,UA,2.5,7/24/19,Enform,5,10
+Anton O,UA,0,7/25/19,Enform,5,10
+Anton O,UA,0,7/26/19,Enform,5,10
+Anton O,UA,0,7/27/19,Enform,5,10
+Anton O,UA,0,7/28/19,Enform,5,10
+Yuri S,UA,0,7/22/19,Enform,5,10
+Yuri S,UA,8,7/23/19,Enform,5,10
+Yuri S,UA,4,7/24/19,Enform,5,10
+Yuri S,UA,8,7/25/19,Enform,5,10
+Yuri S,UA,0,7/26/19,Enform,5,10
+Yuri S,UA,0,7/27/19,Enform,5,10
+Yuri S,UA,0,7/28/19,Enform,5,10
+Yuri Z,UA,0,7/22/19,DMC,5,10
+Yuri Z,UA,8,7/23/19,DMC,5,10
+Yuri Z,UA,8,7/24/19,DMC,5,10
+Yuri Z,UA,2,7/25/19,DMC,5,10
+Yuri Z,UA,0,7/26/19,DMC,5,10
+Yuri Z,UA,0,7/27/19,DMC,5,10
+Yuri Z,UA,0,7/28/19,DMC,5,10
+Andrey P,UA,8,7/22/19,TBG,5,10
+Andrey P,UA,8,7/23/19,TBG,5,10
+Andrey P,UA,8,7/24/19,TBG,5,10
+Andrey P,UA,8,7/25/19,TBG,5,10
+Andrey P,UA,8,7/26/19,TBG,5,10
+Andrey P,UA,0,7/27/19,TBG,5,10
+Andrey P,UA,0,7/28/19,TBG,5,10
+Roman,UA,8,7/22/19,EWC,5,10
+Roman,UA,8,7/23/19,EWC,5,10
+Roman,UA,8,7/24/19,EWC,5,10
+Roman,UA,8,7/25/19,EWC,5,10
+Roman,UA,8,7/26/19,EWC,5,10
+Roman,UA,0,7/27/19,EWC,5,10
+Roman,UA,0,7/28/19,EWC,5,10
+Yuri S,UA,4,7/22/19,Cresa,5,10
+Yuri S,UA,4,7/23/19,Cresa,5,10
+Yuri S,UA,4,7/24/19,Cresa,5,10
+Yuri S,UA,4,7/25/19,Cresa,5,10
+Yuri S,UA,4,7/26/19,Cresa,5,10
+Yuri S,UA,0,7/27/19,Cresa,5,10
+Yuri S,UA,0,7/28/19,Cresa,5,10
+Yuri Z,UA,1.5,7/22/19,CMG,5,10
+Yuri Z,UA,0,7/23/19,CMG,5,10
+Yuri Z,UA,0,7/24/19,CMG,5,10
+Yuri Z,UA,0,7/25/19,CMG,5,10
+Yuri Z,UA,0,7/26/19,CMG,5,10
+Yuri Z,UA,0,7/27/19,CMG,5,10
+Yuri Z,UA,0,7/28/19,CMG,5,10
+Profit,US,0,7/22/19,DMC,5,10
+Profit,US,2,7/23/19,DMC,5,10
+Profit,US,0,7/24/19,DMC,5,10
+Profit,US,0,7/25/19,DMC,5,10
+Profit,US,0,7/26/19,DMC,5,10
+Profit,US,0,7/27/19,DMC,5,10
+Profit,US,0,7/28/19,DMC,5,10
+Profit,US,4,7/22/19,Enform,5,10
+Profit,US,0,7/23/19,Enform,5,10
+Profit,US,0,7/24/19,Enform,5,10
+Profit,US,0,7/25/19,Enform,5,10
+Profit,US,0,7/26/19,Enform,5,10
+Profit,US,0,7/27/19,Enform,5,10
+Profit,US,0,7/28/19,Enform,5,10
+Anton,UA,8,7/22/19,Sales,5,10
+Anton,UA,8,7/23/19,Sales,5,10
+Anton,UA,8,7/24/19,Sales,5,10
+Anton,UA,8,7/25/19,Sales,5,10
+Anton,UA,8,7/26/19,Sales,5,10
+Anton,UA,0,7/27/19,Sales,5,10
+Anton,UA,0,7/28/19,Sales,5,10
+Tanya,BY,8,7/22/19,PM,5,10
+Tanya,BY,8,7/23/19,PM,5,10
+Tanya,BY,8,7/24/19,PM,5,10
+Tanya,BY,8,7/25/19,PM,5,10
+Tanya,BY,2,7/26/19,PM,5,10
+Tanya,BY,0,7/27/19,PM,5,10
+Tanya,BY,0,7/28/19,PM,5,10
+Profit,US,5,7/22/19,EWC,5,10
+Profit,US,0,7/23/19,EWC,5,10
+Profit,US,0,7/24/19,EWC,5,10
+Profit,US,0,7/25/19,EWC,5,10
+Profit,US,0,7/26/19,EWC,5,10
+Profit,US,0,7/27/19,EWC,5,10
+Profit,US,0,7/28/19,EWC,5,10
+Eugene F,UA,4,7/22/19,INTERN,5,10
+Eugene F,UA,4,7/23/19,INTERN,5,10
+Eugene F,UA,8,7/24/19,INTERN,5,10
+Eugene F,UA,8,7/25/19,INTERN,5,10
+Eugene F,UA,5,7/26/19,INTERN,5,10
+Eugene F,UA,0,7/27/19,INTERN,5,10
+Eugene F,UA,0,7/28/19,INTERN,5,10
+Ilya,BY,3,7/29/19,CMG,5,10
+Ilya,BY,3,7/30/19,CMG,5,10
+Ilya,BY,0,7/31/19,CMG,5,10
+Ilya,BY,0,8/1/19,CMG,5,10
+Ilya,BY,0,8/2/19,CMG,5,10
+Ilya,BY,0,8/3/19,CMG,5,10
+Ilya,BY,0,8/4/19,CMG,5,10
+Ilya,BY,8,7/29/19,EWC,5,10
+Ilya,BY,10,7/30/19,EWC,5,10
+Ilya,BY,0,7/31/19,EWC,5,10
+Ilya,BY,0,8/1/19,EWC,5,10
+Ilya,BY,0,8/2/19,EWC,5,10
+Ilya,BY,0,8/3/19,EWC,5,10
+Ilya,BY,0,8/4/19,EWC,5,10
+Vlad,BY,8,7/29/19,TBG,5,10
+Vlad,BY,8,7/30/19,TBG,5,10
+Vlad,BY,8,7/31/19,TBG,5,10
+Vlad,BY,8,8/1/19,TBG,5,10
+Vlad,BY,8,8/2/19,TBG,5,10
+Vlad,BY,0,8/3/19,TBG,5,10
+Vlad,BY,0,8/4/19,TBG,5,10
+Alex V,BY,8,7/29/19,EWC,5,10
+Alex V,BY,8,7/30/19,EWC,5,10
+Alex V,BY,8,7/31/19,EWC,5,10
+Alex V,BY,8,8/1/19,EWC,5,10
+Alex V,BY,8,8/2/19,EWC,5,10
+Alex V,BY,0,8/3/19,EWC,5,10
+Alex V,BY,0,8/4/19,EWC,5,10
+Tanya,BY,5,7/29/19,EWC,5,10
+Tanya,BY,5,7/30/19,EWC,5,10
+Tanya,BY,5,7/31/19,EWC,5,10
+Tanya,BY,0,8/1/19,EWC,5,10
+Tanya,BY,0,8/2/19,EWC,5,10
+Tanya,BY,0,8/3/19,EWC,5,10
+Tanya,BY,0,8/4/19,EWC,5,10
+Andrey Polyakov,BY,5,7/29/19,NYRR,5,10
+Andrey Polyakov,BY,5,7/30/19,NYRR,5,10
+Andrey Polyakov,BY,5,7/31/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/1/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/2/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/3/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/4/19,NYRR,5,10
+Anton O,UA,5,7/29/19,Enform,5,10
+Anton O,UA,5,7/30/19,Enform,5,10
+Anton O,UA,5.5,7/31/19,Enform,5,10
+Anton O,UA,0,8/1/19,Enform,5,10
+Anton O,UA,0,8/2/19,Enform,5,10
+Anton O,UA,0,8/3/19,Enform,5,10
+Anton O,UA,0,8/4/19,Enform,5,10
+Andrey P,UA,8,7/29/19,TBG,5,10
+Andrey P,UA,8,7/30/19,TBG,5,10
+Andrey P,UA,8,7/31/19,TBG,5,10
+Andrey P,UA,8,8/1/19,TBG,5,10
+Andrey P,UA,8,8/2/19,TBG,5,10
+Andrey P,UA,0,8/3/19,TBG,5,10
+Andrey P,UA,0,8/4/19,TBG,5,10
+Yuri Z,UA,4,7/29/19,DMC,5,10
+Yuri Z,UA,4,7/30/19,DMC,5,10
+Yuri Z,UA,4,7/31/19,DMC,5,10
+Yuri Z,UA,0,8/1/19,DMC,5,10
+Yuri Z,UA,0,8/2/19,DMC,5,10
+Yuri Z,UA,0,8/3/19,DMC,5,10
+Yuri Z,UA,0,8/4/19,DMC,5,10
+Roman,UA,8,7/29/19,EWC,5,10
+Roman,UA,8,7/30/19,EWC,5,10
+Roman,UA,8,7/31/19,EWC,5,10
+Roman,UA,8,8/1/19,EWC,5,10
+Roman,UA,8,8/2/19,EWC,5,10
+Roman,UA,0,8/3/19,EWC,5,10
+Roman,UA,0,8/4/19,EWC,5,10
+Yuri S,UA,0,7/29/19,Cresa,5,10
+Yuri S,UA,0,7/30/19,Cresa,5,10
+Yuri S,UA,0,7/31/19,Cresa,5,10
+Yuri S,UA,4,8/1/19,Cresa,5,10
+Yuri S,UA,4,8/2/19,Cresa,5,10
+Yuri S,UA,4,8/3/19,Cresa,5,10
+Yuri S,UA,0,8/4/19,Cresa,5,10
+Yuri Z,UA,1,7/29/19,CMG,5,10
+Yuri Z,UA,0,7/30/19,CMG,5,10
+Yuri Z,UA,0,7/31/19,CMG,5,10
+Yuri Z,UA,0,8/1/19,CMG,5,10
+Yuri Z,UA,0,8/2/19,CMG,5,10
+Yuri Z,UA,0,8/3/19,CMG,5,10
+Yuri Z,UA,0,8/4/19,CMG,5,10
+Yuri S,UA,4,7/29/19,Enform,5,10
+Yuri S,UA,4,7/30/19,Enform,5,10
+Yuri S,UA,4,7/31/19,Enform,5,10
+Yuri S,UA,4,8/1/19,Enform,5,10
+Yuri S,UA,4,8/2/19,Enform,5,10
+Yuri S,UA,0,8/3/19,Enform,5,10
+Yuri S,UA,0,8/4/19,Enform,5,10
+Profit,US,5,7/29/19,Enform,5,10
+Profit,US,2,7/30/19,Enform,5,10
+Profit,US,0,7/31/19,Enform,5,10
+Profit,US,0,8/1/19,Enform,5,10
+Profit,US,0,8/2/19,Enform,5,10
+Profit,US,0,8/3/19,Enform,5,10
+Profit,US,0,8/4/19,Enform,5,10
+Profit,US,0,7/29/19,MyMax,5,10
+Profit,US,0,7/30/19,MyMax,5,10
+Profit,US,0,7/31/19,MyMax,5,10
+Profit,US,0,8/1/19,MyMax,5,10
+Profit,US,5,8/2/19,MyMax,5,10
+Profit,US,5,8/3/19,MyMax,5,10
+Profit,US,0,8/4/19,MyMax,5,10
+Profit,US,5,7/29/19,EWC,5,10
+Profit,US,0,7/30/19,EWC,5,10
+Profit,US,0,7/31/19,EWC,5,10
+Profit,US,0,8/1/19,EWC,5,10
+Profit,US,0,8/2/19,EWC,5,10
+Profit,US,0,8/3/19,EWC,5,10
+Profit,US,0,8/4/19,EWC,5,10
+Anton,UA,8,7/29/19,Sales,5,10
+Anton,UA,8,7/30/19,Sales,5,10
+Anton,UA,8,7/31/19,Sales,5,10
+Anton,UA,8,8/1/19,Sales,5,10
+Anton,UA,8,8/2/19,Sales,5,10
+Anton,UA,0,8/3/19,Sales,5,10
+Anton,UA,0,8/4/19,Sales,5,10
+Tanya,BY,8,7/29/19,PM,5,10
+Tanya,BY,8,7/30/19,PM,5,10
+Tanya,BY,8,7/31/19,PM,5,10
+Tanya,BY,8,8/1/19,PM,5,10
+Tanya,BY,3,8/2/19,PM,5,10
+Tanya,BY,0,8/3/19,PM,5,10
+Tanya,BY,0,8/4/19,PM,5,10
+Eugene F,UA,8,7/29/19,INTERN,5,10
+Eugene F,UA,8,7/30/19,INTERN,5,10
+Eugene F,UA,8,7/31/19,INTERN,5,10
+Eugene F,UA,8,8/1/19,INTERN,5,10
+Eugene F,UA,8,8/2/19,INTERN,5,10
+Eugene F,UA,8,8/3/19,INTERN,5,10
+Eugene F,UA,8,8/4/19,INTERN,5,10
+Artem,BY,8,8/5/19,CMG,5,10
+Artem,BY,8,8/6/19,CMG,5,10
+Artem,BY,8,8/7/19,CMG,5,10
+Artem,BY,8,8/8/19,CMG,5,10
+Artem,BY,8,8/9/19,CMG,5,10
+Artem,BY,0,8/10/19,CMG,5,10
+Artem,BY,0,8/11/19,CMG,5,10
+Ilya,BY,8,8/5/19,CMG,5,10
+Ilya,BY,8,8/6/19,CMG,5,10
+Ilya,BY,8,8/7/19,CMG,5,10
+Ilya,BY,8,8/8/19,CMG,5,10
+Ilya,BY,5,8/9/19,CMG,5,10
+Ilya,BY,0,8/10/19,CMG,5,10
+Ilya,BY,0,8/11/19,CMG,5,10
+Andrey Polyakov,BY,3,8/5/19,NYRR,5,10
+Andrey Polyakov,BY,3,8/6/19,NYRR,5,10
+Andrey Polyakov,BY,2,8/7/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/8/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/9/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/10/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/11/19,NYRR,5,10
+Alex V,BY,4,8/5/19,EWC,5,10
+Alex V,BY,4,8/6/19,EWC,5,10
+Alex V,BY,4,8/7/19,EWC,5,10
+Alex V,BY,4,8/8/19,EWC,5,10
+Alex V,BY,2,8/9/19,EWC,5,10
+Alex V,BY,0,8/10/19,EWC,5,10
+Alex V,BY,0,8/11/19,EWC,5,10
+Vlad,BY,8,8/5/19,TBG,5,10
+Vlad,BY,8,8/6/19,TBG,5,10
+Vlad,BY,8,8/7/19,TBG,5,10
+Vlad,BY,8,8/8/19,TBG,5,10
+Vlad,BY,8,8/9/19,TBG,5,10
+Vlad,BY,0,8/10/19,TBG,5,10
+Vlad,BY,0,8/11/19,TBG,5,10
+Tanya,BY,3,8/5/19,EWC,5,10
+Tanya,BY,3,8/6/19,EWC,5,10
+Tanya,BY,3,8/7/19,EWC,5,10
+Tanya,BY,3,8/8/19,EWC,5,10
+Tanya,BY,0,8/9/19,EWC,5,10
+Tanya,BY,0,8/10/19,EWC,5,10
+Tanya,BY,0,8/11/19,EWC,5,10
+Andrey P,UA,8,8/5/19,TBG,5,10
+Andrey P,UA,8,8/6/19,TBG,5,10
+Andrey P,UA,8,8/7/19,TBG,5,10
+Andrey P,UA,8,8/8/19,TBG,5,10
+Andrey P,UA,10,8/9/19,TBG,5,10
+Andrey P,UA,0,8/10/19,TBG,5,10
+Andrey P,UA,0,8/11/19,TBG,5,10
+Anton O,UA,4,8/5/19,Enform,5,10
+Anton O,UA,4,8/6/19,Enform,5,10
+Anton O,UA,4,8/7/19,Enform,5,10
+Anton O,UA,4,8/8/19,Enform,5,10
+Anton O,UA,2,8/9/19,Enform,5,10
+Anton O,UA,0,8/10/19,Enform,5,10
+Anton O,UA,0,8/11/19,Enform,5,10
+Yuri S,UA,5,8/5/19,Enform,5,10
+Yuri S,UA,5,8/6/19,Enform,5,10
+Yuri S,UA,5,8/7/19,Enform,5,10
+Yuri S,UA,5,8/8/19,Enform,5,10
+Yuri S,UA,2,8/9/19,Enform,5,10
+Yuri S,UA,0,8/10/19,Enform,5,10
+Yuri S,UA,0,8/11/19,Enform,5,10
+Yuri S,UA,6,8/5/19,Cresa,5,10
+Yuri S,UA,6,8/6/19,Cresa,5,10
+Yuri S,UA,6,8/7/19,Cresa,5,10
+Yuri S,UA,0,8/8/19,Cresa,5,10
+Yuri S,UA,0,8/9/19,Cresa,5,10
+Yuri S,UA,0,8/10/19,Cresa,5,10
+Yuri S,UA,0,8/11/19,Cresa,5,10
+Yuri Z,UA,0,8/5/19,CMG,5,10
+Yuri Z,UA,0,8/6/19,CMG,5,10
+Yuri Z,UA,5,8/7/19,CMG,5,10
+Yuri Z,UA,0,8/8/19,CMG,5,10
+Yuri Z,UA,0,8/9/19,CMG,5,10
+Yuri Z,UA,0,8/10/19,CMG,5,10
+Yuri Z,UA,0,8/11/19,CMG,5,10
+Roman,UA,8,8/5/19,EWC,5,10
+Roman,UA,8,8/6/19,EWC,5,10
+Roman,UA,8,8/7/19,EWC,5,10
+Roman,UA,8,8/8/19,EWC,5,10
+Roman,UA,8,8/9/19,EWC,5,10
+Roman,UA,0,8/10/19,EWC,5,10
+Roman,UA,0,8/11/19,EWC,5,10
+Yuri Z,UA,5,8/5/19,DMC,5,10
+Yuri Z,UA,5,8/6/19,DMC,5,10
+Yuri Z,UA,0,8/7/19,DMC,5,10
+Yuri Z,UA,0,8/8/19,DMC,5,10
+Yuri Z,UA,0,8/9/19,DMC,5,10
+Yuri Z,UA,0,8/10/19,DMC,5,10
+Yuri Z,UA,0,8/11/19,DMC,5,10
+Eugene F,UA,8,8/5/19,INTERN,5,10
+Eugene F,UA,8,8/6/19,INTERN,5,10
+Eugene F,UA,8,8/7/19,INTERN,5,10
+Eugene F,UA,8,8/8/19,INTERN,5,10
+Eugene F,UA,8,8/9/19,INTERN,5,10
+Eugene F,UA,0,8/10/19,INTERN,5,10
+Eugene F,UA,0,8/11/19,INTERN,5,10
+Anton,UA,8,8/5/19,Sales,5,10
+Anton,UA,8,8/6/19,Sales,5,10
+Anton,UA,8,8/7/19,Sales,5,10
+Anton,UA,8,8/8/19,Sales,5,10
+Anton,UA,8,8/9/19,Sales,5,10
+Anton,UA,0,8/10/19,Sales,5,10
+Anton,UA,0,8/11/19,Sales,5,10
+Tanya,BY,8,8/5/19,PM,5,10
+Tanya,BY,8,8/6/19,PM,5,10
+Tanya,BY,8,8/7/19,PM,5,10
+Tanya,BY,8,8/8/19,PM,5,10
+Tanya,BY,5,8/9/19,PM,5,10
+Tanya,BY,0,8/10/19,PM,5,10
+Tanya,BY,0,8/11/19,PM,5,10
+Profit,US,5,8/5/19,EWC,5,10
+Profit,US,0,8/6/19,EWC,5,10
+Profit,US,0,8/7/19,EWC,5,10
+Profit,US,0,8/8/19,EWC,5,10
+Profit,US,0,8/9/19,EWC,5,10
+Profit,US,0,8/10/19,EWC,5,10
+Profit,US,0,8/11/19,EWC,5,10
+Profit,US,2,8/5/19,Enform,5,10
+Profit,US,0,8/6/19,Enform,5,10
+Profit,US,0,8/7/19,Enform,5,10
+Profit,US,0,8/8/19,Enform,5,10
+Profit,US,0,8/9/19,Enform,5,10
+Profit,US,0,8/10/19,Enform,5,10
+Profit,US,0,8/11/19,Enform,5,10
+Profit,US,0,8/5/19,MyMax,5,10
+Profit,US,0,8/6/19,MyMax,5,10
+Profit,US,5,8/7/19,MyMax,5,10
+Profit,US,0,8/8/19,MyMax,5,10
+Profit,US,0,8/9/19,MyMax,5,10
+Profit,US,0,8/10/19,MyMax,5,10
+Profit,US,0,8/11/19,MyMax,5,10
+Artem,BY,8,8/12/19,CMG,5,10
+Artem,BY,8,8/13/19,CMG,5,10
+Artem,BY,8,8/14/19,CMG,5,10
+Artem,BY,8,8/15/19,CMG,5,10
+Artem,BY,8,8/16/19,CMG,5,10
+Artem,BY,0,8/17/19,CMG,5,10
+Artem,BY,0,8/18/19,CMG,5,10
+Alex V,BY,5,8/12/19,Enform,5,10
+Alex V,BY,5,8/13/19,Enform,5,10
+Alex V,BY,5,8/14/19,Enform,5,10
+Alex V,BY,5,8/15/19,Enform,5,10
+Alex V,BY,4,8/16/19,Enform,5,10
+Alex V,BY,0,8/17/19,Enform,5,10
+Alex V,BY,0,8/18/19,Enform,5,10
+Alex V,BY,0,8/12/19,DMC,5,10
+Alex V,BY,0,8/13/19,DMC,5,10
+Alex V,BY,0,8/14/19,DMC,5,10
+Alex V,BY,0,8/15/19,DMC,5,10
+Alex V,BY,2,8/16/19,DMC,5,10
+Alex V,BY,0,8/17/19,DMC,5,10
+Alex V,BY,0,8/18/19,DMC,5,10
+Ilya,BY,8,8/12/19,CMG,5,10
+Ilya,BY,8,8/13/19,CMG,5,10
+Ilya,BY,8,8/14/19,CMG,5,10
+Ilya,BY,8,8/15/19,CMG,5,10
+Ilya,BY,8,8/16/19,CMG,5,10
+Ilya,BY,0,8/17/19,CMG,5,10
+Ilya,BY,0,8/18/19,CMG,5,10
+Vlad,BY,8,8/12/19,TBG,5,10
+Vlad,BY,8,8/13/19,TBG,5,10
+Vlad,BY,8,8/14/19,TBG,5,10
+Vlad,BY,8,8/15/19,TBG,5,10
+Vlad,BY,8,8/16/19,TBG,5,10
+Vlad,BY,0,8/17/19,TBG,5,10
+Vlad,BY,0,8/18/19,TBG,5,10
+Vlad,BY,0,8/12/19,EnformCNS,5,10
+Vlad,BY,0,8/13/19,EnformCNS,5,10
+Vlad,BY,2,8/14/19,EnformCNS,5,10
+Vlad,BY,2,8/15/19,EnformCNS,5,10
+Vlad,BY,0,8/16/19,EnformCNS,5,10
+Vlad,BY,0,8/17/19,EnformCNS,5,10
+Vlad,BY,0,8/18/19,EnformCNS,5,10
+Tanya,BY,2,8/12/19,Cresa,5,10
+Tanya,BY,2,8/13/19,Cresa,5,10
+Tanya,BY,2,8/14/19,Cresa,5,10
+Tanya,BY,0,8/15/19,Cresa,5,10
+Tanya,BY,0,8/16/19,Cresa,5,10
+Tanya,BY,0,8/17/19,Cresa,5,10
+Tanya,BY,0,8/18/19,Cresa,5,10
+Andrey P,UA,8,8/12/19,TBG,5,10
+Andrey P,UA,8,8/13/19,TBG,5,10
+Andrey P,UA,8,8/14/19,TBG,5,10
+Andrey P,UA,8,8/15/19,TBG,5,10
+Andrey P,UA,8,8/16/19,TBG,5,10
+Andrey P,UA,0,8/17/19,TBG,5,10
+Andrey P,UA,0,8/18/19,TBG,5,10
+Anton O,UA,4,8/12/19,Enform,5,10
+Anton O,UA,4,8/13/19,Enform,5,10
+Anton O,UA,4,8/14/19,Enform,5,10
+Anton O,UA,4,8/15/19,Enform,5,10
+Anton O,UA,4,8/16/19,Enform,5,10
+Anton O,UA,0,8/17/19,Enform,5,10
+Anton O,UA,0,8/18/19,Enform,5,10
+Yuri S,UA,0,8/12/19,Enform,5,10
+Yuri S,UA,0,8/13/19,Enform,5,10
+Yuri S,UA,2,8/14/19,Enform,5,10
+Yuri S,UA,0,8/15/19,Enform,5,10
+Yuri S,UA,0,8/16/19,Enform,5,10
+Yuri S,UA,0,8/17/19,Enform,5,10
+Yuri S,UA,0,8/18/19,Enform,5,10
+Roman,UA,8,8/12/19,Training,5,10
+Roman,UA,8,8/13/19,Training,5,10
+Roman,UA,8,8/14/19,Training,5,10
+Roman,UA,8,8/15/19,Training,5,10
+Roman,UA,8,8/16/19,Training,5,10
+Roman,UA,0,8/17/19,Training,5,10
+Roman,UA,0,8/18/19,Training,5,10
+Eugene F,UA,8,8/12/19,INTERN,5,10
+Eugene F,UA,8,8/13/19,INTERN,5,10
+Eugene F,UA,8,8/14/19,INTERN,5,10
+Eugene F,UA,8,8/15/19,INTERN,5,10
+Eugene F,UA,8,8/16/19,INTERN,5,10
+Eugene F,UA,0,8/17/19,INTERN,5,10
+Eugene F,UA,0,8/18/19,INTERN,5,10
+Yuri S,UA,6,8/12/19,Cresa,5,10
+Yuri S,UA,6,8/13/19,Cresa,5,10
+Yuri S,UA,6,8/14/19,Cresa,5,10
+Yuri S,UA,6,8/15/19,Cresa,5,10
+Yuri S,UA,7,8/16/19,Cresa,5,10
+Yuri S,UA,0,8/17/19,Cresa,5,10
+Yuri S,UA,0,8/18/19,Cresa,5,10
+Yuri S,UA,2,8/12/19,DMC,5,10
+Yuri S,UA,2,8/13/19,DMC,5,10
+Yuri S,UA,2,8/14/19,DMC,5,10
+Yuri S,UA,1,8/15/19,DMC,5,10
+Yuri S,UA,0,8/16/19,DMC,5,10
+Yuri S,UA,0,8/17/19,DMC,5,10
+Yuri S,UA,0,8/18/19,DMC,5,10
+Yuri Z,UA,0,8/12/19,DMC,5,10
+Yuri Z,UA,0,8/13/19,DMC,5,10
+Yuri Z,UA,0,8/14/19,DMC,5,10
+Yuri Z,UA,1,8/15/19,DMC,5,10
+Yuri Z,UA,0,8/16/19,DMC,5,10
+Yuri Z,UA,0,8/17/19,DMC,5,10
+Yuri Z,UA,0,8/18/19,DMC,5,10
+Profit,US,0,8/12/19,MyMax,5,10
+Profit,US,0,8/13/19,MyMax,5,10
+Profit,US,5,8/14/19,MyMax,5,10
+Profit,US,0,8/15/19,MyMax,5,10
+Profit,US,0,8/16/19,MyMax,5,10
+Profit,US,0,8/17/19,MyMax,5,10
+Profit,US,0,8/18/19,MyMax,5,10
+Alex V,BY,0,8/12/19,MyMax,5,10
+Alex V,BY,0,8/13/19,MyMax,5,10
+Alex V,BY,6,8/14/19,MyMax,5,10
+Alex V,BY,0,8/15/19,MyMax,5,10
+Alex V,BY,0,8/16/19,MyMax,5,10
+Alex V,BY,0,8/17/19,MyMax,5,10
+Alex V,BY,0,8/18/19,MyMax,5,10
+Profit,US,0,8/12/19,DMC,5,10
+Profit,US,5,8/13/19,DMC,5,10
+Profit,US,0,8/14/19,DMC,5,10
+Profit,US,0,8/15/19,DMC,5,10
+Profit,US,0,8/16/19,DMC,5,10
+Profit,US,0,8/17/19,DMC,5,10
+Profit,US,0,8/18/19,DMC,5,10
+Profit,US,4,8/12/19,EnformCNS,5,10
+Profit,US,0,8/13/19,EnformCNS,5,10
+Profit,US,0,8/14/19,EnformCNS,5,10
+Profit,US,4,8/15/19,EnformCNS,5,10
+Profit,US,0,8/16/19,EnformCNS,5,10
+Profit,US,0,8/17/19,EnformCNS,5,10
+Profit,US,0,8/18/19,EnformCNS,5,10
+Anton ,UA,8,8/12/19,Sales,5,10
+Anton ,UA,8,8/13/19,Sales,5,10
+Anton ,UA,8,8/14/19,Sales,5,10
+Anton ,UA,8,8/15/19,Sales,5,10
+Anton ,UA,8,8/16/19,Sales,5,10
+Anton ,UA,0,8/17/19,Sales,5,10
+Anton ,UA,0,8/18/19,Sales,5,10
+Tanya,BY,8,8/12/19,PM,5,10
+Tanya,BY,8,8/13/19,PM,5,10
+Tanya,BY,8,8/14/19,PM,5,10
+Tanya,BY,8,8/15/19,PM,5,10
+Tanya,BY,4,8/16/19,PM,5,10
+Tanya,BY,0,8/17/19,PM,5,10
+Tanya,BY,0,8/18/19,PM,5,10
+Artem,BY,8,8/19/19,CMG,5,10
+Artem,BY,8,8/20/19,CMG,5,10
+Artem,BY,8,8/21/19,CMG,5,10
+Artem,BY,8,8/22/19,CMG,5,10
+Artem,BY,8,8/23/19,CMG,5,10
+Artem,BY,0,8/24/19,CMG,5,10
+Artem,BY,0,8/25/19,CMG,5,10
+Andrey Polyakov,BY,5,8/19/19,NYRR,5,10
+Andrey Polyakov,BY,5,8/20/19,NYRR,5,10
+Andrey Polyakov,BY,5,8/21/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/22/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/23/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/24/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/25/19,NYRR,5,10
+Alex V,BY,8,8/19/19,Enform,5,10
+Alex V,BY,8,8/20/19,Enform,5,10
+Alex V,BY,8,8/21/19,Enform,5,10
+Alex V,BY,8,8/22/19,Enform,5,10
+Alex V,BY,6,8/23/19,Enform,5,10
+Alex V,BY,0,8/24/19,Enform,5,10
+Alex V,BY,0,8/25/19,Enform,5,10
+Ilya,BY,8,8/19/19,CMG,5,10
+Ilya,BY,8,8/20/19,CMG,5,10
+Ilya,BY,8,8/21/19,CMG,5,10
+Ilya,BY,8,8/22/19,CMG,5,10
+Ilya,BY,8,8/23/19,CMG,5,10
+Ilya,BY,0,8/24/19,CMG,5,10
+Ilya,BY,0,8/25/19,CMG,5,10
+Vlad,BY,8,8/19/19,TBG,5,10
+Vlad,BY,8,8/20/19,TBG,5,10
+Vlad,BY,8,8/21/19,TBG,5,10
+Vlad,BY,8,8/22/19,TBG,5,10
+Vlad,BY,8,8/23/19,TBG,5,10
+Vlad,BY,0,8/24/19,TBG,5,10
+Vlad,BY,0,8/25/19,TBG,5,10
+Vlad,BY,5,8/19/19,EnformCNS,5,10
+Vlad,BY,5,8/20/19,EnformCNS,5,10
+Vlad,BY,5,8/21/19,EnformCNS,5,10
+Vlad,BY,0,8/22/19,EnformCNS,5,10
+Vlad,BY,0,8/23/19,EnformCNS,5,10
+Vlad,BY,0,8/24/19,EnformCNS,5,10
+Vlad,BY,0,8/25/19,EnformCNS,5,10
+Yuri S,UA,8,8/19/19,Cresa,5,10
+Yuri S,UA,8,8/20/19,Cresa,5,10
+Yuri S,UA,8,8/21/19,Cresa,5,10
+Yuri S,UA,8,8/22/19,Cresa,5,10
+Yuri S,UA,2,8/23/19,Cresa,5,10
+Yuri S,UA,0,8/24/19,Cresa,5,10
+Yuri S,UA,0,8/25/19,Cresa,5,10
+Andrey P,UA,8,8/19/19,TBG,5,10
+Andrey P,UA,8,8/20/19,TBG,5,10
+Andrey P,UA,8,8/21/19,TBG,5,10
+Andrey P,UA,8,8/22/19,TBG,5,10
+Andrey P,UA,6,8/23/19,TBG,5,10
+Andrey P,UA,0,8/24/19,TBG,5,10
+Andrey P,UA,0,8/25/19,TBG,5,10
+Anton O,UA,0,8/19/19,EnformCNS,5,10
+Anton O,UA,0,8/20/19,EnformCNS,5,10
+Anton O,UA,0,8/21/19,EnformCNS,5,10
+Anton O,UA,3,8/22/19,EnformCNS,5,10
+Anton O,UA,0,8/23/19,EnformCNS,5,10
+Anton O,UA,0,8/24/19,EnformCNS,5,10
+Anton O,UA,0,8/25/19,EnformCNS,5,10
+Yuri S,UA,3,8/19/19,DMC,5,10
+Yuri S,UA,3,8/20/19,DMC,5,10
+Yuri S,UA,3,8/21/19,DMC,5,10
+Yuri S,UA,1,8/22/19,DMC,5,10
+Yuri S,UA,0,8/23/19,DMC,5,10
+Yuri S,UA,0,8/24/19,DMC,5,10
+Yuri S,UA,0,8/25/19,DMC,5,10
+Roman,UA,8,8/19/19,Training,5,10
+Roman,UA,8,8/20/19,Training,5,10
+Roman,UA,8,8/21/19,Training,5,10
+Roman,UA,8,8/22/19,Training,5,10
+Roman,UA,8,8/23/19,Training,5,10
+Roman,UA,0,8/24/19,Training,5,10
+Roman,UA,0,8/25/19,Training,5,10
+Yuri Z,UA,5,8/19/19,CMG,5,10
+Yuri Z,UA,5,8/20/19,CMG,5,10
+Yuri Z,UA,5,8/21/19,CMG,5,10
+Yuri Z,UA,0,8/22/19,CMG,5,10
+Yuri Z,UA,0,8/23/19,CMG,5,10
+Yuri Z,UA,0,8/24/19,CMG,5,10
+Yuri Z,UA,0,8/25/19,CMG,5,10
+Anton O,UA,2,8/19/19,EnformCNS,5,10
+Anton O,UA,0,8/20/19,EnformCNS,5,10
+Anton O,UA,0,8/21/19,EnformCNS,5,10
+Anton O,UA,0,8/22/19,EnformCNS,5,10
+Anton O,UA,0,8/23/19,EnformCNS,5,10
+Anton O,UA,0,8/24/19,EnformCNS,5,10
+Anton O,UA,0,8/25/19,EnformCNS,5,10
+Eugene F,UA,8,8/19/19,INTERN,5,10
+Eugene F,UA,8,8/20/19,INTERN,5,10
+Eugene F,UA,8,8/21/19,INTERN,5,10
+Eugene F,UA,8,8/22/19,INTERN,5,10
+Eugene F,UA,8,8/23/19,INTERN,5,10
+Eugene F,UA,0,8/24/19,INTERN,5,10
+Eugene F,UA,0,8/25/19,INTERN,5,10
+Anton ,UA,8,8/19/19,Sales,5,10
+Anton ,UA,8,8/20/19,Sales,5,10
+Anton ,UA,8,8/21/19,Sales,5,10
+Anton ,UA,8,8/22/19,Sales,5,10
+Anton ,UA,8,8/23/19,Sales,5,10
+Anton ,UA,0,8/24/19,Sales,5,10
+Anton ,UA,0,8/25/19,Sales,5,10
+Tanya,BY,8,8/19/19,PM,5,10
+Tanya,BY,8,8/20/19,PM,5,10
+Tanya,BY,8,8/21/19,PM,5,10
+Tanya,BY,8,8/22/19,PM,5,10
+Tanya,BY,2,8/23/19,PM,5,10
+Tanya,BY,0,8/24/19,PM,5,10
+Tanya,BY,0,8/25/19,PM,5,10
+Profit,US,5,8/19/19,MyMax,5,10
+Profit,US,5,8/20/19,MyMax,5,10
+Profit,US,0,8/21/19,MyMax,5,10
+Profit,US,0,8/22/19,MyMax,5,10
+Profit,US,0,8/23/19,MyMax,5,10
+Profit,US,0,8/24/19,MyMax,5,10
+Profit,US,0,8/25/19,MyMax,5,10
+Artem,BY,9,8/26/19,CMG,5,10
+Artem,BY,9,8/27/19,CMG,5,10
+Artem,BY,9,8/28/19,CMG,5,10
+Artem,BY,9,8/29/19,CMG,5,10
+Artem,BY,9,8/30/19,CMG,5,10
+Artem,BY,0,8/31/19,CMG,5,10
+Artem,BY,0,9/1/19,CMG,5,10
+Andrey Polyakov,BY,5,8/26/19,NYRR,5,10
+Andrey Polyakov,BY,5,8/27/19,NYRR,5,10
+Andrey Polyakov,BY,5,8/28/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/29/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/30/19,NYRR,5,10
+Andrey Polyakov,BY,0,8/31/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/1/19,NYRR,5,10
+Artem,BY,6,8/26/19,Enform,5,10
+Artem,BY,6,8/27/19,Enform,5,10
+Artem,BY,4,8/28/19,Enform,5,10
+Artem,BY,0,8/29/19,Enform,5,10
+Artem,BY,0,8/30/19,Enform,5,10
+Artem,BY,0,8/31/19,Enform,5,10
+Artem,BY,0,9/1/19,Enform,5,10
+Alex V,BY,8,8/26/19,Enform,5,10
+Alex V,BY,8,8/27/19,Enform,5,10
+Alex V,BY,8,8/28/19,Enform,5,10
+Alex V,BY,8,8/29/19,Enform,5,10
+Alex V,BY,8,8/30/19,Enform,5,10
+Alex V,BY,0,8/31/19,Enform,5,10
+Alex V,BY,0,9/1/19,Enform,5,10
+Andrew,BY,4,8/26/19,JAX_QS,5,10
+Andrew,BY,4,8/27/19,JAX_QS,5,10
+Andrew,BY,0,8/28/19,JAX_QS,5,10
+Andrew,BY,0,8/29/19,JAX_QS,5,10
+Andrew,BY,0,8/30/19,JAX_QS,5,10
+Andrew,BY,0,8/31/19,JAX_QS,5,10
+Andrew,BY,0,9/1/19,JAX_QS,5,10
+Vlad,BY,8,8/26/19,TBG,5,10
+Vlad,BY,8,8/27/19,TBG,5,10
+Vlad,BY,8,8/28/19,TBG,5,10
+Vlad,BY,8,8/29/19,TBG,5,10
+Vlad,BY,8,8/30/19,TBG,5,10
+Vlad,BY,0,8/31/19,TBG,5,10
+Vlad,BY,0,9/1/19,TBG,5,10
+Vlad,BY,5,8/26/19,EnformCNS,5,10
+Vlad,BY,5,8/27/19,EnformCNS,5,10
+Vlad,BY,4,8/28/19,EnformCNS,5,10
+Vlad,BY,0,8/29/19,EnformCNS,5,10
+Vlad,BY,0,8/30/19,EnformCNS,5,10
+Vlad,BY,0,8/31/19,EnformCNS,5,10
+Vlad,BY,0,9/1/19,EnformCNS,5,10
+Vlad,BY,5,8/26/19,Enform,5,10
+Vlad,BY,0,8/27/19,Enform,5,10
+Vlad,BY,0,8/28/19,Enform,5,10
+Vlad,BY,0,8/29/19,Enform,5,10
+Vlad,BY,0,8/30/19,Enform,5,10
+Vlad,BY,0,8/31/19,Enform,5,10
+Vlad,BY,0,9/1/19,Enform,5,10
+Anton O,UA,5,8/26/19,Enform,5,10
+Anton O,UA,5,8/27/19,Enform,5,10
+Anton O,UA,5,8/28/19,Enform,5,10
+Anton O,UA,0,8/29/19,Enform,5,10
+Anton O,UA,0,8/30/19,Enform,5,10
+Anton O,UA,0,8/31/19,Enform,5,10
+Anton O,UA,0,9/1/19,Enform,5,10
+Yuri S,UA,5,8/26/19,Enform,5,10
+Yuri S,UA,5,8/27/19,Enform,5,10
+Yuri S,UA,3,8/28/19,Enform,5,10
+Yuri S,UA,0,8/29/19,Enform,5,10
+Yuri S,UA,0,8/30/19,Enform,5,10
+Yuri S,UA,0,8/31/19,Enform,5,10
+Yuri S,UA,0,9/1/19,Enform,5,10
+Andrey P,UA,0,8/26/19,TBG,5,10
+Andrey P,UA,8,8/27/19,TBG,5,10
+Andrey P,UA,8,8/28/19,TBG,5,10
+Andrey P,UA,8,8/29/19,TBG,5,10
+Andrey P,UA,8,8/30/19,TBG,5,10
+Andrey P,UA,0,8/31/19,TBG,5,10
+Andrey P,UA,0,9/1/19,TBG,5,10
+Roman,UA,8,8/26/19,Training,5,10
+Roman,UA,8,8/27/19,Training,5,10
+Roman,UA,8,8/28/19,Training,5,10
+Roman,UA,8,8/29/19,Training,5,10
+Roman,UA,8,8/30/19,Training,5,10
+Roman,UA,0,8/31/19,Training,5,10
+Roman,UA,0,9/1/19,Training,5,10
+Eugene F,UA,8,8/26/19,INTERN,5,10
+Eugene F,UA,8,8/27/19,INTERN,5,10
+Eugene F,UA,0,8/28/19,INTERN,5,10
+Eugene F,UA,0,8/29/19,INTERN,5,10
+Eugene F,UA,0,8/30/19,INTERN,5,10
+Eugene F,UA,0,8/31/19,INTERN,5,10
+Eugene F,UA,0,9/1/19,INTERN,5,10
+Yuri Z,UA,5,8/26/19,CMG,5,10
+Yuri Z,UA,5,8/27/19,CMG,5,10
+Yuri Z,UA,4,8/28/19,CMG,5,10
+Yuri Z,UA,0,8/29/19,CMG,5,10
+Yuri Z,UA,0,8/30/19,CMG,5,10
+Yuri Z,UA,0,8/31/19,CMG,5,10
+Yuri Z,UA,0,9/1/19,CMG,5,10
+Yuri S,UA,5,8/26/19,Cresa,5,10
+Yuri S,UA,6,8/27/19,Cresa,5,10
+Yuri S,UA,0,8/28/19,Cresa,5,10
+Yuri S,UA,0,8/29/19,Cresa,5,10
+Yuri S,UA,0,8/30/19,Cresa,5,10
+Yuri S,UA,0,8/31/19,Cresa,5,10
+Yuri S,UA,0,9/1/19,Cresa,5,10
+Yuri S,UA,4,8/26/19,JAX_QS,5,10
+Yuri S,UA,0,8/27/19,JAX_QS,5,10
+Yuri S,UA,0,8/28/19,JAX_QS,5,10
+Yuri S,UA,0,8/29/19,JAX_QS,5,10
+Yuri S,UA,0,8/30/19,JAX_QS,5,10
+Yuri S,UA,0,8/31/19,JAX_QS,5,10
+Yuri S,UA,0,9/1/19,JAX_QS,5,10
+Anton O,UA,0,8/26/19,EnformCNS,5,10
+Anton O,UA,0,8/27/19,EnformCNS,5,10
+Anton O,UA,0,8/28/19,EnformCNS,5,10
+Anton O,UA,5,8/29/19,EnformCNS,5,10
+Anton O,UA,0,8/30/19,EnformCNS,5,10
+Anton O,UA,0,8/31/19,EnformCNS,5,10
+Anton O,UA,0,9/1/19,EnformCNS,5,10
+Yuri S,UA,4,8/26/19,DMC,5,10
+Yuri S,UA,4,8/27/19,DMC,5,10
+Yuri S,UA,0,8/28/19,DMC,5,10
+Yuri S,UA,0,8/29/19,DMC,5,10
+Yuri S,UA,0,8/30/19,DMC,5,10
+Yuri S,UA,0,8/31/19,DMC,5,10
+Yuri S,UA,0,9/1/19,DMC,5,10
+Profit,US,4,8/26/19,DMC,5,10
+Profit,US,0,8/27/19,DMC,5,10
+Profit,US,0,8/28/19,DMC,5,10
+Profit,US,0,8/29/19,DMC,5,10
+Profit,US,0,8/30/19,DMC,5,10
+Profit,US,0,8/31/19,DMC,5,10
+Profit,US,0,9/1/19,DMC,5,10
+Profit,US,0,8/26/19,MyMax,5,10
+Profit,US,0,8/27/19,MyMax,5,10
+Profit,US,0,8/28/19,MyMax,5,10
+Profit,US,0,8/29/19,MyMax,5,10
+Profit,US,0,8/30/19,MyMax,5,10
+Profit,US,0,8/31/19,MyMax,5,10
+Profit,US,5,9/1/19,MyMax,5,10
+Profit,US,1,8/26/19,JAX_QS,5,10
+Profit,US,0,8/27/19,JAX_QS,5,10
+Profit,US,0,8/28/19,JAX_QS,5,10
+Profit,US,0,8/29/19,JAX_QS,5,10
+Profit,US,0,8/30/19,JAX_QS,5,10
+Profit,US,0,8/31/19,JAX_QS,5,10
+Profit,US,0,9/1/19,JAX_QS,5,10
+Anton,UA,8,8/26/19,Sales,5,10
+Anton,UA,8,8/27/19,Sales,5,10
+Anton,UA,8,8/28/19,Sales,5,10
+Anton,UA,8,8/29/19,Sales,5,10
+Anton,UA,8,8/30/19,Sales,5,10
+Anton,UA,0,8/31/19,Sales,5,10
+Anton,UA,0,9/1/19,Sales,5,10
+Tanya,BY,8,8/26/19,PM,5,10
+Tanya,BY,8,8/27/19,PM,5,10
+Tanya,BY,8,8/28/19,PM,5,10
+Tanya,BY,8,8/29/19,PM,5,10
+Tanya,BY,8,8/30/19,PM,5,10
+Tanya,BY,0,8/31/19,PM,5,10
+Tanya,BY,0,9/1/19,PM,5,10
+Adjustment,US,-5,8/26/19,Cresa,5,10
+Adjustment,US,-5,8/27/19,Cresa,5,10
+Adjustment,US,-5,8/28/19,Cresa,5,10
+Adjustment,US,-5,8/29/19,Cresa,5,10
+Adjustment,US,0,8/30/19,Cresa,5,10
+Adjustment,US,0,8/31/19,Cresa,5,10
+Adjustment,US,0,9/1/19,Cresa,5,10
+Adjustment,US,5,9/2/19,Cresa,5,10
+Adjustment,US,5,9/3/19,Cresa,5,10
+Adjustment,US,5,9/4/19,Cresa,5,10
+Adjustment,US,5,9/5/19,Cresa,5,10
+Adjustment,US,0,9/6/19,Cresa,5,10
+Adjustment,US,0,9/7/19,Cresa,5,10
+Adjustment,US,0,9/8/19,Cresa,5,10
+Artem,BY,4,9/2/19,CMG,5,10
+Artem,BY,4,9/3/19,CMG,5,10
+Artem,BY,4,9/4/19,CMG,5,10
+Artem,BY,4,9/5/19,CMG,5,10
+Artem,BY,4,9/6/19,CMG,5,10
+Artem,BY,0,9/7/19,CMG,5,10
+Artem,BY,0,9/8/19,CMG,5,10
+Iegor P,BY,4,9/2/19,CMG,5,10
+Iegor P,BY,4,9/3/19,CMG,5,10
+Iegor P,BY,4,9/4/19,CMG,5,10
+Iegor P,BY,4,9/5/19,CMG,5,10
+Iegor P,BY,0,9/6/19,CMG,5,10
+Iegor P,BY,0,9/7/19,CMG,5,10
+Iegor P,BY,0,9/8/19,CMG,5,10
+Andrey Polyakov,BY,4,9/2/19,NYRR,5,10
+Andrey Polyakov,BY,4,9/3/19,NYRR,5,10
+Andrey Polyakov,BY,4,9/4/19,NYRR,5,10
+Andrey Polyakov,BY,3,9/5/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/6/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/7/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/8/19,NYRR,5,10
+Alex V,BY,8,9/2/19,Enform,5,10
+Alex V,BY,8,9/3/19,Enform,5,10
+Alex V,BY,8,9/4/19,Enform,5,10
+Alex V,BY,8,9/5/19,Enform,5,10
+Alex V,BY,8,9/6/19,Enform,5,10
+Alex V,BY,0,9/7/19,Enform,5,10
+Alex V,BY,0,9/8/19,Enform,5,10
+Artem,BY,4,9/2/19,Enforme,5,10
+Artem,BY,0,9/3/19,Enforme,5,10
+Artem,BY,0,9/4/19,Enforme,5,10
+Artem,BY,0,9/5/19,Enforme,5,10
+Artem,BY,0,9/6/19,Enforme,5,10
+Artem,BY,0,9/7/19,Enforme,5,10
+Artem,BY,0,9/8/19,Enforme,5,10
+Vlad,BY,4,9/2/19,EnformCNS,5,10
+Vlad,BY,4,9/3/19,EnformCNS,5,10
+Vlad,BY,1,9/4/19,EnformCNS,5,10
+Vlad,BY,0,9/5/19,EnformCNS,5,10
+Vlad,BY,0,9/6/19,EnformCNS,5,10
+Vlad,BY,0,9/7/19,EnformCNS,5,10
+Vlad,BY,0,9/8/19,EnformCNS,5,10
+Vlad,BY,8,9/2/19,TBG,5,10
+Vlad,BY,8,9/3/19,TBG,5,10
+Vlad,BY,8,9/4/19,TBG,5,10
+Vlad,BY,8,9/5/19,TBG,5,10
+Vlad,BY,8,9/6/19,TBG,5,10
+Vlad,BY,0,9/7/19,TBG,5,10
+Vlad,BY,0,9/8/19,TBG,5,10
+Anton O,UA,3,9/2/19,EnformCNS,5,10
+Anton O,UA,3,9/3/19,EnformCNS,5,10
+Anton O,UA,3,9/4/19,EnformCNS,5,10
+Anton O,UA,3,9/5/19,EnformCNS,5,10
+Anton O,UA,0,9/6/19,EnformCNS,5,10
+Anton O,UA,0,9/7/19,EnformCNS,5,10
+Anton O,UA,0,9/8/19,EnformCNS,5,10
+Roman,UA,8,9/2/19,Training,5,10
+Roman,UA,8,9/3/19,Training,5,10
+Roman,UA,8,9/4/19,Training,5,10
+Roman,UA,8,9/5/19,Training,5,10
+Roman,UA,8,9/6/19,Training,5,10
+Roman,UA,0,9/7/19,Training,5,10
+Roman,UA,0,9/8/19,Training,5,10
+Eugene F,UA,4,9/2/19,INTERN,5,10
+Eugene F,UA,4,9/3/19,INTERN,5,10
+Eugene F,UA,4,9/4/19,INTERN,5,10
+Eugene F,UA,4,9/5/19,INTERN,5,10
+Eugene F,UA,3,9/6/19,INTERN,5,10
+Eugene F,UA,0,9/7/19,INTERN,5,10
+Eugene F,UA,0,9/8/19,INTERN,5,10
+Yuri Z,UA,2,9/2/19,CMG,5,10
+Yuri Z,UA,2,9/3/19,CMG,5,10
+Yuri Z,UA,1,9/4/19,CMG,5,10
+Yuri Z,UA,0,9/5/19,CMG,5,10
+Yuri Z,UA,0,9/6/19,CMG,5,10
+Yuri Z,UA,0,9/7/19,CMG,5,10
+Yuri Z,UA,0,9/8/19,CMG,5,10
+Yuri S,UA,5,9/2/19,Cresa,5,10
+Yuri S,UA,5,9/3/19,Cresa,5,10
+Yuri S,UA,5,9/4/19,Cresa,5,10
+Yuri S,UA,5,9/5/19,Cresa,5,10
+Yuri S,UA,4,9/6/19,Cresa,5,10
+Yuri S,UA,0,9/7/19,Cresa,5,10
+Yuri S,UA,0,9/8/19,Cresa,5,10
+Anton O,UA,4,9/2/19,Enforme,5,10
+Anton O,UA,4,9/3/19,Enforme,5,10
+Anton O,UA,1,9/4/19,Enforme,5,10
+Anton O,UA,0,9/5/19,Enforme,5,10
+Anton O,UA,0,9/6/19,Enforme,5,10
+Anton O,UA,0,9/7/19,Enforme,5,10
+Anton O,UA,0,9/8/19,Enforme,5,10
+Yuri S,UA,3,9/2/19,Enforme,5,10
+Yuri S,UA,3,9/3/19,Enforme,5,10
+Yuri S,UA,3,9/4/19,Enforme,5,10
+Yuri S,UA,3,9/5/19,Enforme,5,10
+Yuri S,UA,3,9/6/19,Enforme,5,10
+Yuri S,UA,0,9/7/19,Enforme,5,10
+Yuri S,UA,0,9/8/19,Enforme,5,10
+Yuri S,UA,1,9/2/19,DMC,5,10
+Yuri S,UA,0,9/3/19,DMC,5,10
+Yuri S,UA,0,9/4/19,DMC,5,10
+Yuri S,UA,0,9/5/19,DMC,5,10
+Yuri S,UA,0,9/6/19,DMC,5,10
+Yuri S,UA,0,9/7/19,DMC,5,10
+Yuri S,UA,0,9/8/19,DMC,5,10
+Profit,US,5,9/2/19,MyMax,5,10
+Profit,US,5,9/3/19,MyMax,5,10
+Profit,US,0,9/4/19,MyMax,5,10
+Profit,US,0,9/5/19,MyMax,5,10
+Profit,US,0,9/6/19,MyMax,5,10
+Profit,US,0,9/7/19,MyMax,5,10
+Profit,US,0,9/8/19,MyMax,5,10
+Profit,US,3,9/2/19,DMC,5,10
+Profit,US,0,9/3/19,DMC,5,10
+Profit,US,0,9/4/19,DMC,5,10
+Profit,US,0,9/5/19,DMC,5,10
+Profit,US,0,9/6/19,DMC,5,10
+Profit,US,0,9/7/19,DMC,5,10
+Profit,US,0,9/8/19,DMC,5,10
+Anton,UA,8,9/2/19,Sales,5,10
+Anton,UA,8,9/3/19,Sales,5,10
+Anton,UA,8,9/4/19,Sales,5,10
+Anton,UA,8,9/5/19,Sales,5,10
+Anton,UA,8,9/6/19,Sales,5,10
+Anton,UA,0,9/7/19,Sales,5,10
+Anton,UA,0,9/8/19,Sales,5,10
+Tanya,BY,8,9/2/19,PM,5,10
+Tanya,BY,8,9/3/19,PM,5,10
+Tanya,BY,8,9/4/19,PM,5,10
+Tanya,BY,8,9/5/19,PM,5,10
+Tanya,BY,4,9/6/19,PM,5,10
+Tanya,BY,0,9/7/19,PM,5,10
+Tanya,BY,0,9/8/19,PM,5,10
+Artem,BY,4,9/9/19,CMG,5,10
+Artem,BY,4,9/10/19,CMG,5,10
+Artem,BY,4,9/11/19,CMG,5,10
+Artem,BY,4,9/12/19,CMG,5,10
+Artem,BY,4,9/13/19,CMG,5,10
+Artem,BY,0,9/14/19,CMG,5,10
+Artem,BY,0,9/15/19,CMG,5,10
+Ilya,BY,5,9/9/19,CMG,5,10
+Ilya,BY,5,9/10/19,CMG,5,10
+Ilya,BY,5,9/11/19,CMG,5,10
+Ilya,BY,5,9/12/19,CMG,5,10
+Ilya,BY,5,9/13/19,CMG,5,10
+Ilya,BY,5,9/14/19,CMG,5,10
+Ilya,BY,0,9/15/19,CMG,5,10
+Andrey Polyakov,BY,4,9/9/19,NYRR,5,10
+Andrey Polyakov,BY,4,9/10/19,NYRR,5,10
+Andrey Polyakov,BY,4,9/11/19,NYRR,5,10
+Andrey Polyakov,BY,3,9/12/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/13/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/14/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/15/19,NYRR,5,10
+Alex V,BY,8,9/9/19,Enforme,5,10
+Alex V,BY,8,9/10/19,Enforme,5,10
+Alex V,BY,8,9/11/19,Enforme,5,10
+Alex V,BY,8,9/12/19,Enforme,5,10
+Alex V,BY,8,9/13/19,Enforme,5,10
+Alex V,BY,0,9/14/19,Enforme,5,10
+Alex V,BY,0,9/15/19,Enforme,5,10
+Artem,BY,4,9/9/19,Cresa,5,10
+Artem,BY,4,9/10/19,Cresa,5,10
+Artem,BY,4,9/11/19,Cresa,5,10
+Artem,BY,4,9/12/19,Cresa,5,10
+Artem,BY,4,9/13/19,Cresa,5,10
+Artem,BY,0,9/14/19,Cresa,5,10
+Artem,BY,0,9/15/19,Cresa,5,10
+Vlad,BY,5,9/9/19,EnformCNS,5,10
+Vlad,BY,5,9/10/19,EnformCNS,5,10
+Vlad,BY,5,9/11/19,EnformCNS,5,10
+Vlad,BY,5,9/12/19,EnformCNS,5,10
+Vlad,BY,6,9/13/19,EnformCNS,5,10
+Vlad,BY,2,9/14/19,EnformCNS,5,10
+Vlad,BY,0,9/15/19,EnformCNS,5,10
+Vlad,BY,8,9/9/19,TBG,5,10
+Vlad,BY,8,9/10/19,TBG,5,10
+Vlad,BY,8,9/11/19,TBG,5,10
+Vlad,BY,8,9/12/19,TBG,5,10
+Vlad,BY,8,9/13/19,TBG,5,10
+Vlad,BY,0,9/14/19,TBG,5,10
+Vlad,BY,0,9/15/19,TBG,5,10
+Andrei,BY,4,9/9/19,Rejis,5,10
+Andrei,BY,4,9/10/19,Rejis,5,10
+Andrei,BY,4,9/11/19,Rejis,5,10
+Andrei,BY,4,9/12/19,Rejis,5,10
+Andrei,BY,4,9/13/19,Rejis,5,10
+Andrei,BY,0,9/14/19,Rejis,5,10
+Andrei,BY,0,9/15/19,Rejis,5,10
+Yuri Z,UA,5,9/9/19,CMG,5,10
+Yuri Z,UA,5,9/10/19,CMG,5,10
+Yuri Z,UA,5,9/11/19,CMG,5,10
+Yuri Z,UA,6,9/12/19,CMG,5,10
+Yuri Z,UA,0,9/13/19,CMG,5,10
+Yuri Z,UA,0,9/14/19,CMG,5,10
+Yuri Z,UA,0,9/15/19,CMG,5,10
+Roman,UA,4,9/9/19,Training,5,10
+Roman,UA,8,9/10/19,Training,5,10
+Roman,UA,0,9/11/19,Training,5,10
+Roman,UA,0,9/12/19,Training,5,10
+Roman,UA,0,9/13/19,Training,5,10
+Roman,UA,0,9/14/19,Training,5,10
+Roman,UA,0,9/15/19,Training,5,10
+Roman,UA,6,9/9/19,EnformCNS,5,10
+Roman,UA,6,9/10/19,EnformCNS,5,10
+Roman,UA,6,9/11/19,EnformCNS,5,10
+Roman,UA,6,9/12/19,EnformCNS,5,10
+Roman,UA,3,9/13/19,EnformCNS,5,10
+Roman,UA,0,9/14/19,EnformCNS,5,10
+Roman,UA,0,9/15/19,EnformCNS,5,10
+Anton O,UA,4,9/9/19,EnformCNS,5,10
+Anton O,UA,4,9/10/19,EnformCNS,5,10
+Anton O,UA,4,9/11/19,EnformCNS,5,10
+Anton O,UA,2,9/12/19,EnformCNS,5,10
+Anton O,UA,0,9/13/19,EnformCNS,5,10
+Anton O,UA,0,9/14/19,EnformCNS,5,10
+Anton O,UA,0,9/15/19,EnformCNS,5,10
+Anton,UA,8,9/9/19,Sales,5,10
+Anton,UA,8,9/10/19,Sales,5,10
+Anton,UA,8,9/11/19,Sales,5,10
+Anton,UA,8,9/12/19,Sales,5,10
+Anton,UA,8,9/13/19,Sales,5,10
+Anton,UA,0,9/14/19,Sales,5,10
+Anton,UA,0,9/15/19,Sales,5,10
+Tanya,BY,8,9/9/19,PM,5,10
+Tanya,BY,8,9/10/19,PM,5,10
+Tanya,BY,8,9/11/19,PM,5,10
+Tanya,BY,8,9/12/19,PM,5,10
+Tanya,BY,4,9/13/19,PM,5,10
+Tanya,BY,0,9/14/19,PM,5,10
+Tanya,BY,0,9/15/19,PM,5,10
+Profit,US,5,9/9/19,MyMax,5,10
+Profit,US,0,9/10/19,MyMax,5,10
+Profit,US,0,9/11/19,MyMax,5,10
+Profit,US,0,9/12/19,MyMax,5,10
+Profit,US,0,9/13/19,MyMax,5,10
+Profit,US,0,9/14/19,MyMax,5,10
+Profit,US,0,9/15/19,MyMax,5,10
+Profit,US,5,9/9/19,DMC,5,10
+Profit,US,0,9/10/19,DMC,5,10
+Profit,US,0,9/11/19,DMC,5,10
+Profit,US,0,9/12/19,DMC,5,10
+Profit,US,0,9/13/19,DMC,5,10
+Profit,US,0,9/14/19,DMC,5,10
+Profit,US,0,9/15/19,DMC,5,10
+Artem,BY,4,9/16/19,Cresa,5,10
+Artem,BY,4,9/17/19,Cresa,5,10
+Artem,BY,4,9/18/19,Cresa,5,10
+Artem,BY,4,9/19/19,Cresa,5,10
+Artem,BY,4,9/20/19,Cresa,5,10
+Artem,BY,0,9/21/19,Cresa,5,10
+Artem,BY,0,9/22/19,Cresa,5,10
+Alex V,BY,8,9/16/19,Enforme,5,10
+Alex V,BY,8,9/17/19,Enforme,5,10
+Alex V,BY,8,9/18/19,Enforme,5,10
+Alex V,BY,8,9/19/19,Enforme,5,10
+Alex V,BY,8,9/20/19,Enforme,5,10
+Alex V,BY,0,9/21/19,Enforme,5,10
+Alex V,BY,0,9/22/19,Enforme,5,10
+Artem,BY,4,9/16/19,CMG,5,10
+Artem,BY,4,9/17/19,CMG,5,10
+Artem,BY,4,9/18/19,CMG,5,10
+Artem,BY,4,9/19/19,CMG,5,10
+Artem,BY,4,9/20/19,CMG,5,10
+Artem,BY,0,9/21/19,CMG,5,10
+Artem,BY,0,9/22/19,CMG,5,10
+Ilya,BY,8,9/16/19,CMG,5,10
+Ilya,BY,8,9/17/19,CMG,5,10
+Ilya,BY,8,9/18/19,CMG,5,10
+Ilya,BY,8,9/19/19,CMG,5,10
+Ilya,BY,8,9/20/19,CMG,5,10
+Ilya,BY,0,9/21/19,CMG,5,10
+Ilya,BY,0,9/22/19,CMG,5,10
+Andrey Polyakov,BY,4,9/16/19,NYRR,5,10
+Andrey Polyakov,BY,4,9/17/19,NYRR,5,10
+Andrey Polyakov,BY,4,9/18/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/19/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/20/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/21/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/22/19,NYRR,5,10
+Vlad,BY,8,9/16/19,TBG,5,10
+Vlad,BY,8,9/17/19,TBG,5,10
+Vlad,BY,8,9/18/19,TBG,5,10
+Vlad,BY,8,9/19/19,TBG,5,10
+Vlad,BY,8,9/20/19,TBG,5,10
+Vlad,BY,0,9/21/19,TBG,5,10
+Vlad,BY,0,9/22/19,TBG,5,10
+Vlad,BY,4,9/16/19,EnformCNS,5,10
+Vlad,BY,0,9/17/19,EnformCNS,5,10
+Vlad,BY,0,9/18/19,EnformCNS,5,10
+Vlad,BY,0,9/19/19,EnformCNS,5,10
+Vlad,BY,0,9/20/19,EnformCNS,5,10
+Vlad,BY,0,9/21/19,EnformCNS,5,10
+Vlad,BY,0,9/22/19,EnformCNS,5,10
+Anton O,UA,0,9/16/19,Enforme,5,10
+Anton O,UA,0,9/17/19,Enforme,5,10
+Anton O,UA,0,9/18/19,Enforme,5,10
+Anton O,UA,0,9/19/19,Enforme,5,10
+Anton O,UA,0,9/20/19,Enforme,5,10
+Anton O,UA,0,9/21/19,Enforme,5,10
+Anton O,UA,0,9/22/19,Enforme,5,10
+Vitaliy P,UA,5,9/16/19,Enforme,5,10
+Vitaliy P,UA,5,9/17/19,Enforme,5,10
+Vitaliy P,UA,3,9/18/19,Enforme,5,10
+Vitaliy P,UA,0,9/19/19,Enforme,5,10
+Vitaliy P,UA,0,9/20/19,Enforme,5,10
+Vitaliy P,UA,0,9/21/19,Enforme,5,10
+Vitaliy P,UA,0,9/22/19,Enforme,5,10
+Yuri Z,UA,5,9/16/19,CMG,5,10
+Yuri Z,UA,5,9/17/19,CMG,5,10
+Yuri Z,UA,5,9/18/19,CMG,5,10
+Yuri Z,UA,2,9/19/19,CMG,5,10
+Yuri Z,UA,0,9/20/19,CMG,5,10
+Yuri Z,UA,0,9/21/19,CMG,5,10
+Yuri Z,UA,0,9/22/19,CMG,5,10
+Dmytro,UA,5,9/16/19,CMG,5,10
+Dmytro,UA,5,9/17/19,CMG,5,10
+Dmytro,UA,6,9/18/19,CMG,5,10
+Dmytro,UA,5,9/19/19,CMG,5,10
+Dmytro,UA,0,9/20/19,CMG,5,10
+Dmytro,UA,0,9/21/19,CMG,5,10
+Dmytro,UA,0,9/22/19,CMG,5,10
+Andrey P ,UA,8,9/16/19,TBG,5,10
+Andrey P ,UA,8,9/17/19,TBG,5,10
+Andrey P ,UA,9,9/18/19,TBG,5,10
+Andrey P ,UA,9,9/19/19,TBG,5,10
+Andrey P ,UA,9,9/20/19,TBG,5,10
+Andrey P ,UA,0,9/21/19,TBG,5,10
+Andrey P ,UA,0,9/22/19,TBG,5,10
+Brian,US,5,9/16/19,INTERNAL,5,10
+Brian,US,5,9/17/19,INTERNAL,5,10
+Brian,US,5,9/18/19,INTERNAL,5,10
+Brian,US,4,9/19/19,INTERNAL,5,10
+Brian,US,0,9/20/19,INTERNAL,5,10
+Brian,US,0,9/21/19,INTERNAL,5,10
+Brian,US,0,9/22/19,INTERNAL,5,10
+Eugene F,UA,8,9/16/19,INTERN,5,10
+Eugene F,UA,8,9/17/19,INTERN,5,10
+Eugene F,UA,8,9/18/19,INTERN,5,10
+Eugene F,UA,8,9/19/19,INTERN,5,10
+Eugene F,UA,8,9/20/19,INTERN,5,10
+Eugene F,UA,0,9/21/19,INTERN,5,10
+Eugene F,UA,0,9/22/19,INTERN,5,10
+Roman,UA,0,9/16/19,Training,5,10
+Roman,UA,0,9/17/19,Training,5,10
+Roman,UA,8,9/18/19,Training,5,10
+Roman,UA,0,9/19/19,Training,5,10
+Roman,UA,0,9/20/19,Training,5,10
+Roman,UA,0,9/21/19,Training,5,10
+Roman,UA,0,9/22/19,Training,5,10
+Anton O,UA,5,9/16/19,EnformCNS,5,10
+Anton O,UA,5,9/17/19,EnformCNS,5,10
+Anton O,UA,6,9/18/19,EnformCNS,5,10
+Anton O,UA,0,9/19/19,EnformCNS,5,10
+Anton O,UA,0,9/20/19,EnformCNS,5,10
+Anton O,UA,0,9/21/19,EnformCNS,5,10
+Anton O,UA,0,9/22/19,EnformCNS,5,10
+Roman,UA,8,9/16/19,MyMax,5,10
+Roman,UA,8,9/17/19,MyMax,5,10
+Roman,UA,0,9/18/19,MyMax,5,10
+Roman,UA,8,9/19/19,MyMax,5,10
+Roman,UA,8,9/20/19,MyMax,5,10
+Roman,UA,0,9/21/19,MyMax,5,10
+Roman,UA,0,9/22/19,MyMax,5,10
+Anton,UA,8,9/16/19,Sales,5,10
+Anton,UA,8,9/17/19,Sales,5,10
+Anton,UA,8,9/18/19,Sales,5,10
+Anton,UA,8,9/19/19,Sales,5,10
+Anton,UA,8,9/20/19,Sales,5,10
+Anton,UA,0,9/21/19,Sales,5,10
+Anton,UA,0,9/22/19,Sales,5,10
+Tanya,BY,8,9/16/19,PM,5,10
+Tanya,BY,8,9/17/19,PM,5,10
+Tanya,BY,8,9/18/19,PM,5,10
+Tanya,BY,8,9/19/19,PM,5,10
+Tanya,BY,4,9/20/19,PM,5,10
+Tanya,BY,0,9/21/19,PM,5,10
+Tanya,BY,0,9/22/19,PM,5,10
+Artem,BY,4,9/23/19,Cresa,5,10
+Artem,BY,4,9/24/19,Cresa,5,10
+Artem,BY,4,9/25/19,Cresa,5,10
+Artem,BY,4,9/26/19,Cresa,5,10
+Artem,BY,4,9/27/19,Cresa,5,10
+Artem,BY,0,9/28/19,Cresa,5,10
+Artem,BY,0,9/29/19,Cresa,5,10
+Alex V,BY,8,9/23/19,Enforme,5,10
+Alex V,BY,8,9/24/19,Enforme,5,10
+Alex V,BY,8,9/25/19,Enforme,5,10
+Alex V,BY,8,9/26/19,Enforme,5,10
+Alex V,BY,8,9/27/19,Enforme,5,10
+Alex V,BY,0,9/28/19,Enforme,5,10
+Alex V,BY,0,9/29/19,Enforme,5,10
+Artem,BY,4,9/23/19,CMG,5,10
+Artem,BY,4,9/24/19,CMG,5,10
+Artem,BY,4,9/25/19,CMG,5,10
+Artem,BY,4,9/26/19,CMG,5,10
+Artem,BY,4,9/27/19,CMG,5,10
+Artem,BY,0,9/28/19,CMG,5,10
+Artem,BY,0,9/29/19,CMG,5,10
+Ilya,BY,8,9/23/19,CMG,5,10
+Ilya,BY,8,9/24/19,CMG,5,10
+Ilya,BY,8,9/25/19,CMG,5,10
+Ilya,BY,8,9/26/19,CMG,5,10
+Ilya,BY,8,9/27/19,CMG,5,10
+Ilya,BY,0,9/28/19,CMG,5,10
+Ilya,BY,0,9/29/19,CMG,5,10
+Andrey Polyakov,BY,5,9/23/19,NYRR,5,10
+Andrey Polyakov,BY,5,9/24/19,NYRR,5,10
+Andrey Polyakov,BY,5,9/25/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/26/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/27/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/28/19,NYRR,5,10
+Andrey Polyakov,BY,0,9/29/19,NYRR,5,10
+Vlad,BY,8,9/23/19,TBG,5,10
+Vlad,BY,8,9/24/19,TBG,5,10
+Vlad,BY,8,9/25/19,TBG,5,10
+Vlad,BY,4,9/26/19,TBG,5,10
+Vlad,BY,0,9/27/19,TBG,5,10
+Vlad,BY,0,9/28/19,TBG,5,10
+Vlad,BY,0,9/29/19,TBG,5,10
+Anton O,UA,3,9/23/19,Enforme,5,10
+Anton O,UA,3,9/24/19,Enforme,5,10
+Anton O,UA,7,9/25/19,Enforme,5,10
+Anton O,UA,0,9/26/19,Enforme,5,10
+Anton O,UA,0,9/27/19,Enforme,5,10
+Anton O,UA,0,9/28/19,Enforme,5,10
+Anton O,UA,0,9/29/19,Enforme,5,10
+Vitaliy P,UA,8,9/23/19,Enforme,5,10
+Vitaliy P,UA,8,9/24/19,Enforme,5,10
+Vitaliy P,UA,8,9/25/19,Enforme,5,10
+Vitaliy P,UA,1,9/26/19,Enforme,5,10
+Vitaliy P,UA,0,9/27/19,Enforme,5,10
+Vitaliy P,UA,0,9/28/19,Enforme,5,10
+Vitaliy P,UA,0,9/29/19,Enforme,5,10
+Yuri Z,UA,4,9/23/19,CMG,5,10
+Yuri Z,UA,3,9/24/19,CMG,5,10
+Yuri Z,UA,0,9/25/19,CMG,5,10
+Yuri Z,UA,0,9/26/19,CMG,5,10
+Yuri Z,UA,0,9/27/19,CMG,5,10
+Yuri Z,UA,0,9/28/19,CMG,5,10
+Yuri Z,UA,0,9/29/19,CMG,5,10
+Dmytro,UA,4,9/23/19,CMG,5,10
+Dmytro,UA,4,9/24/19,CMG,5,10
+Dmytro,UA,4,9/25/19,CMG,5,10
+Dmytro,UA,4,9/26/19,CMG,5,10
+Dmytro,UA,3,9/27/19,CMG,5,10
+Dmytro,UA,0,9/28/19,CMG,5,10
+Dmytro,UA,0,9/29/19,CMG,5,10
+Andrey P ,UA,8,9/23/19,TBG,5,10
+Andrey P ,UA,8,9/24/19,TBG,5,10
+Andrey P ,UA,8,9/25/19,TBG,5,10
+Andrey P ,UA,8,9/26/19,TBG,5,10
+Andrey P ,UA,8,9/27/19,TBG,5,10
+Andrey P ,UA,0,9/28/19,TBG,5,10
+Andrey P ,UA,0,9/29/19,TBG,5,10
+Brian,US,4,9/23/19,INTERNAL,5,10
+Brian,US,0,9/24/19,INTERNAL,5,10
+Brian,US,0,9/25/19,INTERNAL,5,10
+Brian,US,0,9/26/19,INTERNAL,5,10
+Brian,US,0,9/27/19,INTERNAL,5,10
+Brian,US,0,9/28/19,INTERNAL,5,10
+Brian,US,0,9/29/19,INTERNAL,5,10
+Anton O,UA,3,9/23/19,EnformCNS,5,10
+Anton O,UA,3,9/24/19,EnformCNS,5,10
+Anton O,UA,0,9/25/19,EnformCNS,5,10
+Anton O,UA,0,9/26/19,EnformCNS,5,10
+Anton O,UA,0,9/27/19,EnformCNS,5,10
+Anton O,UA,0,9/28/19,EnformCNS,5,10
+Anton O,UA,0,9/29/19,EnformCNS,5,10
+Anton,UA,8,9/23/19,Sales,5,10
+Anton,UA,8,9/24/19,Sales,5,10
+Anton,UA,8,9/25/19,Sales,5,10
+Anton,UA,8,9/26/19,Sales,5,10
+Anton,UA,8,9/27/19,Sales,5,10
+Anton,UA,0,9/28/19,Sales,5,10
+Anton,UA,0,9/29/19,Sales,5,10
+Tanya,BY,8,9/23/19,PM,5,10
+Tanya,BY,8,9/24/19,PM,5,10
+Tanya,BY,8,9/25/19,PM,5,10
+Tanya,BY,8,9/26/19,PM,5,10
+Tanya,BY,4,9/27/19,PM,5,10
+Tanya,BY,0,9/28/19,PM,5,10
+Tanya,BY,0,9/29/19,PM,5,10
+Eugene F,UA,8,9/23/19,INTERN,5,10
+Eugene F,UA,8,9/24/19,INTERN,5,10
+Eugene F,UA,8,9/25/19,INTERN,5,10
+Eugene F,UA,8,9/26/19,INTERN,5,10
+Eugene F,UA,8,9/27/19,INTERN,5,10
+Eugene F,UA,0,9/28/19,INTERN,5,10
+Eugene F,UA,0,9/29/19,INTERN,5,10
+Profit,US,5,9/23/19,Enforme,5,10
+Profit,US,0,9/24/19,Enforme,5,10
+Profit,US,0,9/25/19,Enforme,5,10
+Profit,US,0,9/26/19,Enforme,5,10
+Profit,US,0,9/27/19,Enforme,5,10
+Profit,US,0,9/28/19,Enforme,5,10
+Profit,US,0,9/29/19,Enforme,5,10
+Dmytro,UA,4,9/23/19,CMG,5,10
+Dmytro,UA,4,9/24/19,CMG,5,10
+Dmytro,UA,4,9/25/19,CMG,5,10
+Dmytro,UA,4,9/26/19,CMG,5,10
+Dmytro,UA,7,9/27/19,CMG,5,10
+Dmytro,UA,0,9/28/19,CMG,5,10
+Dmytro,UA,0,9/29/19,CMG,5,10
+Yuri Z,UA,2,9/23/19,CMG,5,10
+Yuri Z,UA,0,9/24/19,CMG,5,10
+Yuri Z,UA,0,9/25/19,CMG,5,10
+Yuri Z,UA,0,9/26/19,CMG,5,10
+Yuri Z,UA,0,9/27/19,CMG,5,10
+Yuri Z,UA,0,9/28/19,CMG,5,10
+Yuri Z,UA,0,9/29/19,CMG,5,10
+Andrey P ,UA,4,9/23/19,TBG,5,10
+Andrey P ,UA,4,9/24/19,TBG,5,10
+Andrey P ,UA,0,9/25/19,TBG,5,10
+Andrey P ,UA,0,9/26/19,TBG,5,10
+Andrey P ,UA,0,9/27/19,TBG,5,10
+Andrey P ,UA,0,9/28/19,TBG,5,10
+Andrey P ,UA,0,9/29/19,TBG,5,10
+Vitaliy P,UA,8,9/23/19,Enforme,5,10
+Vitaliy P,UA,8,9/24/19,Enforme,5,10
+Vitaliy P,UA,8,9/25/19,Enforme,5,10
+Vitaliy P,UA,8,9/26/19,Enforme,5,10
+Vitaliy P,UA,8,9/27/19,Enforme,5,10
+Vitaliy P,UA,0,9/28/19,Enforme,5,10
+Vitaliy P,UA,0,9/29/19,Enforme,5,10
+Roman,UA,5,9/23/19,Cresa,5,10
+Roman,UA,5,9/24/19,Cresa,5,10
+Roman,UA,5,9/25/19,Cresa,5,10
+Roman,UA,5,9/26/19,Cresa,5,10
+Roman,UA,8,9/27/19,Cresa,5,10
+Roman,UA,0,9/28/19,Cresa,5,10
+Roman,UA,0,9/29/19,Cresa,5,10
+Roman,UA,5,9/23/19,MyMax,5,10
+Roman,UA,5,9/24/19,MyMax,5,10
+Roman,UA,5,9/25/19,MyMax,5,10
+Roman,UA,0,9/26/19,MyMax,5,10
+Roman,UA,0,9/27/19,MyMax,5,10
+Roman,UA,0,9/28/19,MyMax,5,10
+Roman,UA,0,9/29/19,MyMax,5,10
+Vlad,BY,8,9/23/19,EnformCNS,5,10
+Vlad,BY,0,9/24/19,EnformCNS,5,10
+Vlad,BY,0,9/25/19,EnformCNS,5,10
+Vlad,BY,0,9/26/19,EnformCNS,5,10
+Vlad,BY,0,9/27/19,EnformCNS,5,10
+Vlad,BY,0,9/28/19,EnformCNS,5,10
+Vlad,BY,0,9/29/19,EnformCNS,5,10
+Adjustment,US,-8,9/23/19,Cresa,5,10
+Adjustment,US,-8,9/24/19,Cresa,5,10
+Adjustment,US,-8,9/25/19,Cresa,5,10
+Adjustment,US,-8,9/26/19,Cresa,5,10
+Adjustment,US,-8,9/27/19,Cresa,5,10
+Adjustment,US,-4,9/28/19,Cresa,5,10
+Adjustment,US,0,9/29/19,Cresa,5,10
+Adjustment,US,0,9/30/19,Cresa,5,10
+Adjustment,US,0,11/11/19,Cresa,5,10
+Adjustment,US,0,11/12/19,Cresa,5,10
+Adjustment,US,0,11/13/19,Cresa,5,10
+Adjustment,US,0,11/14/19,Cresa,5,10
+Adjustment,US,0,11/15/19,Cresa,5,10
+Adjustment,US,0,11/16/19,Cresa,5,10
+Artem,BY,4,9/30/19,CMG,5,10
+Artem,BY,4,10/1/19,CMG,5,10
+Artem,BY,4,10/2/19,CMG,5,10
+Artem,BY,4,10/3/19,CMG,5,10
+Artem,BY,4,10/4/19,CMG,5,10
+Artem,BY,0,10/5/19,CMG,5,10
+Artem,BY,0,10/6/19,CMG,5,10
+Ilya,BY,8,9/30/19,CMG,5,10
+Ilya,BY,8,10/1/19,CMG,5,10
+Ilya,BY,8,10/2/19,CMG,5,10
+Ilya,BY,8,10/3/19,CMG,5,10
+Ilya,BY,8,10/4/19,CMG,5,10
+Ilya,BY,0,10/5/19,CMG,5,10
+Ilya,BY,0,10/6/19,CMG,5,10
+Artem,BY,4,9/30/19,Cresa,5,10
+Artem,BY,4,10/1/19,Cresa,5,10
+Artem,BY,4,10/2/19,Cresa,5,10
+Artem,BY,4,10/3/19,Cresa,5,10
+Artem,BY,4,10/4/19,Cresa,5,10
+Artem,BY,0,10/5/19,Cresa,5,10
+Artem,BY,0,10/6/19,Cresa,5,10
+Alex V,BY,8,9/30/19,Enforme,5,10
+Alex V,BY,8,10/1/19,Enforme,5,10
+Alex V,BY,8,10/2/19,Enforme,5,10
+Alex V,BY,8,10/3/19,Enforme,5,10
+Alex V,BY,8,10/4/19,Enforme,5,10
+Alex V,BY,0,10/5/19,Enforme,5,10
+Alex V,BY,0,10/6/19,Enforme,5,10
+Eugene T,BY,0,9/30/19,EnformCNS,5,10
+Eugene T,BY,0,10/1/19,EnformCNS,5,10
+Eugene T,BY,4,10/2/19,EnformCNS,5,10
+Eugene T,BY,0,10/3/19,EnformCNS,5,10
+Eugene T,BY,0,10/4/19,EnformCNS,5,10
+Eugene T,BY,0,10/5/19,EnformCNS,5,10
+Eugene T,BY,0,10/6/19,EnformCNS,5,10
+Vlad,BY,0,9/30/19,EnformCNS,5,10
+Vlad,BY,4,10/1/19,EnformCNS,5,10
+Vlad,BY,0,10/2/19,EnformCNS,5,10
+Vlad,BY,0,10/3/19,EnformCNS,5,10
+Vlad,BY,0,10/4/19,EnformCNS,5,10
+Vlad,BY,0,10/5/19,EnformCNS,5,10
+Vlad,BY,0,10/6/19,EnformCNS,5,10
+Vlad,BY,8,9/30/19,TBG,5,10
+Vlad,BY,8,10/1/19,TBG,5,10
+Vlad,BY,8,10/2/19,TBG,5,10
+Vlad,BY,8,10/3/19,TBG,5,10
+Vlad,BY,8,10/4/19,TBG,5,10
+Vlad,BY,0,10/5/19,TBG,5,10
+Vlad,BY,0,10/6/19,TBG,5,10
+Andrey Polyakov,BY,0,9/30/19,NYRR,5,10
+Andrey Polyakov,BY,3,10/1/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/2/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/3/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/4/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/5/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/6/19,NYRR,5,10
+Dmytro,UA,0,9/30/19,CMG,5,10
+Dmytro,UA,6,10/1/19,CMG,5,10
+Dmytro,UA,0,10/2/19,CMG,5,10
+Dmytro,UA,0,10/3/19,CMG,5,10
+Dmytro,UA,0,10/4/19,CMG,5,10
+Dmytro,UA,0,10/5/19,CMG,5,10
+Dmytro,UA,0,10/6/19,CMG,5,10
+Yuri Z,UA,0,9/30/19,CMG,5,10
+Yuri Z,UA,6,10/1/19,CMG,5,10
+Yuri Z,UA,7,10/2/19,CMG,5,10
+Yuri Z,UA,0,10/3/19,CMG,5,10
+Yuri Z,UA,0,10/4/19,CMG,5,10
+Yuri Z,UA,0,10/5/19,CMG,5,10
+Yuri Z,UA,0,10/6/19,CMG,5,10
+Anton O,UA,0,9/30/19,EnformCNS,5,10
+Anton O,UA,6,10/1/19,EnformCNS,5,10
+Anton O,UA,6,10/2/19,EnformCNS,5,10
+Anton O,UA,2,10/3/19,EnformCNS,5,10
+Anton O,UA,0,10/4/19,EnformCNS,5,10
+Anton O,UA,0,10/5/19,EnformCNS,5,10
+Anton O,UA,0,10/6/19,EnformCNS,5,10
+Andrey P ,UA,8,9/30/19,TBG,5,10
+Andrey P ,UA,8,10/1/19,TBG,5,10
+Andrey P ,UA,8,10/2/19,TBG,5,10
+Andrey P ,UA,8,10/3/19,TBG,5,10
+Andrey P ,UA,8,10/4/19,TBG,5,10
+Andrey P ,UA,0,10/5/19,TBG,5,10
+Andrey P ,UA,0,10/6/19,TBG,5,10
+Roman,UA,8,9/30/19,MyMax,5,10
+Roman,UA,8,10/1/19,MyMax,5,10
+Roman,UA,8,10/2/19,MyMax,5,10
+Roman,UA,8,10/3/19,MyMax,5,10
+Roman,UA,8,10/4/19,MyMax,5,10
+Roman,UA,0,10/5/19,MyMax,5,10
+Roman,UA,0,10/6/19,MyMax,5,10
+Alex HSL,UA,8,9/30/19,Cylogy,5,10
+Alex HSL,UA,8,10/1/19,Cylogy,5,10
+Alex HSL,UA,8,10/2/19,Cylogy,5,10
+Alex HSL,UA,8,10/3/19,Cylogy,5,10
+Alex HSL,UA,8,10/4/19,Cylogy,5,10
+Alex HSL,UA,0,10/5/19,Cylogy,5,10
+Alex HSL,UA,0,10/6/19,Cylogy,5,10
+Vitaliy P,UA,0,9/30/19,Enforme,5,10
+Vitaliy P,UA,7,10/1/19,Enforme,5,10
+Vitaliy P,UA,7,10/2/19,Enforme,5,10
+Vitaliy P,UA,1,10/3/19,Enforme,5,10
+Vitaliy P,UA,0,10/4/19,Enforme,5,10
+Vitaliy P,UA,0,10/5/19,Enforme,5,10
+Vitaliy P,UA,0,10/6/19,Enforme,5,10
+Anton O,UA,0,9/30/19,Enforme,5,10
+Anton O,UA,6,10/1/19,Enforme,5,10
+Anton O,UA,0,10/2/19,Enforme,5,10
+Anton O,UA,0,10/3/19,Enforme,5,10
+Anton O,UA,0,10/4/19,Enforme,5,10
+Anton O,UA,0,10/5/19,Enforme,5,10
+Anton O,UA,0,10/6/19,Enforme,5,10
+Brian,US,0,9/30/19,INTERNAL,5,10
+Brian,US,5,10/1/19,INTERNAL,5,10
+Brian,US,5,10/2/19,INTERNAL,5,10
+Brian,US,5,10/3/19,INTERNAL,5,10
+Brian,US,5,10/4/19,INTERNAL,5,10
+Brian,US,0,10/5/19,INTERNAL,5,10
+Brian,US,0,10/6/19,INTERNAL,5,10
+Anton,UA,0,9/30/19,Sales,5,10
+Anton,UA,10,10/1/19,Sales,5,10
+Anton,UA,10,10/2/19,Sales,5,10
+Anton,UA,10,10/3/19,Sales,5,10
+Anton,UA,10,10/4/19,Sales,5,10
+Anton,UA,0,10/5/19,Sales,5,10
+Anton,UA,0,10/6/19,Sales,5,10
+Alex V,BY,0,10/7/19,Enforme,5,10
+Alex V,BY,8,10/8/19,Enforme,5,10
+Alex V,BY,8,10/9/19,Enforme,5,10
+Alex V,BY,8,10/10/19,Enforme,5,10
+Alex V,BY,8,10/11/19,Enforme,5,10
+Alex V,BY,0,10/12/19,Enforme,5,10
+Alex V,BY,0,10/13/19,Enforme,5,10
+Ilya,BY,8,10/7/19,CMG,5,10
+Ilya,BY,8,10/8/19,CMG,5,10
+Ilya,BY,8,10/9/19,CMG,5,10
+Ilya,BY,8,10/10/19,CMG,5,10
+Ilya,BY,8,10/11/19,CMG,5,10
+Ilya,BY,0,10/12/19,CMG,5,10
+Ilya,BY,0,10/13/19,CMG,5,10
+Andrey Polyakov,BY,5,10/7/19,NYRR,5,10
+Andrey Polyakov,BY,5,10/8/19,NYRR,5,10
+Andrey Polyakov,BY,5,10/9/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/10/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/11/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/12/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/13/19,NYRR,5,10
+Vlad,BY,8,10/7/19,TBG,5,10
+Vlad,BY,8,10/8/19,TBG,5,10
+Vlad,BY,8,10/9/19,TBG,5,10
+Vlad,BY,8,10/10/19,TBG,5,10
+Vlad,BY,8,10/11/19,TBG,5,10
+Vlad,BY,0,10/12/19,TBG,5,10
+Vlad,BY,0,10/13/19,TBG,5,10
+Andrey P ,UA,8,10/7/19,TBG,5,10
+Andrey P ,UA,8,10/8/19,TBG,5,10
+Andrey P ,UA,8,10/9/19,TBG,5,10
+Andrey P ,UA,8,10/10/19,TBG,5,10
+Andrey P ,UA,8,10/11/19,TBG,5,10
+Andrey P ,UA,0,10/12/19,TBG,5,10
+Andrey P ,UA,0,10/13/19,TBG,5,10
+Alex HSL,UA,8,10/7/19,Cylogy,5,10
+Alex HSL,UA,8,10/8/19,Cylogy,5,10
+Alex HSL,UA,8,10/9/19,Cylogy,5,10
+Alex HSL,UA,8,10/10/19,Cylogy,5,10
+Alex HSL,UA,8,10/11/19,Cylogy,5,10
+Alex HSL,UA,0,10/12/19,Cylogy,5,10
+Alex HSL,UA,0,10/13/19,Cylogy,5,10
+Roman,UA,0,10/7/19,MyMax,5,10
+Roman,UA,8,10/8/19,MyMax,5,10
+Roman,UA,8,10/9/19,MyMax,5,10
+Roman,UA,8,10/10/19,MyMax,5,10
+Roman,UA,8,10/11/19,MyMax,5,10
+Roman,UA,0,10/12/19,MyMax,5,10
+Roman,UA,0,10/13/19,MyMax,5,10
+Yuri Z,UA,4,10/7/19,CMG,5,10
+Yuri Z,UA,4,10/8/19,CMG,5,10
+Yuri Z,UA,2,10/9/19,CMG,5,10
+Yuri Z,UA,0,10/10/19,CMG,5,10
+Yuri Z,UA,0,10/11/19,CMG,5,10
+Yuri Z,UA,0,10/12/19,CMG,5,10
+Yuri Z,UA,0,10/13/19,CMG,5,10
+Anton O,UA,5,10/7/19,EnformCNS,5,10
+Anton O,UA,5,10/8/19,EnformCNS,5,10
+Anton O,UA,0,10/9/19,EnformCNS,5,10
+Anton O,UA,0,10/10/19,EnformCNS,5,10
+Anton O,UA,0,10/11/19,EnformCNS,5,10
+Anton O,UA,0,10/12/19,EnformCNS,5,10
+Anton O,UA,0,10/13/19,EnformCNS,5,10
+Profit,US,5,10/7/19,Cresa,5,10
+Profit,US,5,10/8/19,Cresa,5,10
+Profit,US,0,10/9/19,Cresa,5,10
+Profit,US,0,10/10/19,Cresa,5,10
+Profit,US,0,10/11/19,Cresa,5,10
+Profit,US,0,10/12/19,Cresa,5,10
+Profit,US,0,10/13/19,Cresa,5,10
+Anton,UA,8,10/7/19,Sales,5,10
+Anton,UA,8,10/8/19,Sales,5,10
+Anton,UA,8,10/9/19,Sales,5,10
+Anton,UA,8,10/10/19,Sales,5,10
+Anton,UA,8,10/11/19,Sales,5,10
+Anton,UA,0,10/12/19,Sales,5,10
+Anton,UA,0,10/13/19,Sales,5,10
+Dmytro,UA,4,10/7/19,CMG,5,10
+Dmytro,UA,4,10/8/19,CMG,5,10
+Dmytro,UA,4,10/9/19,CMG,5,10
+Dmytro,UA,4,10/10/19,CMG,5,10
+Dmytro,UA,4,10/11/19,CMG,5,10
+Dmytro,UA,0,10/12/19,CMG,5,10
+Dmytro,UA,0,10/13/19,CMG,5,10
+Ilya,BY,8,10/14/19,CMG,5,10
+Ilya,BY,8,10/15/19,CMG,5,10
+Ilya,BY,8,10/16/19,CMG,5,10
+Ilya,BY,8,10/17/19,CMG,5,10
+Ilya,BY,8,10/18/19,CMG,5,10
+Ilya,BY,0,10/19/19,CMG,5,10
+Ilya,BY,0,10/20/19,CMG,5,10
+Andrey Polyakov,BY,5,10/14/19,NYRR,5,10
+Andrey Polyakov,BY,5,10/15/19,NYRR,5,10
+Andrey Polyakov,BY,5,10/16/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/17/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/18/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/19/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/20/19,NYRR,5,10
+Alex V,BY,5,10/14/19,Enforme,5,10
+Alex V,BY,5,10/15/19,Enforme,5,10
+Alex V,BY,5,10/16/19,Enforme,5,10
+Alex V,BY,2,10/17/19,Enforme,5,10
+Alex V,BY,0,10/18/19,Enforme,5,10
+Alex V,BY,0,10/19/19,Enforme,5,10
+Alex V,BY,0,10/20/19,Enforme,5,10
+Profit,US,4,10/14/19,Enforme,5,10
+Profit,US,0,10/15/19,Enforme,5,10
+Profit,US,0,10/16/19,Enforme,5,10
+Profit,US,0,10/17/19,Enforme,5,10
+Profit,US,0,10/18/19,Enforme,5,10
+Profit,US,0,10/19/19,Enforme,5,10
+Profit,US,0,10/20/19,Enforme,5,10
+Alex V,BY,5,10/14/19,DMC,5,10
+Alex V,BY,5,10/15/19,DMC,5,10
+Alex V,BY,5,10/16/19,DMC,5,10
+Alex V,BY,5,10/17/19,DMC,5,10
+Alex V,BY,3,10/18/19,DMC,5,10
+Alex V,BY,0,10/19/19,DMC,5,10
+Alex V,BY,0,10/20/19,DMC,5,10
+Profit,US,5,10/14/19,DMC,5,10
+Profit,US,0,10/15/19,DMC,5,10
+Profit,US,0,10/16/19,DMC,5,10
+Profit,US,0,10/17/19,DMC,5,10
+Profit,US,0,10/18/19,DMC,5,10
+Profit,US,0,10/19/19,DMC,5,10
+Profit,US,0,10/20/19,DMC,5,10
+Vlad,BY,8,10/14/19,TBG,5,10
+Vlad,BY,8,10/15/19,TBG,5,10
+Vlad,BY,8,10/16/19,TBG,5,10
+Vlad,BY,8,10/17/19,TBG,5,10
+Vlad,BY,8,10/18/19,TBG,5,10
+Vlad,BY,0,10/19/19,TBG,5,10
+Vlad,BY,0,10/20/19,TBG,5,10
+Alex HSL,UA,8,10/14/19,Cylogy,5,10
+Alex HSL,UA,8,10/15/19,Cylogy,5,10
+Alex HSL,UA,8,10/16/19,Cylogy,5,10
+Alex HSL,UA,8,10/17/19,Cylogy,5,10
+Alex HSL,UA,0,10/18/19,Cylogy,5,10
+Alex HSL,UA,0,10/19/19,Cylogy,5,10
+Alex HSL,UA,0,10/20/19,Cylogy,5,10
+Andrey P ,UA,8,10/14/19,TBG,5,10
+Andrey P ,UA,8,10/15/19,TBG,5,10
+Andrey P ,UA,8,10/16/19,TBG,5,10
+Andrey P ,UA,8,10/17/19,TBG,5,10
+Andrey P ,UA,0,10/18/19,TBG,5,10
+Andrey P ,UA,0,10/19/19,TBG,5,10
+Andrey P ,UA,0,10/20/19,TBG,5,10
+Yuri Z,UA,5,10/14/19,CMG,5,10
+Yuri Z,UA,5,10/15/19,CMG,5,10
+Yuri Z,UA,4,10/16/19,CMG,5,10
+Yuri Z,UA,0,10/17/19,CMG,5,10
+Yuri Z,UA,0,10/18/19,CMG,5,10
+Yuri Z,UA,0,10/19/19,CMG,5,10
+Yuri Z,UA,0,10/20/19,CMG,5,10
+Dmytro,UA,5,10/14/19,CMG,5,10
+Dmytro,UA,5,10/15/19,CMG,5,10
+Dmytro,UA,6,10/16/19,CMG,5,10
+Dmytro,UA,0,10/17/19,CMG,5,10
+Dmytro,UA,0,10/18/19,CMG,5,10
+Dmytro,UA,0,10/19/19,CMG,5,10
+Dmytro,UA,0,10/20/19,CMG,5,10
+Vitaliy P,UA,2,10/14/19,Enforme,5,10
+Vitaliy P,UA,2,10/15/19,Enforme,5,10
+Vitaliy P,UA,0,10/16/19,Enforme,5,10
+Vitaliy P,UA,0,10/17/19,Enforme,5,10
+Vitaliy P,UA,0,10/18/19,Enforme,5,10
+Vitaliy P,UA,0,10/19/19,Enforme,5,10
+Vitaliy P,UA,0,10/20/19,Enforme,5,10
+Roman,UA,5,10/14/19,MyMax,5,10
+Roman,UA,6,10/15/19,MyMax,5,10
+Roman,UA,1,10/16/19,MyMax,5,10
+Roman,UA,0,10/17/19,MyMax,5,10
+Roman,UA,0,10/18/19,MyMax,5,10
+Roman,UA,0,10/19/19,MyMax,5,10
+Roman,UA,0,10/20/19,MyMax,5,10
+Roman,UA,8,10/14/19,Cresa,5,10
+Roman,UA,8,10/15/19,Cresa,5,10
+Roman,UA,8,10/16/19,Cresa,5,10
+Roman,UA,9,10/17/19,Cresa,5,10
+Roman,UA,0,10/18/19,Cresa,5,10
+Roman,UA,0,10/19/19,Cresa,5,10
+Roman,UA,0,10/20/19,Cresa,5,10
+Anton,UA,8,10/14/19,Sales,5,10
+Anton,UA,8,10/15/19,Sales,5,10
+Anton,UA,8,10/16/19,Sales,5,10
+Anton,UA,8,10/17/19,Sales,5,10
+Anton,UA,8,10/18/19,Sales,5,10
+Anton,UA,0,10/19/19,Sales,5,10
+Anton,UA,0,10/20/19,Sales,5,10
+Tanya,BY,5,10/14/19,PM,5,10
+Tanya,BY,5,10/15/19,PM,5,10
+Tanya,BY,5,10/16/19,PM,5,10
+Tanya,BY,5,10/17/19,PM,5,10
+Tanya,BY,0,10/18/19,PM,5,10
+Tanya,BY,0,10/19/19,PM,5,10
+Tanya,BY,0,10/20/19,PM,5,10
+Ilya,BY,8,10/21/19,CMG,5,10
+Ilya,BY,8,10/22/19,CMG,5,10
+Ilya,BY,8,10/23/19,CMG,5,10
+Ilya,BY,8,10/24/19,CMG,5,10
+Ilya,BY,8,10/25/19,CMG,5,10
+Ilya,BY,0,10/26/19,CMG,5,10
+Ilya,BY,0,10/27/19,CMG,5,10
+Andrey Polyakov,BY,5,10/21/19,NYRR,5,10
+Andrey Polyakov,BY,5,10/22/19,NYRR,5,10
+Andrey Polyakov,BY,5,10/23/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/24/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/25/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/26/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/27/19,NYRR,5,10
+Alex V,BY,5,10/21/19,Enforme,5,10
+Alex V,BY,5,10/22/19,Enforme,5,10
+Alex V,BY,5,10/23/19,Enforme,5,10
+Alex V,BY,5,10/24/19,Enforme,5,10
+Alex V,BY,1,10/25/19,Enforme,5,10
+Alex V,BY,0,10/26/19,Enforme,5,10
+Alex V,BY,0,10/27/19,Enforme,5,10
+Alex V,BY,5,10/21/19,DMC,5,10
+Alex V,BY,5,10/22/19,DMC,5,10
+Alex V,BY,5,10/23/19,DMC,5,10
+Alex V,BY,4,10/24/19,DMC,5,10
+Alex V,BY,0,10/25/19,DMC,5,10
+Alex V,BY,0,10/26/19,DMC,5,10
+Alex V,BY,0,10/27/19,DMC,5,10
+Vlad,BY,8,10/21/19,TBG,5,10
+Vlad,BY,8,10/22/19,TBG,5,10
+Vlad,BY,8,10/23/19,TBG,5,10
+Vlad,BY,8,10/24/19,TBG,5,10
+Vlad,BY,0,10/25/19,TBG,5,10
+Vlad,BY,0,10/26/19,TBG,5,10
+Vlad,BY,0,10/27/19,TBG,5,10
+Yuri Z,UA,5,10/21/19,CMG,5,10
+Yuri Z,UA,5,10/22/19,CMG,5,10
+Yuri Z,UA,5,10/23/19,CMG,5,10
+Yuri Z,UA,0,10/24/19,CMG,5,10
+Yuri Z,UA,0,10/25/19,CMG,5,10
+Yuri Z,UA,0,10/26/19,CMG,5,10
+Yuri Z,UA,0,10/27/19,CMG,5,10
+Dmytro,UA,5,10/21/19,CMG,5,10
+Dmytro,UA,5,10/22/19,CMG,5,10
+Dmytro,UA,4,10/23/19,CMG,5,10
+Dmytro,UA,0,10/24/19,CMG,5,10
+Dmytro,UA,0,10/25/19,CMG,5,10
+Dmytro,UA,0,10/26/19,CMG,5,10
+Dmytro,UA,0,10/27/19,CMG,5,10
+Alex HSL,UA,8,10/21/19,Cylogy,5,10
+Alex HSL,UA,8,10/22/19,Cylogy,5,10
+Alex HSL,UA,8,10/23/19,Cylogy,5,10
+Alex HSL,UA,8,10/24/19,Cylogy,5,10
+Alex HSL,UA,8,10/25/19,Cylogy,5,10
+Alex HSL,UA,0,10/26/19,Cylogy,5,10
+Alex HSL,UA,0,10/27/19,Cylogy,5,10
+Andrey P ,UA,8,10/21/19,TBG,5,10
+Andrey P ,UA,8,10/22/19,TBG,5,10
+Andrey P ,UA,8,10/23/19,TBG,5,10
+Andrey P ,UA,8,10/24/19,TBG,5,10
+Andrey P ,UA,8,10/25/19,TBG,5,10
+Andrey P ,UA,0,10/26/19,TBG,5,10
+Andrey P ,UA,0,10/27/19,TBG,5,10
+Roman,UA,8,10/21/19,Cresa,5,10
+Roman,UA,8,10/22/19,Cresa,5,10
+Roman,UA,8,10/23/19,Cresa,5,10
+Roman,UA,6,10/24/19,Cresa,5,10
+Roman,UA,0,10/25/19,Cresa,5,10
+Roman,UA,0,10/26/19,Cresa,5,10
+Roman,UA,0,10/27/19,Cresa,5,10
+Roman,UA,5,10/21/19,MyMax,5,10
+Roman,UA,5,10/22/19,MyMax,5,10
+Roman,UA,3,10/23/19,MyMax,5,10
+Roman,UA,0,10/24/19,MyMax,5,10
+Roman,UA,0,10/25/19,MyMax,5,10
+Roman,UA,0,10/26/19,MyMax,5,10
+Roman,UA,0,10/27/19,MyMax,5,10
+Anton,UA,8,10/21/19,Sales,5,10
+Anton,UA,8,10/22/19,Sales,5,10
+Anton,UA,8,10/23/19,Sales,5,10
+Anton,UA,8,10/24/19,Sales,5,10
+Anton,UA,8,10/25/19,Sales,5,10
+Anton,UA,0,10/26/19,Sales,5,10
+Anton,UA,0,10/27/19,Sales,5,10
+Tanya,BY,5,10/21/19,PM,5,10
+Tanya,BY,5,10/22/19,PM,5,10
+Tanya,BY,5,10/23/19,PM,5,10
+Tanya,BY,5,10/24/19,PM,5,10
+Tanya,BY,0,10/25/19,PM,5,10
+Tanya,BY,0,10/26/19,PM,5,10
+Tanya,BY,0,10/27/19,PM,5,10
+Ilya,BY,8,10/28/19,CMG,5,10
+Ilya,BY,8,10/29/19,CMG,5,10
+Ilya,BY,8,10/30/19,CMG,5,10
+Ilya,BY,8,10/31/19,CMG,5,10
+Ilya,BY,8,11/1/19,CMG,5,10
+Ilya,BY,0,11/2/19,CMG,5,10
+Ilya,BY,0,11/3/19,CMG,5,10
+Andrey Polyakov,BY,5,10/28/19,NYRR,5,10
+Andrey Polyakov,BY,5,10/29/19,NYRR,5,10
+Andrey Polyakov,BY,5,10/30/19,NYRR,5,10
+Andrey Polyakov,BY,0,10/31/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/1/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/2/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/3/19,NYRR,5,10
+Alex V,BY,5,10/28/19,Thyaer,5,10
+Alex V,BY,5,10/29/19,Thyaer,5,10
+Alex V,BY,5,10/30/19,Thyaer,5,10
+Alex V,BY,6,10/31/19,Thyaer,5,10
+Alex V,BY,0,11/1/19,Thyaer,5,10
+Alex V,BY,0,11/2/19,Thyaer,5,10
+Alex V,BY,0,11/3/19,Thyaer,5,10
+Alex V,BY,5,10/28/19,Enforme,5,10
+Alex V,BY,5,10/29/19,Enforme,5,10
+Alex V,BY,5,10/30/19,Enforme,5,10
+Alex V,BY,0,10/31/19,Enforme,5,10
+Alex V,BY,0,11/1/19,Enforme,5,10
+Alex V,BY,0,11/2/19,Enforme,5,10
+Alex V,BY,0,11/3/19,Enforme,5,10
+Profit,US,2,10/28/19,Enforme,5,10
+Profit,US,0,10/29/19,Enforme,5,10
+Profit,US,0,10/30/19,Enforme,5,10
+Profit,US,0,10/31/19,Enforme,5,10
+Profit,US,0,11/1/19,Enforme,5,10
+Profit,US,0,11/2/19,Enforme,5,10
+Profit,US,0,11/3/19,Enforme,5,10
+Alex V,BY,0,10/28/19,Cresa,5,10
+Alex V,BY,0,10/29/19,Cresa,5,10
+Alex V,BY,0,10/30/19,Cresa,5,10
+Alex V,BY,0,10/31/19,Cresa,5,10
+Alex V,BY,4,11/1/19,Cresa,5,10
+Alex V,BY,0,11/2/19,Cresa,5,10
+Alex V,BY,0,11/3/19,Cresa,5,10
+Vlad,BY,8,10/28/19,TBG,5,10
+Vlad,BY,8,10/29/19,TBG,5,10
+Vlad,BY,8,10/30/19,TBG,5,10
+Vlad,BY,8,10/31/19,TBG,5,10
+Vlad,BY,4,11/1/19,TBG,5,10
+Vlad,BY,0,11/2/19,TBG,5,10
+Vlad,BY,0,11/3/19,TBG,5,10
+Profit,US,5,10/28/19,DMC,5,10
+Profit,US,0,10/29/19,DMC,5,10
+Profit,US,0,10/30/19,DMC,5,10
+Profit,US,0,10/31/19,DMC,5,10
+Profit,US,0,11/1/19,DMC,5,10
+Profit,US,0,11/2/19,DMC,5,10
+Profit,US,0,11/3/19,DMC,5,10
+Yuri Z,UA,5,10/28/19,CMG,5,10
+Yuri Z,UA,5,10/29/19,CMG,5,10
+Yuri Z,UA,5,10/30/19,CMG,5,10
+Yuri Z,UA,1,10/31/19,CMG,5,10
+Yuri Z,UA,0,11/1/19,CMG,5,10
+Yuri Z,UA,0,11/2/19,CMG,5,10
+Yuri Z,UA,0,11/3/19,CMG,5,10
+Dmytro,UA,5,10/28/19,CMG,5,10
+Dmytro,UA,5,10/29/19,CMG,5,10
+Dmytro,UA,5,10/30/19,CMG,5,10
+Dmytro,UA,5,10/31/19,CMG,5,10
+Dmytro,UA,0,11/1/19,CMG,5,10
+Dmytro,UA,0,11/2/19,CMG,5,10
+Dmytro,UA,0,11/3/19,CMG,5,10
+Andrey P ,UA,8,10/28/19,TBG,5,10
+Andrey P ,UA,8,10/29/19,TBG,5,10
+Andrey P ,UA,8,10/30/19,TBG,5,10
+Andrey P ,UA,10,10/31/19,TBG,5,10
+Andrey P ,UA,8,11/1/19,TBG,5,10
+Andrey P ,UA,0,11/2/19,TBG,5,10
+Andrey P ,UA,0,11/3/19,TBG,5,10
+Roman,UA,0,10/28/19,Cresa,5,10
+Roman,UA,0,10/29/19,Cresa,5,10
+Roman,UA,0,10/30/19,Cresa,5,10
+Roman,UA,0,10/31/19,Cresa,5,10
+Roman,UA,8,11/1/19,Cresa,5,10
+Roman,UA,8,11/2/19,Cresa,5,10
+Roman,UA,0,11/3/19,Cresa,5,10
+Alex HSL,UA,8,10/28/19,Cylogy,5,10
+Alex HSL,UA,8,10/29/19,Cylogy,5,10
+Alex HSL,UA,8,10/30/19,Cylogy,5,10
+Alex HSL,UA,8,10/31/19,Cylogy,5,10
+Alex HSL,UA,8,11/1/19,Cylogy,5,10
+Alex HSL,UA,0,11/2/19,Cylogy,5,10
+Alex HSL,UA,0,11/3/19,Cylogy,5,10
+Anton,UA,8,10/28/19,Sales,5,10
+Anton,UA,8,10/29/19,Sales,5,10
+Anton,UA,8,10/30/19,Sales,5,10
+Anton,UA,8,10/31/19,Sales,5,10
+Anton,UA,8,11/1/19,Sales,5,10
+Anton,UA,0,11/2/19,Sales,5,10
+Anton,UA,0,11/3/19,Sales,5,10
+Tanya,BY,5,10/28/19,PM,5,10
+Tanya,BY,0,10/29/19,PM,5,10
+Tanya,BY,0,10/30/19,PM,5,10
+Tanya,BY,0,10/31/19,PM,5,10
+Tanya,BY,0,11/1/19,PM,5,10
+Tanya,BY,0,11/2/19,PM,5,10
+Tanya,BY,0,11/3/19,PM,5,10
+Ilya,BY,4,11/4/19,CMG,5,10
+Ilya,BY,4,11/5/19,CMG,5,10
+Ilya,BY,0,11/6/19,CMG,5,10
+Ilya,BY,0,11/7/19,CMG,5,10
+Ilya,BY,0,11/8/19,CMG,5,10
+Ilya,BY,0,11/9/19,CMG,5,10
+Ilya,BY,0,11/10/19,CMG,5,10
+Andrey Polyakov,BY,4,11/4/19,NYRR,5,10
+Andrey Polyakov,BY,4,11/5/19,NYRR,5,10
+Andrey Polyakov,BY,4,11/6/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/7/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/8/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/9/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/10/19,NYRR,5,10
+Alex V,BY,5,11/4/19,Enforme,5,10
+Alex V,BY,5,11/5/19,Enforme,5,10
+Alex V,BY,5,11/6/19,Enforme,5,10
+Alex V,BY,5,11/7/19,Enforme,5,10
+Alex V,BY,4,11/8/19,Enforme,5,10
+Alex V,BY,0,11/9/19,Enforme,5,10
+Alex V,BY,0,11/10/19,Enforme,5,10
+Vlad,BY,5,11/4/19,TBG,5,10
+Vlad,BY,5,11/5/19,TBG,5,10
+Vlad,BY,5,11/6/19,TBG,5,10
+Vlad,BY,5,11/7/19,TBG,5,10
+Vlad,BY,4,11/8/19,TBG,5,10
+Vlad,BY,0,11/9/19,TBG,5,10
+Vlad,BY,0,11/10/19,TBG,5,10
+Dmytro,UA,5,11/4/19,CMG,5,10
+Dmytro,UA,5,11/5/19,CMG,5,10
+Dmytro,UA,5,11/6/19,CMG,5,10
+Dmytro,UA,5,11/7/19,CMG,5,10
+Dmytro,UA,0,11/8/19,CMG,5,10
+Dmytro,UA,0,11/9/19,CMG,5,10
+Dmytro,UA,0,11/10/19,CMG,5,10
+Anton O,UA,5,11/4/19,CMG,5,10
+Anton O,UA,5,11/5/19,CMG,5,10
+Anton O,UA,5,11/6/19,CMG,5,10
+Anton O,UA,5,11/7/19,CMG,5,10
+Anton O,UA,6,11/8/19,CMG,5,10
+Anton O,UA,0,11/9/19,CMG,5,10
+Anton O,UA,0,11/10/19,CMG,5,10
+Yuri Z,UA,4,11/4/19,CMG,5,10
+Yuri Z,UA,5,11/5/19,CMG,5,10
+Yuri Z,UA,0,11/6/19,CMG,5,10
+Yuri Z,UA,0,11/7/19,CMG,5,10
+Yuri Z,UA,0,11/8/19,CMG,5,10
+Yuri Z,UA,0,11/9/19,CMG,5,10
+Yuri Z,UA,0,11/10/19,CMG,5,10
+Andrey P ,UA,8,11/4/19,TBG,5,10
+Andrey P ,UA,8,11/5/19,TBG,5,10
+Andrey P ,UA,8,11/6/19,TBG,5,10
+Andrey P ,UA,8,11/7/19,TBG,5,10
+Andrey P ,UA,10,11/8/19,TBG,5,10
+Andrey P ,UA,0,11/9/19,TBG,5,10
+Andrey P ,UA,0,11/10/19,TBG,5,10
+Roman,UA,4,11/4/19,MyMax,5,10
+Roman,UA,4,11/5/19,MyMax,5,10
+Roman,UA,0,11/6/19,MyMax,5,10
+Roman,UA,0,11/7/19,MyMax,5,10
+Roman,UA,0,11/8/19,MyMax,5,10
+Roman,UA,0,11/9/19,MyMax,5,10
+Roman,UA,0,11/10/19,MyMax,5,10
+Roman,UA,8,11/4/19,Cresa,5,10
+Roman,UA,8,11/5/19,Cresa,5,10
+Roman,UA,8,11/6/19,Cresa,5,10
+Roman,UA,8,11/7/19,Cresa,5,10
+Roman,UA,0,11/8/19,Cresa,5,10
+Roman,UA,0,11/9/19,Cresa,5,10
+Roman,UA,0,11/10/19,Cresa,5,10
+Anton,UA,8,11/4/19,Sales,5,10
+Anton,UA,8,11/5/19,Sales,5,10
+Anton,UA,8,11/6/19,Sales,5,10
+Anton,UA,8,11/7/19,Sales,5,10
+Anton,UA,8,11/8/19,Sales,5,10
+Anton,UA,0,11/9/19,Sales,5,10
+Anton,UA,0,11/10/19,Sales,5,10
+Tanya,BY,3.5,11/4/19,PM,5,10
+Tanya,BY,0,11/5/19,PM,5,10
+Tanya,BY,0,11/6/19,PM,5,10
+Tanya,BY,0,11/7/19,PM,5,10
+Tanya,BY,0,11/8/19,PM,5,10
+Tanya,BY,0,11/9/19,PM,5,10
+Tanya,BY,0,11/10/19,PM,5,10
+Alex V,BY,2,11/11/19,DMC,5,10
+Alex V,BY,0,11/12/19,DMC,5,10
+Alex V,BY,0,11/13/19,DMC,5,10
+Alex V,BY,0,11/14/19,DMC,5,10
+Alex V,BY,0,11/15/19,DMC,5,10
+Alex V,BY,0,11/16/19,DMC,5,10
+Alex V,BY,0,11/17/19,DMC,5,10
+Profit,US,8,11/11/19,DMC,5,10
+Profit,US,0,11/12/19,DMC,5,10
+Profit,US,0,11/13/19,DMC,5,10
+Profit,US,0,11/14/19,DMC,5,10
+Profit,US,0,11/15/19,DMC,5,10
+Profit,US,0,11/16/19,DMC,5,10
+Profit,US,0,11/17/19,DMC,5,10
+Alex V,BY,8,11/11/19,Enforme,5,10
+Alex V,BY,8,11/12/19,Enforme,5,10
+Alex V,BY,8,11/13/19,Enforme,5,10
+Alex V,BY,8,11/14/19,Enforme,5,10
+Alex V,BY,8,11/15/19,Enforme,5,10
+Alex V,BY,0,11/16/19,Enforme,5,10
+Alex V,BY,0,11/17/19,Enforme,5,10
+Ilya,BY,6,11/11/19,CMG,5,10
+Ilya,BY,6,11/12/19,CMG,5,10
+Ilya,BY,4,11/13/19,CMG,5,10
+Ilya,BY,0,11/14/19,CMG,5,10
+Ilya,BY,0,11/15/19,CMG,5,10
+Ilya,BY,0,11/16/19,CMG,5,10
+Ilya,BY,0,11/17/19,CMG,5,10
+Andrey Polyakov,BY,5,11/11/19,NYRR,5,10
+Andrey Polyakov,BY,5,11/12/19,NYRR,5,10
+Andrey Polyakov,BY,5,11/13/19,NYRR,5,10
+Andrey Polyakov,BY,5,11/14/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/15/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/16/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/17/19,NYRR,5,10
+Alex V,BY,1,11/11/19,Cresa,5,10
+Alex V,BY,0,11/12/19,Cresa,5,10
+Alex V,BY,0,11/13/19,Cresa,5,10
+Alex V,BY,0,11/14/19,Cresa,5,10
+Alex V,BY,0,11/15/19,Cresa,5,10
+Alex V,BY,0,11/16/19,Cresa,5,10
+Alex V,BY,0,11/17/19,Cresa,5,10
+Vlad,BY,9,11/11/19,TBG,5,10
+Vlad,BY,9,11/12/19,TBG,5,10
+Vlad,BY,9,11/13/19,TBG,5,10
+Vlad,BY,9,11/14/19,TBG,5,10
+Vlad,BY,8,11/15/19,TBG,5,10
+Vlad,BY,0,11/16/19,TBG,5,10
+Vlad,BY,0,11/17/19,TBG,5,10
+Anton O,UA,6,11/11/19,CMG,5,10
+Anton O,UA,6,11/12/19,CMG,5,10
+Anton O,UA,0,11/13/19,CMG,5,10
+Anton O,UA,0,11/14/19,CMG,5,10
+Anton O,UA,0,11/15/19,CMG,5,10
+Anton O,UA,0,11/16/19,CMG,5,10
+Anton O,UA,0,11/17/19,CMG,5,10
+Dmytro,UA,8,11/11/19,CMG,5,10
+Dmytro,UA,8,11/12/19,CMG,5,10
+Dmytro,UA,8,11/13/19,CMG,5,10
+Dmytro,UA,8,11/14/19,CMG,5,10
+Dmytro,UA,0,11/15/19,CMG,5,10
+Dmytro,UA,0,11/16/19,CMG,5,10
+Dmytro,UA,0,11/17/19,CMG,5,10
+Alex HSL,UA,8,11/11/19,Cylogy,5,10
+Alex HSL,UA,8,11/12/19,Cylogy,5,10
+Alex HSL,UA,8,11/13/19,Cylogy,5,10
+Alex HSL,UA,8,11/14/19,Cylogy,5,10
+Alex HSL,UA,8,11/15/19,Cylogy,5,10
+Alex HSL,UA,0,11/16/19,Cylogy,5,10
+Alex HSL,UA,0,11/17/19,Cylogy,5,10
+Andrey P ,UA,8,11/11/19,TBG,5,10
+Andrey P ,UA,8,11/12/19,TBG,5,10
+Andrey P ,UA,8,11/13/19,TBG,5,10
+Andrey P ,UA,8,11/14/19,TBG,5,10
+Andrey P ,UA,8,11/15/19,TBG,5,10
+Andrey P ,UA,0,11/16/19,TBG,5,10
+Andrey P ,UA,0,11/17/19,TBG,5,10
+Roman,UA,8,11/11/19,Cresa,5,10
+Roman,UA,8,11/12/19,Cresa,5,10
+Roman,UA,8,11/13/19,Cresa,5,10
+Roman,UA,8,11/14/19,Cresa,5,10
+Roman,UA,8,11/15/19,Cresa,5,10
+Roman,UA,0,11/16/19,Cresa,5,10
+Roman,UA,0,11/17/19,Cresa,5,10
+Anton,UA,8,11/11/19,Sales,5,10
+Anton,UA,8,11/12/19,Sales,5,10
+Anton,UA,8,11/13/19,Sales,5,10
+Anton,UA,8,11/14/19,Sales,5,10
+Anton,UA,8,11/15/19,Sales,5,10
+Anton,UA,0,11/16/19,Sales,5,10
+Anton,UA,0,11/17/19,Sales,5,10
+Tanya,BY,3,11/11/19,PM,5,10
+Tanya,BY,3.5,11/12/19,PM,5,10
+Tanya,BY,0,11/13/19,PM,5,10
+Tanya,BY,0,11/14/19,PM,5,10
+Tanya,BY,0,11/15/19,PM,5,10
+Tanya,BY,0,11/16/19,PM,5,10
+Tanya,BY,0,11/17/19,PM,5,10
+Alex V,BY,5,11/18/19,JAX,5,10
+Alex V,BY,0,11/19/19,JAX,5,10
+Alex V,BY,0,11/20/19,JAX,5,10
+Alex V,BY,0,11/21/19,JAX,5,10
+Alex V,BY,0,11/22/19,JAX,5,10
+Alex V,BY,0,11/23/19,JAX,5,10
+Alex V,BY,0,11/24/19,JAX,5,10
+Andrey Polyakov,BY,5,11/18/19,NYRR,5,10
+Andrey Polyakov,BY,5,11/19/19,NYRR,5,10
+Andrey Polyakov,BY,5,11/20/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/21/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/22/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/23/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/24/19,NYRR,5,10
+Alex V,BY,0,11/18/19,Thayer,5,10
+Alex V,BY,6,11/19/19,Thayer,5,10
+Alex V,BY,0,11/20/19,Thayer,5,10
+Alex V,BY,0,11/21/19,Thayer,5,10
+Alex V,BY,0,11/22/19,Thayer,5,10
+Alex V,BY,0,11/23/19,Thayer,5,10
+Alex V,BY,0,11/24/19,Thayer,5,10
+Vlad,BY,8,11/18/19,TBG,5,10
+Vlad,BY,8,11/19/19,TBG,5,10
+Vlad,BY,8,11/20/19,TBG,5,10
+Vlad,BY,8,11/21/19,TBG,5,10
+Vlad,BY,9,11/22/19,TBG,5,10
+Vlad,BY,0,11/23/19,TBG,5,10
+Vlad,BY,0,11/24/19,TBG,5,10
+Alex V,BY,0,11/18/19,Cresa,5,10
+Alex V,BY,0,11/19/19,Cresa,5,10
+Alex V,BY,2,11/20/19,Cresa,5,10
+Alex V,BY,0,11/21/19,Cresa,5,10
+Alex V,BY,0,11/22/19,Cresa,5,10
+Alex V,BY,0,11/23/19,Cresa,5,10
+Alex V,BY,0,11/24/19,Cresa,5,10
+Alex V,BY,5,11/18/19,Enforme,5,10
+Alex V,BY,5,11/19/19,Enforme,5,10
+Alex V,BY,5,11/20/19,Enforme,5,10
+Alex V,BY,5,11/21/19,Enforme,5,10
+Alex V,BY,7,11/22/19,Enforme,5,10
+Alex V,BY,0,11/23/19,Enforme,5,10
+Alex V,BY,0,11/24/19,Enforme,5,10
+Ilya,BY,5,11/18/19,CMG,5,10
+Ilya,BY,5,11/19/19,CMG,5,10
+Ilya,BY,4,11/20/19,CMG,5,10
+Ilya,BY,0,11/21/19,CMG,5,10
+Ilya,BY,0,11/22/19,CMG,5,10
+Ilya,BY,0,11/23/19,CMG,5,10
+Ilya,BY,0,11/24/19,CMG,5,10
+Dmytro,UA,8,11/18/19,CMG,5,10
+Dmytro,UA,8,11/19/19,CMG,5,10
+Dmytro,UA,8,11/20/19,CMG,5,10
+Dmytro,UA,8,11/21/19,CMG,5,10
+Dmytro,UA,10,11/22/19,CMG,5,10
+Dmytro,UA,0,11/23/19,CMG,5,10
+Dmytro,UA,0,11/24/19,CMG,5,10
+Anton O,UA,5,11/18/19,CMG,5,10
+Anton O,UA,5,11/19/19,CMG,5,10
+Anton O,UA,5,11/20/19,CMG,5,10
+Anton O,UA,5,11/21/19,CMG,5,10
+Anton O,UA,6,11/22/19,CMG,5,10
+Anton O,UA,0,11/23/19,CMG,5,10
+Anton O,UA,0,11/24/19,CMG,5,10
+Yuri Z,UA,6,11/18/19,CMG,5,10
+Yuri Z,UA,7.5,11/19/19,CMG,5,10
+Yuri Z,UA,0,11/20/19,CMG,5,10
+Yuri Z,UA,0,11/21/19,CMG,5,10
+Yuri Z,UA,0,11/22/19,CMG,5,10
+Yuri Z,UA,0,11/23/19,CMG,5,10
+Yuri Z,UA,0,11/24/19,CMG,5,10
+Alex HSL,UA,8,11/18/19,Cylogy,5,10
+Alex HSL,UA,8,11/19/19,Cylogy,5,10
+Alex HSL,UA,8,11/20/19,Cylogy,5,10
+Alex HSL,UA,8,11/21/19,Cylogy,5,10
+Alex HSL,UA,8,11/22/19,Cylogy,5,10
+Alex HSL,UA,0,11/23/19,Cylogy,5,10
+Alex HSL,UA,0,11/24/19,Cylogy,5,10
+Andrey P ,UA,8,11/18/19,TBG,5,10
+Andrey P ,UA,8,11/19/19,TBG,5,10
+Andrey P ,UA,8,11/20/19,TBG,5,10
+Andrey P ,UA,8,11/21/19,TBG,5,10
+Andrey P ,UA,10,11/22/19,TBG,5,10
+Andrey P ,UA,0,11/23/19,TBG,5,10
+Andrey P ,UA,0,11/24/19,TBG,5,10
+Roman,UA,0,11/18/19,Enforme,5,10
+Roman,UA,0,11/19/19,Enforme,5,10
+Roman,UA,0,11/20/19,Enforme,5,10
+Roman,UA,8,11/21/19,Enforme,5,10
+Roman,UA,0,11/22/19,Enforme,5,10
+Roman,UA,0,11/23/19,Enforme,5,10
+Roman,UA,0,11/24/19,Enforme,5,10
+Vitaliy P,UA,7,11/18/19,Enforme,5,10
+Vitaliy P,UA,0,11/19/19,Enforme,5,10
+Vitaliy P,UA,0,11/20/19,Enforme,5,10
+Vitaliy P,UA,0,11/21/19,Enforme,5,10
+Vitaliy P,UA,0,11/22/19,Enforme,5,10
+Vitaliy P,UA,0,11/23/19,Enforme,5,10
+Vitaliy P,UA,0,11/24/19,Enforme,5,10
+Roman,UA,6,11/18/19,Cresa,5,10
+Roman,UA,6,11/19/19,Cresa,5,10
+Roman,UA,6,11/20/19,Cresa,5,10
+Roman,UA,6,11/21/19,Cresa,5,10
+Roman,UA,3,11/22/19,Cresa,5,10
+Roman,UA,0,11/23/19,Cresa,5,10
+Roman,UA,0,11/24/19,Cresa,5,10
+Anton,UA,8,11/18/19,Sales,5,10
+Anton,UA,8,11/19/19,Sales,5,10
+Anton,UA,8,11/20/19,Sales,5,10
+Anton,UA,8,11/21/19,Sales,5,10
+Anton,UA,8,11/22/19,Sales,5,10
+Anton,UA,0,11/23/19,Sales,5,10
+Anton,UA,0,11/24/19,Sales,5,10
+Tanya,BY,2,11/18/19,PM,5,10
+Tanya,BY,2,11/19/19,PM,5,10
+Tanya,BY,2,11/20/19,PM,5,10
+Tanya,BY,1,11/21/19,PM,5,10
+Tanya,BY,0,11/22/19,PM,5,10
+Tanya,BY,0,11/23/19,PM,5,10
+Tanya,BY,0,11/24/19,PM,5,10
+Alex V,BY,6,11/25/19,Enforme,5,10
+Alex V,BY,6,11/26/19,Enforme,5,10
+Alex V,BY,6,11/27/19,Enforme,5,10
+Alex V,BY,6,11/28/19,Enforme,5,10
+Alex V,BY,0,11/29/19,Enforme,5,10
+Alex V,BY,0,11/30/19,Enforme,5,10
+Alex V,BY,0,12/1/19,Enforme,5,10
+Alex V,BY,4,11/25/19,Icreon,5,10
+Alex V,BY,4,11/26/19,Icreon,5,10
+Alex V,BY,4,11/27/19,Icreon,5,10
+Alex V,BY,4,11/28/19,Icreon,5,10
+Alex V,BY,0,11/29/19,Icreon,5,10
+Alex V,BY,0,11/30/19,Icreon,5,10
+Alex V,BY,0,12/1/19,Icreon,5,10
+Andrey Polyakov,BY,5,11/25/19,NYRR,5,10
+Andrey Polyakov,BY,5,11/26/19,NYRR,5,10
+Andrey Polyakov,BY,5,11/27/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/28/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/29/19,NYRR,5,10
+Andrey Polyakov,BY,0,11/30/19,NYRR,5,10
+Andrey Polyakov,BY,0,12/1/19,NYRR,5,10
+Ilya,BY,5,11/25/19,CMG,5,10
+Ilya,BY,5,11/26/19,CMG,5,10
+Ilya,BY,5,11/27/19,CMG,5,10
+Ilya,BY,5,11/28/19,CMG,5,10
+Ilya,BY,6,11/29/19,CMG,5,10
+Ilya,BY,0,11/30/19,CMG,5,10
+Ilya,BY,0,12/1/19,CMG,5,10
+Vlad,BY,8,11/25/19,TBG,5,10
+Vlad,BY,8,11/26/19,TBG,5,10
+Vlad,BY,8,11/27/19,TBG,5,10
+Vlad,BY,8,11/28/19,TBG,5,10
+Vlad,BY,9,11/29/19,TBG,5,10
+Vlad,BY,0,11/30/19,TBG,5,10
+Vlad,BY,0,12/1/19,TBG,5,10
+Andrey P ,UA,8,11/25/19,TBG,5,10
+Andrey P ,UA,8,11/26/19,TBG,5,10
+Andrey P ,UA,8,11/27/19,TBG,5,10
+Andrey P ,UA,8,11/28/19,TBG,5,10
+Andrey P ,UA,10,11/29/19,TBG,5,10
+Andrey P ,UA,0,11/30/19,TBG,5,10
+Andrey P ,UA,0,12/1/19,TBG,5,10
+Roman,UA,8,11/25/19,DMC,5,10
+Roman,UA,8,11/26/19,DMC,5,10
+Roman,UA,8,11/27/19,DMC,5,10
+Roman,UA,8,11/28/19,DMC,5,10
+Roman,UA,0,11/29/19,DMC,5,10
+Roman,UA,0,11/30/19,DMC,5,10
+Roman,UA,0,12/1/19,DMC,5,10
+Bucket,US,5,11/25/19,DMC,5,10
+Bucket,US,5,11/26/19,DMC,5,10
+Bucket,US,5,11/27/19,DMC,5,10
+Bucket,US,5,11/28/19,DMC,5,10
+Bucket,US,6,11/29/19,DMC,5,10
+Bucket,US,0,11/30/19,DMC,5,10
+Bucket,US,0,12/1/19,DMC,5,10
+Dmytro,UA,8,11/25/19,CMG,5,10
+Dmytro,UA,10,11/26/19,CMG,5,10
+Dmytro,UA,8,11/27/19,CMG,5,10
+Dmytro,UA,8,11/28/19,CMG,5,10
+Dmytro,UA,9,11/29/19,CMG,5,10
+Dmytro,UA,0,11/30/19,CMG,5,10
+Dmytro,UA,0,12/1/19,CMG,5,10
+Yuri Z,UA,4,11/25/19,CMG,5,10
+Yuri Z,UA,5,11/26/19,CMG,5,10
+Yuri Z,UA,0,11/27/19,CMG,5,10
+Yuri Z,UA,0,11/28/19,CMG,5,10
+Yuri Z,UA,0,11/29/19,CMG,5,10
+Yuri Z,UA,0,11/30/19,CMG,5,10
+Yuri Z,UA,0,12/1/19,CMG,5,10
+Anton O,UA,0,11/25/19,CMG,5,10
+Anton O,UA,0,11/26/19,CMG,5,10
+Anton O,UA,0,11/27/19,CMG,5,10
+Anton O,UA,3,11/28/19,CMG,5,10
+Anton O,UA,0,11/29/19,CMG,5,10
+Anton O,UA,0,11/30/19,CMG,5,10
+Anton O,UA,0,12/1/19,CMG,5,10
+Alex HSL,UA,8,11/25/19,Cylogy,5,10
+Alex HSL,UA,8,11/26/19,Cylogy,5,10
+Alex HSL,UA,8,11/27/19,Cylogy,5,10
+Alex HSL,UA,8,11/28/19,Cylogy,5,10
+Alex HSL,UA,8,11/29/19,Cylogy,5,10
+Alex HSL,UA,0,11/30/19,Cylogy,5,10
+Alex HSL,UA,0,12/1/19,Cylogy,5,10
+Vitaliy P,UA,0,11/25/19,Enforme,5,10
+Vitaliy P,UA,0,11/26/19,Enforme,5,10
+Vitaliy P,UA,0,11/27/19,Enforme,5,10
+Vitaliy P,UA,3,11/28/19,Enforme,5,10
+Vitaliy P,UA,0,11/29/19,Enforme,5,10
+Vitaliy P,UA,0,11/30/19,Enforme,5,10
+Vitaliy P,UA,0,12/1/19,Enforme,5,10
+Roman,UA,0,11/25/19,Enforme,5,10
+Roman,UA,0,11/26/19,Enforme,5,10
+Roman,UA,0,11/27/19,Enforme,5,10
+Roman,UA,8,11/28/19,Enforme,5,10
+Roman,UA,0,11/29/19,Enforme,5,10
+Roman,UA,0,11/30/19,Enforme,5,10
+Roman,UA,0,12/1/19,Enforme,5,10
+Anton,UA,8,11/25/19,Sales,5,10
+Anton,UA,8,11/26/19,Sales,5,10
+Anton,UA,8,11/27/19,Sales,5,10
+Anton,UA,8,11/28/19,Sales,5,10
+Anton,UA,8,11/29/19,Sales,5,10
+Anton,UA,0,11/30/19,Sales,5,10
+Anton,UA,0,12/1/19,Sales,5,10
+Tanya,BY,4,11/25/19,PM,5,10
+Tanya,BY,0,11/26/19,PM,5,10
+Tanya,BY,0,11/27/19,PM,5,10
+Tanya,BY,0,11/28/19,PM,5,10
+Tanya,BY,0,11/29/19,PM,5,10
+Tanya,BY,0,11/30/19,PM,5,10
+Tanya,BY,0,12/1/19,PM,5,10
+Adjustment,US,1105,11/25/19,CMG,5,10
+Adjustment,US,0,11/26/19,CMG,5,10
+Adjustment,US,0,11/27/19,CMG,5,10
+Adjustment,US,0,11/28/19,CMG,5,10
+Adjustment,US,0,11/29/19,CMG,5,10
+Adjustment,US,0,11/30/19,CMG,5,10
+Adjustment,US,0,12/1/19,CMG,5,10
+Adjustment,US,16,11/25/19,Cresa,5,10
+Adjustment,US,16,11/26/19,Cresa,5,10
+Adjustment,US,16,11/27/19,Cresa,5,10
+Adjustment,US,16,11/28/19,Cresa,5,10
+Adjustment,US,16,11/29/19,Cresa,5,10
+Adjustment,US,1,11/30/19,Cresa,5,10
+Adjustment,US,0,12/1/19,Cresa,5,10
+Bucket,US,2000,11/25/19,JAX,5,10
+Bucket,US,0,11/26/19,JAX,5,10
+Bucket,US,0,11/27/19,JAX,5,10
+Bucket,US,0,11/28/19,JAX,5,10
+Bucket,US,0,11/29/19,JAX,5,10
+Bucket,US,0,11/30/19,JAX,5,10
+Bucket,US,0,12/1/19,JAX,5,10
+Profit,US,5,11/25/19,MyMax,5,10
+Profit,US,5,11/26/19,MyMax,5,10
+Profit,US,5,11/27/19,MyMax,5,10
+Profit,US,5,11/28/19,MyMax,5,10
+Profit,US,5,11/29/19,MyMax,5,10
+Profit,US,0,11/30/19,MyMax,5,10
+Profit,US,0,12/1/19,MyMax,5,10
+Profit,US,4,11/25/19,Thayer,5,10
+Profit,US,4,11/26/19,Thayer,5,10
+Profit,US,4,11/27/19,Thayer,5,10
+Profit,US,3,11/28/19,Thayer,5,10
+Profit,US,0,11/29/19,Thayer,5,10
+Profit,US,0,11/30/19,Thayer,5,10
+Profit,US,0,12/1/19,Thayer,5,10

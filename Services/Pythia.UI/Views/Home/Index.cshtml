@@ -1,0 +1,38 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Upload Product Information</h2>
+<hr />
+    <div id="body">
+
+        <form method="post" action="~/Upload/Post" enctype="multipart/form-data">
+            
+                <label>CSV File </label>
+
+                <input name="myFile" type="file" style="margin-top:20px"/>
+                <input type="submit" class="btn btn-success"  value="Upload" style="margin-top:10px"/>
+          
+        </form>
+    </div>
+
+    <div>
+        <h2>Search for Products by ZipCode</h2>
+        <hr />
+        <form method="post" action="~/Upload/GetProductsByZip" enctype="multipart/form-data">
+            <label>Zip Code</label>
+            <input type="text" name="Zip" id="zip" maxlength="15" />
+            <input type="submit" value="Search" class="btn btn-success" />
+        </form>
+    </div>
+
+<div style="margin-bottom:25px;">
+    <h2>Return All Services</h2>
+    <hr />
+
+    <p>Ordered by Zip and City</p>
+    <form method="get" action="~/Upload/GetServices" enctype="multipart/form-data">
+       
+        <input type="submit"  value="Get Services" class="btn btn-success" />
+    </form>
+</div>

@@ -1,0 +1,64 @@
+﻿@model List<Pythia.Models.Responses.ProductResponse>
+
+@{
+    ViewBag.Title = "ProductResults";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Product Results for Zip @ViewBag.Zip</h2>
+
+
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            Zip
+        </th>
+        <th>
+            Type
+        </th>
+        <th>
+            Plan
+        </th>
+        <th>
+            Service
+        </th>
+        <th>
+           Product Name
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Cost
+        </th>
+       
+    </tr>
+
+@foreach (var item in Model.OrderByDescending(n => n.Servicename)) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ZipCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TypeName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PlanName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Servicename)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductCost)
+        </td>
+        
+    </tr>
+}
+
+</table>

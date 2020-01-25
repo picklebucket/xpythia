@@ -1,214 +1,112 @@
 {
   "invoiceout": [
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Juan Freeman",
-      "hours": "102"
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
+      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Lori Perkins",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 1
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Juan Freeman",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Juan Freeman",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 1
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Juan Freeman",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Juan Freeman",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     },
     {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
+      "id": 0,
+      "date": "23/11/2020",
+      "project": "Test Proj 1",
+      "client": "Christina Thomas",
       "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
-    },
-    {
-      "id": "0",
-      "date": "Test Proj 1",
-      "project": "Christina Thomas",
-      "description": "Maecenas auctor bibendum placerat. Donec efficitur erat at felis dapibus sollicitudin.",
-      "hours": "102"
+      "hours": "102",
+      "status": 0
     }
   ]
 }

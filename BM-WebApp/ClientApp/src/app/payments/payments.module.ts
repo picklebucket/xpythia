@@ -5,6 +5,7 @@ import { InvoiceinComponent } from './components/invoicein/invoicein.component';
 import { PaymentsRoutingModule } from '../payments/payments-routing.module';
 import { SharedModule } from '../shared/shared.module';
 import { TimeEntryComponent } from './components/time-entry/time-entry.component';
+import { PaymentsService } from '../core/payments.service';
 
 @NgModule({
   imports: [
@@ -12,6 +13,7 @@ import { TimeEntryComponent } from './components/time-entry/time-entry.component
     PaymentsRoutingModule,
     SharedModule
   ],
-  declarations: [InvoiceoutComponent, InvoiceinComponent, TimeEntryComponent]
+  declarations: [InvoiceoutComponent, InvoiceinComponent, TimeEntryComponent],
+  providers: [PaymentsService]
 })
 export class PaymentsModule { }

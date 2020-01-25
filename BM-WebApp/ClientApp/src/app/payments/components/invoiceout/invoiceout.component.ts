@@ -7,7 +7,7 @@ import { Invoice } from '../../Invoice';
   selector: 'app-invoiceout',
   templateUrl: './invoiceout.component.html',
   styleUrls: ['./invoiceout.component.css'],
-  providers: [PaymentsService]
+  //providers: [PaymentsService]
 })
 export class InvoiceoutComponent implements OnInit {
   invoices: Invoice;

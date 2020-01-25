@@ -24,19 +24,28 @@
 
   <ItemGroup>
     <!-- Don't publish the SPA source files, but do show them in the project files list -->
+    <Compile Remove="ClientApp\src\app\financial-report\components\**" />
     <Compile Remove="ClientApp\src\app\service\**" />
     <Content Remove="$(SpaRoot)**" />
+    <Content Remove="ClientApp\src\app\financial-report\components\**" />
     <Content Remove="ClientApp\src\app\service\**" />
     <None Include="$(SpaRoot)**" Exclude="$(SpaRoot)node_modules\**" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Remove="ClientApp\src\app\financial-report\components\**" />
     <EmbeddedResource Remove="ClientApp\src\app\service\**" />
+    <None Remove="ClientApp\src\app\financial-report\components\**" />
     <None Remove="ClientApp\src\app\service\**" />
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="ClientApp\src\app\app-routing.module.ts" />
+    <None Remove="ClientApp\src\app\core\invoice.enum.ts" />
+    <None Remove="ClientApp\src\app\core\invoices.service.spec.ts" />
+    <None Remove="ClientApp\src\app\core\invoices.service.spec.ts" />
+    <None Remove="ClientApp\src\app\core\invoices.service.ts" />
+    <None Remove="ClientApp\src\app\core\invoices.service.ts" />
     <None Remove="ClientApp\src\app\core\payments.service.ts" />
     <None Remove="ClientApp\src\app\core\personnel.service.ts" />
     <None Remove="ClientApp\src\app\core\project.service.ts" />
@@ -62,6 +71,7 @@
 
   <ItemGroup>
     <TypeScriptCompile Include="ClientApp\src\app\app-routing.module.ts" />
+    <TypeScriptCompile Include="ClientApp\src\app\payments\invoice.enum.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\core\payments.service.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\core\personnel.service.ts" />
     <TypeScriptCompile Include="ClientApp\src\app\core\project.service.ts" />
@@ -93,7 +103,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ClientApp\src\app\financial-report\components\" />
     <Folder Include="ClientApp\src\app\payments\components\" />
     <Folder Include="ClientApp\src\app\taxes\components\" />
   </ItemGroup>

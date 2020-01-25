@@ -15,8 +15,8 @@ import { GrossDifferenceComponent } from './components/gross-difference/gross-di
 import { HoursWorkedComparisonMonthComponent } from './components/hours-worked-comparison-month/hours-worked-comparison-month.component';
 import { ProjectsActiveNumberComponent } from './components/projects-active-number/projects-active-number.component';
 import { ProfitPercentPrevQuarterComparisonComponent } from './components/profit-percent-prev-quarter-comparison/profit-percent-prev-quarter-comparison.component';
-
-
+import { InvoicesOverviewComponent } from './components/invoices-overview/invoices-overview.component';
+import { HomeService } from '../core/home.service';
 
 
 @NgModule({
@@ -24,6 +24,11 @@ import { ProfitPercentPrevQuarterComparisonComponent } from './components/profit
     HomeRoutingModule,
     SharedModule
   ],
-  declarations: [HomeComponent, ChartComponent, TotalProjectsActiveComponent, TotalHoursComponent, TimelineComponent, CurrentMonthProfitComponent, LocationMapComponent, HoursWorkedComparisonComponent, TotalGrossSalesComponent, GrossDifferenceComponent, HoursWorkedComparisonMonthComponent, ProjectsActiveNumberComponent, ProfitPercentPrevQuarterComparisonComponent]
+  declarations: [HomeComponent, ChartComponent, TotalProjectsActiveComponent, TotalHoursComponent,
+    TimelineComponent, CurrentMonthProfitComponent, LocationMapComponent, HoursWorkedComparisonComponent,
+    TotalGrossSalesComponent, GrossDifferenceComponent, HoursWorkedComparisonMonthComponent,
+    ProjectsActiveNumberComponent, ProfitPercentPrevQuarterComparisonComponent, InvoicesOverviewComponent
+  ],
+  providers: [HomeService],
 })
 export class HomeModule { }

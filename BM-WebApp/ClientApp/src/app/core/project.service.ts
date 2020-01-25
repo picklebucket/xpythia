@@ -5,7 +5,9 @@ import { Project } from '../project/project';
 import { Http, Response } from '@angular/http';
 import { Observable } from 'rxjs';
 
-@Injectable()
+@Injectable({
+  providedIn: 'root',
+})
 export class ProjectService {
 
   constructor(private http: HttpClient) {

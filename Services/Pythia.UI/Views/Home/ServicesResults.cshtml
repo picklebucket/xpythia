@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Pythia.Models.Responses.ServiceResponse>
+
+@{
+    ViewBag.Title = "ServicesResults";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>All Services</h2>
+
+
+<table class="table table-striped table-striped" >
+    <tr>
+        <th>
+            Zip Code
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            Type
+        </th>
+        <th>
+            Plan
+        </th>
+        <th>
+            Service
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Zip)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Type)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Plan)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Service)
+        </td>
+
+        
+    </tr>
+}
+
+</table>
